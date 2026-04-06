@@ -46,7 +46,7 @@ This is a well built product, and your search for the best IMDb API ends right h
 ## Quick Start
 
 ```bash
-curl -X GET "https://imdb-scraper-api.omkar.cloud/imdb-scraper/search?query=The%20Shawshank%20Redemption" \
+curl -X GET "https://imdb-scraper-api.omkar.cloud/imdb/search?query=The%20Shawshank%20Redemption" \
   -H "API-Key: YOUR_API_KEY"
 ```
 
@@ -82,7 +82,7 @@ pip install requests
 import requests
 
 response = requests.get(
-    "https://imdb-scraper-api.omkar.cloud/imdb-scraper/search",
+    "https://imdb-scraper-api.omkar.cloud/imdb/search",
     params={"query": "The Shawshank Redemption"},
     headers={"API-Key": "YOUR_API_KEY"}
 )
@@ -96,7 +96,7 @@ print(response.json())
 ### Search
 
 ```
-GET https://imdb-scraper-api.omkar.cloud/imdb-scraper/search
+GET https://imdb-scraper-api.omkar.cloud/imdb/search
 ```
 
 #### Parameters
@@ -113,7 +113,7 @@ GET https://imdb-scraper-api.omkar.cloud/imdb-scraper/search
 import requests
 
 response = requests.get(
-    "https://imdb-scraper-api.omkar.cloud/imdb-scraper/search",
+    "https://imdb-scraper-api.omkar.cloud/imdb/search",
     params={"query": "The Shawshank Redemption"},
     headers={"API-Key": "YOUR_API_KEY"}
 )
@@ -177,7 +177,7 @@ print(response.json())
 ### Title Details
 
 ```
-GET https://imdb-scraper-api.omkar.cloud/imdb-scraper/title/details
+GET https://imdb-scraper-api.omkar.cloud/imdb/title/details
 ```
 
 #### Parameters
@@ -192,7 +192,7 @@ GET https://imdb-scraper-api.omkar.cloud/imdb-scraper/title/details
 import requests
 
 response = requests.get(
-    "https://imdb-scraper-api.omkar.cloud/imdb-scraper/title/details",
+    "https://imdb-scraper-api.omkar.cloud/imdb/title/details",
     params={"imdb_id": "tt0111161"},
     headers={"API-Key": "YOUR_API_KEY"}
 )
@@ -325,7 +325,7 @@ Returns everything from Search, plus directors, writers, and full cast & crew wi
 ### Title Cast
 
 ```
-GET https://imdb-scraper-api.omkar.cloud/imdb-scraper/title/cast
+GET https://imdb-scraper-api.omkar.cloud/imdb/title/cast
 ```
 
 #### Parameters
@@ -340,7 +340,7 @@ GET https://imdb-scraper-api.omkar.cloud/imdb-scraper/title/cast
 import requests
 
 response = requests.get(
-    "https://imdb-scraper-api.omkar.cloud/imdb-scraper/title/cast",
+    "https://imdb-scraper-api.omkar.cloud/imdb/title/cast",
     params={"imdb_id": "tt0111161"},
     headers={"API-Key": "YOUR_API_KEY"}
 )
@@ -442,7 +442,7 @@ Returns the complete cast & crew list — every actor, director, writer, produce
 ### Most Popular Movies
 
 ```
-GET https://imdb-scraper-api.omkar.cloud/imdb-scraper/most-popular-movies
+GET https://imdb-scraper-api.omkar.cloud/imdb/most-popular-movies
 ```
 
 #### Parameters
@@ -455,7 +455,7 @@ No parameters required.
 import requests
 
 response = requests.get(
-    "https://imdb-scraper-api.omkar.cloud/imdb-scraper/most-popular-movies",
+    "https://imdb-scraper-api.omkar.cloud/imdb/most-popular-movies",
     headers={"API-Key": "YOUR_API_KEY"}
 )
 
@@ -554,7 +554,7 @@ print(response.json())
 
 ```python
 response = requests.get(
-    "https://imdb-scraper-api.omkar.cloud/imdb-scraper/search",
+    "https://imdb-scraper-api.omkar.cloud/imdb/search",
     params={"query": "The Shawshank Redemption"},
     headers={"API-Key": "YOUR_API_KEY"}
 )
