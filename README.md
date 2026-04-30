@@ -2,7 +2,7 @@
 
 # IMDb Scraper API
 
-Search movies and TV shows, get title details, pull cast & crew, and fetch trending movies from IMDb via a simple REST API. 5,000 free requests/month.
+Search movies and TV shows, get title details, pull cast & crew, and fetch trending movies from IMDb via a simple REST API. 100 free requests/month.
 
 ## Key Features
 
@@ -10,7 +10,7 @@ Search movies and TV shows, get title details, pull cast & crew, and fetch trend
 - Get 30+ data points per title (rating, synopsis, cast, financials, posters, trailers)
 - Pull complete cast & crew with roles and character names
 - Fetch IMDb's Most Popular Movies list in real time
-- **5,000 requests/month on free tier**
+- **100 requests/month on free tier**
 - Example Response:
 ```json
 {
@@ -38,7 +38,7 @@ Search movies and TV shows, get title details, pull cast & crew, and fetch trend
 
 Create an account at [omkar.cloud](https://www.omkar.cloud/auth/sign-up?redirect=/api-key) to get your API key.
 
-It takes just 2 minutes to sign up. You get 5,000 free requests every month for detailed IMDb data — more than enough for most developers to get their job done without paying a dime.
+It takes just 2 minutes to sign up. You get 100 free requests every month for detailed IMDb data.
 
 This is a well built product, and your search for the best IMDb API ends right here.
 
@@ -597,10 +597,10 @@ No. Just call it and get the current IMDb trending movies list. No parameters, n
 
 | Plan | Price | Requests/Month |
 |------|-------|----------------|
-| Free | $0 | 5,000 |
-| Starter | $25 | 100,000 |
-| Grow | $75 | 1,000,000 |
-| Scale | $150 | 10,000,000 |
+| Free | $0 | 100 |
+| Starter | $16 | 3,000 |
+| Grow | $48 | 15,000 |
+| Scale | $148 | 75,000 |
 
 ## Questions? We have answers.
 
