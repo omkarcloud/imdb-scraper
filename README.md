@@ -34,6 +34,12 @@ Search movies and TV shows, get title details, pull cast & crew, and fetch trend
 }
 ```
 
+## ▶️ Video Tutorial
+
+Watch the complete API walkthrough:
+
+[![IMDB Scraper API Walkthrough](https://raw.githubusercontent.com/omkarcloud/imdb-scraper/master/imdb-scraper-youtube-video-preview.png)](https://www.youtube.com/watch?v=c8adRLWXf6E)
+
 ## Get API Key
 
 Create an account at [omkar.cloud](https://www.omkar.cloud/auth/sign-up?redirect=/api-key) to get your API key.
