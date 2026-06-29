@@ -1,5 +1,3 @@
-![IMDb Scraper Featured Image](https://raw.githubusercontent.com/omkarcloud/imdb-scraper/master/imdb-scraper-featured-image.png)
-
 # IMDb Scraper API
 
 Search movies and TV shows, get title details, pull cast & crew, and fetch trending movies from IMDb via a simple REST API. 100 free requests/month.
