@@ -116,4 +116,4 @@ We reply ✅ within one working day. 🩷 Pinky Promise 🤙
 
 ## Love It? Star It ⭐
 
-From one developer to another: if IMDb Scraper saved you time, please [star the repo](https://github.com/omkarcloud/imdb-scraper) — it helps other developers find a good IMDb API :)
+From one developer to another: if IMDb Scraper got you the data you wanted, please [star the repo](https://github.com/omkarcloud/imdb-scraper) — it helps other developers find a good IMDb API :)
