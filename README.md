@@ -2,13 +2,13 @@
 
 IMDb Scraper by Omkar Cloud gives you 🎯 accurate, 🔍 detailed IMDb data as clean JSON — titles, ratings, reviews, cast, episodes, people, and charts.
 
-**Try it now, no sign-up:** every one of the 13 endpoints runs with one click in the [playground](https://www.omkar.cloud/tools/imdb-scraper/playground). No Sign Up Required.
+[**Try it now, no sign-up:**](https://www.omkar.cloud/tools/imdb-scraper/playground) every one of the 13 endpoints runs with one click in the [playground](https://www.omkar.cloud/tools/imdb-scraper/playground). No Sign Up Required.
 
 **Then build on it for free:** 1,000 calls every month, no credit card. Use them to your heart's content ❤️
 
 Also available on:
 
-[![Run on Apify](https://img.shields.io/badge/Run%20on-Apify-blue)](https://apify.com/omkar-cloud/imdb-scraper) [![Run on RapidAPI](https://img.shields.io/badge/Run%20on-RapidAPI-blue?logo=rapidapi)](https://rapidapi.com/Chetan11dev/api/imdb-api/playground)
+[![Run on Apify](https://img.shields.io/badge/Apify-blue)](https://apify.com/omkar-cloud/imdb-scraper) [![Run on RapidAPI](https://img.shields.io/badge/RapidAPI-blue?logo=rapidapi)](https://rapidapi.com/Chetan11dev/api/imdb-api/playground)
 
 
 ## Example: A Full IMDb Movie
@@ -62,7 +62,7 @@ Also available on:
 }
 ```
 
-*Trimmed for readability — the full response also includes the poster, writers, total cast count, seasons for TV shows, and 12 similar titles.*
+*Trimmed for readability.*
 
 ## Get Started
 
