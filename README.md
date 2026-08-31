@@ -1,10 +1,10 @@
 # IMDb Scraper
 
-IMDb Scraper by Omkar Cloud gives you 🎯 accurate, 🔍 detailed IMDb data as clean JSON — titles, ratings, reviews, cast, episodes, people, and charts.
+IMDb Scraper by Omkar Cloud gives you 🎯 accurate, 🔍 detailed IMDb data as clean JSON.
 
-[**Try it now, no sign-up:**](https://www.omkar.cloud/tools/imdb-scraper/playground) every one of the 13 endpoints runs with one click in the [playground](https://www.omkar.cloud/tools/imdb-scraper/playground). No Sign Up Required.
+[**Try it now — no sign-up required:**](https://www.omkar.cloud/tools/imdb-scraper/playground) every one of the 13 endpoints runs with one click in the [playground](https://www.omkar.cloud/tools/imdb-scraper/playground).
 
-**Then build on it for free:** 1,000 calls every month, no credit card. Use them to your heart's content ❤️
+**Best part? Build on it for free:** Get 1,000 free calls every month, no credit card. Use them to your heart's content ❤️
 
 Also available on:
 
@@ -68,7 +68,7 @@ Also available on:
 
 Start in the [playground](https://www.omkar.cloud/tools/imdb-scraper/playground) — try any endpoint with one click, no sign-up required.
 
-Once you're happy with the data, subscribe to the free plan for 1,000 calls per month:
+Once you're happy with the data, subscribe to the free plan for 1,000 free calls every month:
 
 1. [Sign up on Omkar Cloud](https://www.omkar.cloud/auth/sign-up?redirect=/tools/imdb-scraper/playground) — free, no credit card.
 2. Open the [IMDb Scraper playground](https://www.omkar.cloud/tools/imdb-scraper/playground) and enter any movie you like.
@@ -95,18 +95,20 @@ Once you're happy with the data, subscribe to the free plan for 1,000 calls per 
 
 ## Pricing
 
-Great value, low price.
+High value, Low price.
 
 | Plan | Price | Calls / month | Per 1,000 |
 |---|---|---|---|
-| **Basic** | **Free** | **1,000** — the most generous free tier | $0 |
+| **Basic** | **Free** | **1,000** — the most generous free plan | $0 |
 | **Pro** | $16/mo | 20,000 | $0.80 |
 | **Ultra** | $48/mo | 100,000 | $0.48 |
 | **Mega** | $148/mo | 400,000 | $0.37 |
 
+Need a bigger plan? Ask on [WhatsApp](https://api.whatsapp.com/send?phone=918178804274&text=I%20need%20a%20custom%20plan%20for%20the%20IMDB%20Scraper%20API.) or [Email](mailto:happy.to.help@omkar.cloud?subject=Custom%20plan%20for%20IMDB%20Scraper%20API&body=I%20need%20a%20custom%20plan%20for%20the%20IMDB%20Scraper%20API.).
+
 ## 💬 Have Questions? We Have Answers.
 
-Have questions or need data we don't expose yet? Just ask.
+Have questions or need data we don't return yet? Just ask.
 
 [![Message Us on WhatsApp about IMDb Scraper](https://raw.githubusercontent.com/omkarcloud/assets/master/images/whatsapp-us.png)](https://api.whatsapp.com/send?phone=918178804274&text=I%20need%20help%20using%20the%20IMDb%20Scraper%20API.)
 
