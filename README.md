@@ -1,15 +1,41 @@
 # IMDb Scraper
 
-IMDb Scraper by Omkar Cloud gives you 🎯 accurate, 🔍 detailed IMDb data as clean JSON.
+IMDb Scraper by Omkar Cloud gives you 🎯 accurate, 🔍 detailed IMDb data as clean JSON — in real time.
 
-[**Try it now — no sign-up required:**](https://www.omkar.cloud/tools/imdb-scraper/playground) every one of the 13 endpoints runs with one click in the [playground](https://www.omkar.cloud/tools/imdb-scraper/playground).
+Getting IMDb data reliably is hard.
+
+IMDb Scraper handles the hard parts — no selectors, no proxies, no data cleaning.
+
+Just the data, so you can successfully complete your project.
+
+[**Try it now, no sign-up required:**](https://www.omkar.cloud/tools/imdb-scraper/playground) every one of the 13 endpoints runs with one click in the [playground](https://www.omkar.cloud/tools/imdb-scraper/playground).
 
 **Best part? Build on it for free:** Get 1,000 free calls every month, no credit card. Use them to your heart's content ❤️
+
+This is an excellent API made by Omkar Cloud, which is Rated Excellent — [4.7 based on 30 reviews on Trustpilot](https://www.trustpilot.com/review/omkar.cloud).
 
 Also available on:
 
 [![Run on Apify](https://img.shields.io/badge/Apify-blue)](https://apify.com/omkar-cloud/imdb-scraper) [![Run on RapidAPI](https://img.shields.io/badge/RapidAPI-blue?logo=rapidapi)](https://rapidapi.com/Chetan11dev/api/imdb-api/playground)
 
+
+## What can I get
+
+- 🔍 **Search 11M+ titles** — filter by type, genre, year; sort how you like
+- 🎬 **Full title details** — cast, Metascore, box office, trailer & more
+- 📺 **Episodes, reviews & people** — seasons, full review text, filmographies
+- 📈 **All 6 IMDb charts** — Top 250s, Most Popular, Box Office, Celebrities
+
+## Why IMDb Scraper
+
+Most other IMDb APIs fail you in one of four ways:
+
+- 🗄️ **Inaccurate, cached, stale data**
+- 🧩 **Low-detail endpoints** — a few fields per call, never the full picture
+- 💸 **Pay more to get the same data**
+- 🪦 **Works today, breaks next month** — nobody maintains it
+
+IMDb Scraper is scraped live on every call, priced honestly, and actively maintained.
 
 ## Example: A Full IMDb Movie
 
@@ -64,16 +90,15 @@ Also available on:
 
 *Trimmed for readability.*
 
-## Get Started
+## Get Started with 1,000 Free Calls
 
 Start in the [playground](https://www.omkar.cloud/tools/imdb-scraper/playground) — try any endpoint with one click, no sign-up required.
 
-Once you're happy with the data, subscribe to the free plan for 1,000 free calls every month:
+Once you're happy with the data, start with the free plan for 1,000 free calls every month:
 
 1. [Sign up on Omkar Cloud](https://www.omkar.cloud/auth/sign-up?redirect=/tools/imdb-scraper/playground) — free, no credit card.
-2. Open the [IMDb Scraper playground](https://www.omkar.cloud/tools/imdb-scraper/playground) and enter any movie you like.
-3. Hit **Get Live Data** to see the JSON.
-4. Open the **Code** tab for a ready-to-paste Python or Node.js snippet.
+2. Open the [IMDb Scraper playground](https://www.omkar.cloud/tools/imdb-scraper/playground) and enter any movie you like. Click **Get Live Data**.
+3. Enjoy your data 😎.
 
 ## Endpoints
 
@@ -106,16 +131,23 @@ High value, Low price.
 
 Need a bigger plan? Ask on [WhatsApp](https://api.whatsapp.com/send?phone=918178804274&text=I%20need%20a%20custom%20plan%20for%20the%20IMDB%20Scraper%20API.) or [Email](mailto:happy.to.help@omkar.cloud?subject=Custom%20plan%20for%20IMDB%20Scraper%20API&body=I%20need%20a%20custom%20plan%20for%20the%20IMDB%20Scraper%20API.).
 
+👉 [Start with Free Plan](https://www.omkar.cloud/auth/sign-up?redirect=/tools/imdb-scraper/playground) — 1,000 free calls/month
+
 ## 💬 Have Questions? We Have Answers.
 
-Have questions or need data we don't return yet? Just ask.
+You're a developer — we know how hard completing a project can be. So we offer full support: just message us and we'll reply ✅ with a solution within 1 working day.
 
 [![Message Us on WhatsApp about IMDb Scraper](https://raw.githubusercontent.com/omkarcloud/assets/master/images/whatsapp-us.png)](https://api.whatsapp.com/send?phone=918178804274&text=I%20need%20help%20using%20the%20IMDb%20Scraper%20API.)
 
 [![Ask Us by Email about IMDb Scraper](https://raw.githubusercontent.com/omkarcloud/assets/master/images/ask-on-email.png)](mailto:happy.to.help@omkar.cloud?subject=Help%20with%20IMDb%20Scraper%20API&body=I%20need%20help%20using%20the%20IMDb%20Scraper%20API.)
 
-We reply ✅ within one working day. 🩷 Pinky Promise 🤙
+## Popular Scrapers by Omkar Cloud
 
-## Love It? Star It ⭐
+- **[Google Maps Scraper (3,100+ GitHub Stars)](https://github.com/omkarcloud/google-maps-scraper)** — type "dentists in New York", get every business as a ready-to-call lead list: phones, emails, websites & reviews. Up to 100K free leads/month.
+- [**G2 Scraper**](https://www.omkar.cloud/tools/g2-scraper) — G2 product details, ratings & AI-found contacts
+- [**Website Email Contact Scraper**](https://www.omkar.cloud/tools/website-email-contact-scraper) — emails, phones & socials from any website
+- [**AliExpress Scraper**](https://www.omkar.cloud/tools/aliexpress-scraper) — live product details, SKU variants, stock & shipping
+- [**Booking Scraper**](https://www.omkar.cloud/tools/booking-scraper) — Booking.com hotels: prices, ratings, rooms & amenities
+- [**Etsy Scraper**](https://www.omkar.cloud/tools/etsy-scraper) — Etsy products: prices, discounts, shops & variations
 
-From one developer to another: if IMDb Scraper got you the data you wanted, please [star the repo](https://github.com/omkarcloud/imdb-scraper) — it helps other developers find a good IMDb API :)
+👉 [Start with Free Plan](https://www.omkar.cloud/auth/sign-up?redirect=/tools/imdb-scraper/playground) — 1,000 free calls/month
