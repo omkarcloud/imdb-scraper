@@ -1,23 +1,14 @@
 # IMDb Scraper
 
-IMDb Scraper by Omkar Cloud gives you 🎯 accurate, 🔍 detailed IMDb data as clean JSON — in real time.
+IMDb Scraper gets you 🎯 accurate, 🔍 detailed IMDb data as clean JSON in **Real-Time**.
 
-Getting IMDb data reliably is hard.
+No selectors, no proxies, no data cleaning. Just the data.
 
-IMDb Scraper handles the hard parts — no selectors, no proxies, no data cleaning.
+[**Try it now in the playground**](https://www.omkar.cloud/tools/imdb-scraper/playground) - See the data quality for yourself in one click, **No sign-up required**.
 
-Just the data, so you can successfully complete your project.
+**Build on it free:** 1,000 calls every month, no credit card ❤️
 
-[**Try it now, no sign-up required:**](https://www.omkar.cloud/tools/imdb-scraper/playground) every one of the 13 endpoints runs with one click in the [playground](https://www.omkar.cloud/tools/imdb-scraper/playground).
-
-**Best part? Build on it for free:** Get 1,000 free calls every month, no credit card. Use them to your heart's content ❤️
-
-This is an excellent API made by Omkar Cloud, which is Rated Excellent — [4.7 based on 30 reviews on Trustpilot](https://www.trustpilot.com/review/omkar.cloud).
-
-Also available on:
-
-[![Run on Apify](https://img.shields.io/badge/Apify-blue)](https://apify.com/omkar-cloud/imdb-scraper) [![Run on RapidAPI](https://img.shields.io/badge/RapidAPI-blue?logo=rapidapi)](https://rapidapi.com/Chetan11dev/api/imdb-api/playground)
-
+[![IMDb Scraper API playground — run a live request in your browser, free, no sign-up](https://raw.githubusercontent.com/omkarcloud/imdb-scraper/master/playground.png)](https://www.omkar.cloud/tools/imdb-scraper/playground)
 
 ## What can I get
 
@@ -106,17 +97,17 @@ Once you're happy with the data, start with the free plan for 1,000 free calls e
 
 | Endpoint | Path | Returns |
 |---|---|---|
-| Autocomplete | `/imdb/autocomplete` | Typeahead for titles and people |
-| Search Titles | `/imdb/search` | 50 titles per page; filter by type, genre, or year; sortable |
-| Title Details | `/imdb/title/details` | Everything about one title in a single call |
-| Title Cast | `/imdb/title/cast` | Full credits with character names, 50 per page |
-| Title Reviews | `/imdb/title/reviews` | User reviews with full text, 25 per page |
-| Title Episodes | `/imdb/title/episodes` | Season list, or one season's episodes with ratings |
-| Person Details | `/imdb/person/details` | Bio, StarMeter rank, full filmography |
-| Top 250 Movies / TV | `/imdb/charts/top-movies`, `/imdb/charts/top-tv` | All 250 in one call |
-| Most Popular Movies / TV | `/imdb/charts/popular-movies`, `/imdb/charts/popular-tv` | MovieMeter / TVMeter top 100 |
-| Weekend Box Office | `/imdb/charts/box-office` | US top 10 with weekend and worldwide gross |
-| Popular Celebrities | `/imdb/charts/popular-celebrities` | StarMeter top 100 |
+| Autocomplete | `/autocomplete` | Typeahead for titles and people |
+| Search Titles | `/search` | 50 titles per page; filter by type, genre, or year; sortable |
+| Title Details | `/title/details` | Everything about one title in a single call |
+| Title Cast | `/title/cast` | Full credits with character names, 50 per page |
+| Title Reviews | `/title/reviews` | User reviews with full text, 25 per page |
+| Title Episodes | `/title/episodes` | Season list, or one season's episodes with ratings |
+| Person Details | `/person/details` | Bio, StarMeter rank, full filmography |
+| Top 250 Movies / TV | `/charts/top-movies`, `/charts/top-tv` | All 250 in one call |
+| Most Popular Movies / TV | `/charts/popular-movies`, `/charts/popular-tv` | MovieMeter / TVMeter top 100 |
+| Weekend Box Office | `/charts/box-office` | US top 10 with weekend and worldwide gross |
+| Popular Celebrities | `/charts/popular-celebrities` | StarMeter top 100 |
 
 ## Pricing
 
