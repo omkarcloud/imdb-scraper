@@ -122,6 +122,9 @@ High value, Low price.
 
 Need a bigger plan? Ask on [WhatsApp](https://api.whatsapp.com/send?phone=918178804274&text=I%20need%20a%20custom%20plan%20for%20the%20IMDB%20Scraper%20API.) or [Email](mailto:happy.to.help@omkar.cloud?subject=Custom%20plan%20for%20IMDB%20Scraper%20API&body=I%20need%20a%20custom%20plan%20for%20the%20IMDB%20Scraper%20API.).
 
+- **[90 Day 2 Click Refund Guarantee](https://www.omkar.cloud/refund-process)**
+- This is an excellent API made by Omkar Cloud, which is Rated Excellent — [4.7 based on 30 reviews on Trustpilot](https://www.trustpilot.com/review/omkar.cloud).
+
 👉 [Start with Free Plan](https://www.omkar.cloud/auth/sign-up?redirect=/tools/imdb-scraper/playground) — 1,000 free calls/month
 
 ## 💬 Have Questions? We Have Answers.
