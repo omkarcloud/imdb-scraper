@@ -122,7 +122,7 @@ High value, Low price.
 
 Need a bigger plan? Ask on [WhatsApp](https://api.whatsapp.com/send?phone=918178804274&text=I%20need%20a%20custom%20plan%20for%20the%20IMDB%20Scraper%20API.) or [Email](mailto:happy.to.help@omkar.cloud?subject=Custom%20plan%20for%20IMDB%20Scraper%20API&body=I%20need%20a%20custom%20plan%20for%20the%20IMDB%20Scraper%20API.).
 
-- **[90 Day 2 Click Refund Guarantee](https://www.omkar.cloud/refund-process)**
+- [**90 Day 2 Click Refund Guarantee**](https://www.omkar.cloud/refund-process)
 - This is an excellent API made by Omkar Cloud, which is Rated Excellent — [4.7 based on 30 reviews on Trustpilot](https://www.trustpilot.com/review/omkar.cloud).
 
 👉 [Start with Free Plan](https://www.omkar.cloud/auth/sign-up?redirect=/tools/imdb-scraper/playground) — 1,000 free calls/month
@@ -137,7 +137,7 @@ You're a developer — we know how hard completing a project can be. So we offer
 
 ## Popular Scrapers by Omkar Cloud
 
-- **[Google Maps Scraper (3,100+ GitHub Stars)](https://github.com/omkarcloud/google-maps-scraper)** — type "dentists in New York", get every business as a ready-to-call lead list: phones, emails, websites & reviews. Up to 100K free leads/month.
+- [**Google Maps Scraper (3,100+ GitHub Stars)**](https://github.com/omkarcloud/google-maps-scraper) — type "dentists in New York", get every business as a ready-to-call lead list: phones, emails, websites & reviews. Up to 100K free leads/month.
 - [**G2 Scraper**](https://www.omkar.cloud/tools/g2-scraper) — G2 product details, ratings & AI-found contacts
 - [**Website Email Contact Scraper**](https://www.omkar.cloud/tools/website-email-contact-scraper) — emails, phones & socials from any website
 - [**AliExpress Scraper**](https://www.omkar.cloud/tools/aliexpress-scraper) — live product details, SKU variants, stock & shipping
