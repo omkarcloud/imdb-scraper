@@ -1,0 +1,401 @@
+{
+ "title": {
+  "id": "tt0944947",
+  "titleText": {
+   "text": "Game of Thrones"
+  },
+  "episodes": {
+   "isOngoing": false,
+   "episodes": {
+    "total": 11,
+    "pageInfo": {
+     "endCursor": "dHQxODUxMzk3",
+     "hasNextPage": false
+    },
+    "edges": [
+     {
+      "node": {
+       "id": "tt31321401",
+       "titleText": {
+        "text": "Game of Thrones: Unaired Original Pilot"
+       },
+       "releaseDate": null,
+       "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BYjc1ZTg3YWItNTRiNC00NGY0LTg0MDAtOGZhNjZlMmIwNDMzXkEyXkFqcGc@._V1_.jpg"
+       },
+       "ratingsSummary": {
+        "aggregateRating": null,
+        "voteCount": 0
+       },
+       "plot": {
+        "plotText": {
+         "plainText": "In Winterfell, the Stark family's world shifts when King Robert seeks Ned's help, as ominous signs stir beyond the Wall and an exiled princess is drawn into a perilous alliance across the sea."
+        }
+       },
+       "series": {
+        "displayableEpisodeNumber": {
+         "displayableSeason": {
+          "season": "1"
+         },
+         "episodeNumber": {
+          "text": "0"
+         }
+        }
+       }
+      }
+     },
+     {
+      "node": {
+       "id": "tt1480055",
+       "titleText": {
+        "text": "Winter Is Coming"
+       },
+       "releaseDate": {
+        "day": 17,
+        "month": 4,
+        "year": 2011
+       },
+       "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMDRiODZhNzQtZTM4Ni00YjY5LWI1YjAtNDc1ODNlODc1ODMwXkEyXkFqcGc@._V1_.jpg"
+       },
+       "ratingsSummary": {
+        "aggregateRating": 8.9,
+        "voteCount": 81179
+       },
+       "plot": {
+        "plotText": {
+         "plainText": "King Robert asks Eddard Stark to leave Winterfell for court, where Lannister power looms. Far north, the Night's Watch finds unsettling signs, while exiled Daenerys Targaryen is promised in marriage."
+        }
+       },
+       "series": {
+        "displayableEpisodeNumber": {
+         "displayableSeason": {
+          "season": "1"
+         },
+         "episodeNumber": {
+          "text": "1"
+         }
+        }
+       }
+      }
+     },
+     {
+      "node": {
+       "id": "tt1668746",
+       "titleText": {
+        "text": "The Kingsroad"
+       },
+       "releaseDate": {
+        "day": 24,
+        "month": 4,
+        "year": 2011
+       },
+       "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BYjYxYjMxZGYtMGIzMi00NTY2LWI0MWMtNGJiMzhjYjkwNmI4XkEyXkFqcGc@._V1_.jpg"
+       },
+       "ratingsSummary": {
+        "aggregateRating": 8.6,
+        "voteCount": 61653
+       },
+       "plot": {
+        "plotText": {
+         "plainText": "Ned and his daughters ride south with the king while Jon and Tyrion head to the Wall; across the Narrow Sea, Daenerys faces a new life among the Dothraki."
+        }
+       },
+       "series": {
+        "displayableEpisodeNumber": {
+         "displayableSeason": {
+          "season": "1"
+         },
+         "episodeNumber": {
+          "text": "2"
+         }
+        }
+       }
+      }
+     },
+     {
+      "node": {
+       "id": "tt1829962",
+       "titleText": {
+        "text": "Lord Snow"
+       },
+       "releaseDate": {
+        "day": 1,
+        "month": 5,
+        "year": 2011
+       },
+       "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMmZmM2M4ODgtZmM4YS00ZDU0LWJmNTMtOTVkM2RhMGQ0NjIwXkEyXkFqcGc@._V1_.jpg"
+       },
+       "ratingsSummary": {
+        "aggregateRating": 8.5,
+        "voteCount": 58425
+       },
+       "plot": {
+        "plotText": {
+         "plainText": "In King's Landing, Ned takes up his new post as Hand of the King while Arya begins sword lessons. At the Wall, Jon earns the nickname \"Lord Snow.\" Across the sea, Daenerys adjusts to life with the Dothraki."
+        }
+       },
+       "series": {
+        "displayableEpisodeNumber": {
+         "displayableSeason": {
+          "season": "1"
+         },
+         "episodeNumber": {
+          "text": "3"
+         }
+        }
+       }
+      }
+     },
+     {
+      "node": {
+       "id": "tt1829963",
+       "titleText": {
+        "text": "Cripples, Bastards, and Broken Things"
+       },
+       "releaseDate": {
+        "day": 8,
+        "month": 5,
+        "year": 2011
+       },
+       "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BYWJjMWI0MTctYmY3ZS00NWE4LTk5NmUtMmExNDU4ZmViN2VmXkEyXkFqcGc@._V1_.jpg"
+       },
+       "ratingsSummary": {
+        "aggregateRating": 8.6,
+        "voteCount": 55758
+       },
+       "plot": {
+        "plotText": {
+         "plainText": "Tyrion and Jon head to the Wall as the Night's Watch tests its newest recruits. Catelyn makes a risky move against the Lannisters, while Ned grapples with the cost of rule and Daenerys adapts to Dothraki life."
+        }
+       },
+       "series": {
+        "displayableEpisodeNumber": {
+         "displayableSeason": {
+          "season": "1"
+         },
+         "episodeNumber": {
+          "text": "4"
+         }
+        }
+       }
+      }
+     },
+     {
+      "node": {
+       "id": "tt1829964",
+       "titleText": {
+        "text": "The Wolf and the Lion"
+       },
+       "releaseDate": {
+        "day": 15,
+        "month": 5,
+        "year": 2011
+       },
+       "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BZTRkM2NkOWItNjg1MC00NTFhLTgzOGItYjhjYmM3ZmUwZTVhXkEyXkFqcGc@._V1_.jpg"
+       },
+       "ratingsSummary": {
+        "aggregateRating": 9,
+        "voteCount": 58677
+       },
+       "plot": {
+        "plotText": {
+         "plainText": "Ned digs deeper into Jon Arryn's death as Stark-Lannister tensions erupt in King's Landing. Catelyn makes a bold move on the road, Arya begins sword lessons, and Daenerys asserts herself among the Dothraki."
+        }
+       },
+       "series": {
+        "displayableEpisodeNumber": {
+         "displayableSeason": {
+          "season": "1"
+         },
+         "episodeNumber": {
+          "text": "5"
+         }
+        }
+       }
+      }
+     },
+     {
+      "node": {
+       "id": "tt1837862",
+       "titleText": {
+        "text": "A Golden Crown"
+       },
+       "releaseDate": {
+        "day": 22,
+        "month": 5,
+        "year": 2011
+       },
+       "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNzZjNzhhOWYtYmNmNy00NTJkLWFlMWItNGRlNzMxNzc4ZTk4XkEyXkFqcGc@._V1_.jpg"
+       },
+       "ratingsSummary": {
+        "aggregateRating": 9.1,
+        "voteCount": 57677
+       },
+       "plot": {
+        "plotText": {
+         "plainText": "Ned follows leads on Jon Arryn's death as Robert's council debates a threat across the Narrow Sea; Tyrion stands trial in the Vale, Arya trains with Syrio, Jon adjusts to the Wall, and Viserys presses Daenerys and Drogo for a crown."
+        }
+       },
+       "series": {
+        "displayableEpisodeNumber": {
+         "displayableSeason": {
+          "season": "1"
+         },
+         "episodeNumber": {
+          "text": "6"
+         }
+        }
+       }
+      }
+     },
+     {
+      "node": {
+       "id": "tt1837863",
+       "titleText": {
+        "text": "You Win or You Die"
+       },
+       "releaseDate": {
+        "day": 29,
+        "month": 5,
+        "year": 2011
+       },
+       "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMzNmYjE2NjctYmUyNS00NWZiLWExMWQtMjlkNWJiYjY5ZjAyXkEyXkFqcGc@._V1_.jpg"
+       },
+       "ratingsSummary": {
+        "aggregateRating": 9.2,
+        "voteCount": 58442
+       },
+       "plot": {
+        "plotText": {
+         "plainText": "Eddard Stark uncovers a perilous secret in King's Landing and weighs a risky move as rival houses maneuver; King Robert rides out on a hunt, while Daenerys faces a growing crisis in the Dothraki camp."
+        }
+       },
+       "series": {
+        "displayableEpisodeNumber": {
+         "displayableSeason": {
+          "season": "1"
+         },
+         "episodeNumber": {
+          "text": "7"
+         }
+        }
+       }
+      }
+     },
+     {
+      "node": {
+       "id": "tt1837864",
+       "titleText": {
+        "text": "The Pointy End"
+       },
+       "releaseDate": {
+        "day": 5,
+        "month": 6,
+        "year": 2011
+       },
+       "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMTc2MzU2MDctNGI0NS00NmQ0LWJkNGEtZDljMDUwZWNiNDQwXkEyXkFqcGc@._V1_.jpg"
+       },
+       "ratingsSummary": {
+        "aggregateRating": 8.9,
+        "voteCount": 54562
+       },
+       "plot": {
+        "plotText": {
+         "plainText": "Ned's arrest sparks chaos: Sansa is held at court as Arya runs for her life; Robb calls the banners, Jon weighs his vows at the Wall, and Daenerys seeks a healer as Drogo weakens."
+        }
+       },
+       "series": {
+        "displayableEpisodeNumber": {
+         "displayableSeason": {
+          "season": "1"
+         },
+         "episodeNumber": {
+          "text": "8"
+         }
+        }
+       }
+      }
+     },
+     {
+      "node": {
+       "id": "tt1851398",
+       "titleText": {
+        "text": "Baelor"
+       },
+       "releaseDate": {
+        "day": 12,
+        "month": 6,
+        "year": 2011
+       },
+       "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNmY3NTg3YTMtYmJkYi00ODU5LWI1OTQtZTNhY2EwNjU4ZDVkXkEyXkFqcGc@._V1_.jpg"
+       },
+       "ratingsSummary": {
+        "aggregateRating": 9.6,
+        "voteCount": 79918
+       },
+       "plot": {
+        "plotText": {
+         "plainText": "In King's Landing, a crowd gathers at the Great Sept of Baelor as Ned makes a desperate bid to spare his daughters; Robb carries the war to the Lannisters; Daenerys faces a difficult reckoning among the Dothraki."
+        }
+       },
+       "series": {
+        "displayableEpisodeNumber": {
+         "displayableSeason": {
+          "season": "1"
+         },
+         "episodeNumber": {
+          "text": "9"
+         }
+        }
+       }
+      }
+     },
+     {
+      "node": {
+       "id": "tt1851397",
+       "titleText": {
+        "text": "Fire and Blood"
+       },
+       "releaseDate": {
+        "day": 19,
+        "month": 6,
+        "year": 2011
+       },
+       "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BYWVjOTAzZmUtNzkzZS00ZGM1LWIwMzAtMmQ0NjgyOTJmY2U2XkEyXkFqcGc@._V1_.jpg"
+       },
+       "ratingsSummary": {
+        "aggregateRating": 9.4,
+        "voteCount": 67239
+       },
+       "plot": {
+        "plotText": {
+         "plainText": "As the Seven Kingdoms splinter, the Stark family's fates diverge, Robb rallies the North, Jon must choose between love and duty at the Wall, and Daenerys stakes everything on a bold new future."
+        }
+       },
+       "series": {
+        "displayableEpisodeNumber": {
+         "displayableSeason": {
+          "season": "1"
+         },
+         "episodeNumber": {
+          "text": "10"
+         }
+        }
+       }
+      }
+     }
+    ]
+   }
+  }
+ }
+}

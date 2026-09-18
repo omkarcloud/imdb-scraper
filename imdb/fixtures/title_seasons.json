@@ -1,0 +1,72 @@
+{
+ "title": {
+  "id": "tt0944947",
+  "titleText": {
+   "text": "Game of Thrones"
+  },
+  "titleType": {
+   "id": "tvSeries",
+   "text": "TV Series",
+   "canHaveEpisodes": true
+  },
+  "episodes": {
+   "isOngoing": false,
+   "displayableSeasons": {
+    "total": 8,
+    "edges": [
+     {
+      "node": {
+       "season": "1",
+       "text": "1"
+      }
+     },
+     {
+      "node": {
+       "season": "2",
+       "text": "2"
+      }
+     },
+     {
+      "node": {
+       "season": "3",
+       "text": "3"
+      }
+     },
+     {
+      "node": {
+       "season": "4",
+       "text": "4"
+      }
+     },
+     {
+      "node": {
+       "season": "5",
+       "text": "5"
+      }
+     },
+     {
+      "node": {
+       "season": "6",
+       "text": "6"
+      }
+     },
+     {
+      "node": {
+       "season": "7",
+       "text": "7"
+      }
+     },
+     {
+      "node": {
+       "season": "8",
+       "text": "8"
+      }
+     }
+    ]
+   },
+   "episodes": {
+    "total": 74
+   }
+  }
+ }
+}

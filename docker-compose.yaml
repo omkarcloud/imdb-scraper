@@ -1,0 +1,10 @@
+services:
+  imdb-scraper:
+    build: .
+    restart: unless-stopped
+    ports:
+      - "8000:8000"
+    environment:
+      - PORT=8000
+      # Optional — IMDb does not rate-limit, so leave this unset.
+      # - IMDB_PROXY=http://user:pass@host:port

@@ -1,0 +1,276 @@
+{
+ "chartTitles": {
+  "total": 250,
+  "pageInfo": {
+   "endCursor": "eyJlc1Rva2VuIjpbIjI1MCJdLCJmaWx0ZXIiOiJ7XCJjaGFydFwiOntcImNoYXJ0VHlwZVwiOlwiVE9QX1JBVEVEX01PVklFU1wifSxcImxhbmd1YWdlXCI6XCJlbi1VU1wiLFwicmVzdWx0SW5kZXhcIjoyNDl9Iiwic2lnIjoiNTkzMzQ3ZjFjZGU3NGE3MTg3ODZiZTJhZmRlZDkxNTU3MDg0Mzg0NjlmZjFkYjNjYWJlMDZkNzUwN2MwZThkYiJ9",
+   "hasNextPage": false
+  },
+  "edges": [
+   {
+    "currentRank": 1,
+    "rankChange": null,
+    "node": {
+     "id": "tt0111161",
+     "titleText": {
+      "text": "The Shawshank Redemption"
+     },
+     "originalTitleText": {
+      "text": "The Shawshank Redemption"
+     },
+     "titleType": {
+      "id": "movie",
+      "text": "Movie",
+      "canHaveEpisodes": false
+     },
+     "releaseYear": {
+      "year": 1994,
+      "endYear": null
+     },
+     "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMDAyY2FhYjctNDc5OS00MDNlLThiMGUtY2UxYWVkNGY2ZjljXkEyXkFqcGc@._V1_.jpg",
+      "width": 1200,
+      "height": 1800
+     },
+     "ratingsSummary": {
+      "aggregateRating": 9.3,
+      "voteCount": 3229091
+     },
+     "runtime": {
+      "seconds": 8520
+     },
+     "plot": {
+      "plotText": {
+       "plainText": "After a banker is sentenced to life in Shawshank Prison, he forms an unlikely friendship with a seasoned inmate and clings to hope amid cruelty and corruption."
+      }
+     },
+     "titleGenres": {
+      "genres": [
+       {
+        "genre": {
+         "text": "Drama"
+        }
+       }
+      ]
+     }
+    }
+   },
+   {
+    "currentRank": 2,
+    "rankChange": null,
+    "node": {
+     "id": "tt0068646",
+     "titleText": {
+      "text": "The Godfather"
+     },
+     "originalTitleText": {
+      "text": "The Godfather"
+     },
+     "titleType": {
+      "id": "movie",
+      "text": "Movie",
+      "canHaveEpisodes": false
+     },
+     "releaseYear": {
+      "year": 1972,
+      "endYear": null
+     },
+     "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BNGEwYjgwOGQtYjg5ZS00Njc1LTk2ZGEtM2QwZWQ2NjdhZTE5XkEyXkFqcGc@._V1_.jpg",
+      "width": 1396,
+      "height": 1982
+     },
+     "ratingsSummary": {
+      "aggregateRating": 9.2,
+      "voteCount": 2250422
+     },
+     "runtime": {
+      "seconds": 10500
+     },
+     "plot": {
+      "plotText": {
+       "plainText": "The aging patriarch of an organized crime dynasty transfers control of his clandestine empire to his reluctant son."
+      }
+     },
+     "titleGenres": {
+      "genres": [
+       {
+        "genre": {
+         "text": "Crime"
+        }
+       },
+       {
+        "genre": {
+         "text": "Drama"
+        }
+       }
+      ]
+     }
+    }
+   },
+   {
+    "currentRank": 3,
+    "rankChange": null,
+    "node": {
+     "id": "tt0468569",
+     "titleText": {
+      "text": "The Dark Knight"
+     },
+     "originalTitleText": {
+      "text": "The Dark Knight"
+     },
+     "titleType": {
+      "id": "movie",
+      "text": "Movie",
+      "canHaveEpisodes": false
+     },
+     "releaseYear": {
+      "year": 2008,
+      "endYear": null
+     },
+     "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTMxNTMwODM0NF5BMl5BanBnXkFtZTcwODAyMTk2Mw@@._V1_.jpg",
+      "width": 1383,
+      "height": 2048
+     },
+     "ratingsSummary": {
+      "aggregateRating": 9.1,
+      "voteCount": 3217338
+     },
+     "runtime": {
+      "seconds": 9120
+     },
+     "plot": {
+      "plotText": {
+       "plainText": "When a menace known as the Joker wreaks havoc and chaos on the people of Gotham, Batman, James Gordon and Harvey Dent must work together to put an end to the madness."
+      }
+     },
+     "titleGenres": {
+      "genres": [
+       {
+        "genre": {
+         "text": "Crime"
+        }
+       },
+       {
+        "genre": {
+         "text": "Thriller"
+        }
+       }
+      ]
+     }
+    }
+   },
+   {
+    "currentRank": 4,
+    "rankChange": null,
+    "node": {
+     "id": "tt0071562",
+     "titleText": {
+      "text": "The Godfather Part II"
+     },
+     "originalTitleText": {
+      "text": "The Godfather Part II"
+     },
+     "titleType": {
+      "id": "movie",
+      "text": "Movie",
+      "canHaveEpisodes": false
+     },
+     "releaseYear": {
+      "year": 1974,
+      "endYear": null
+     },
+     "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMDIxMzBlZDktZjMxNy00ZGI4LTgxNDEtYWRlNzRjMjJmOGQ1XkEyXkFqcGc@._V1_.jpg",
+      "width": 854,
+      "height": 1282
+     },
+     "ratingsSummary": {
+      "aggregateRating": 9,
+      "voteCount": 1509517
+     },
+     "runtime": {
+      "seconds": 12120
+     },
+     "plot": {
+      "plotText": {
+       "plainText": "The early life and career of Vito Corleone in 1920s New York City is portrayed, while his son, Michael, expands and tightens his grip on the family crime syndicate."
+      }
+     },
+     "titleGenres": {
+      "genres": [
+       {
+        "genre": {
+         "text": "Crime"
+        }
+       },
+       {
+        "genre": {
+         "text": "Drama"
+        }
+       }
+      ]
+     }
+    }
+   },
+   {
+    "currentRank": 5,
+    "rankChange": null,
+    "node": {
+     "id": "tt0167260",
+     "titleText": {
+      "text": "The Lord of the Rings: The Return of the King"
+     },
+     "originalTitleText": {
+      "text": "The Lord of the Rings: The Return of the King"
+     },
+     "titleType": {
+      "id": "movie",
+      "text": "Movie",
+      "canHaveEpisodes": false
+     },
+     "releaseYear": {
+      "year": 2003,
+      "endYear": null
+     },
+     "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTZkMjBjNWMtZGI5OC00MGU0LTk4ZTItODg2NWM3NTVmNWQ4XkEyXkFqcGc@._V1_.jpg",
+      "width": 800,
+      "height": 1185
+     },
+     "ratingsSummary": {
+      "aggregateRating": 9,
+      "voteCount": 2187849
+     },
+     "runtime": {
+      "seconds": 12060
+     },
+     "plot": {
+      "plotText": {
+       "plainText": "Gandalf and Aragorn lead the World of Men against Sauron's army to draw his gaze from Frodo and Sam as they approach Mount Doom with the One Ring."
+      }
+     },
+     "titleGenres": {
+      "genres": [
+       {
+        "genre": {
+         "text": "Adventure"
+        }
+       },
+       {
+        "genre": {
+         "text": "Drama"
+        }
+       },
+       {
+        "genre": {
+         "text": "Fantasy"
+        }
+       }
+      ]
+     }
+    }
+   }
+  ]
+ }
+}

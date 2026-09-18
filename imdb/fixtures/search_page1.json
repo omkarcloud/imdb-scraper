@@ -1,0 +1,1966 @@
+{
+ "advancedTitleSearch": {
+  "total": 43,
+  "pageInfo": {
+   "endCursor": "eyJlc1Rva2VuIjpbIjMwODIzNDYiLCIzMDgyMzQ2IiwidHQ3MDY4Mzc4Il0sImZpbHRlciI6IntcImNvbnN0cmFpbnRzXCI6e1widGl0bGVUZXh0Q29uc3RyYWludFwiOntcInNlYXJjaFRlcm1cIjpcIm1hdHJpeFwifSxcInRpdGxlVHlwZUNvbnN0cmFpbnRcIjp7XCJhbnlUaXRsZVR5cGVJZHNcIjpbXCJtb3ZpZVwiLFwidHZNb3ZpZVwiXX19LFwibGFuZ3VhZ2VcIjpcImVuLVVTXCIsXCJzb3J0XCI6e1wic29ydEJ5XCI6XCJQT1BVTEFSSVRZXCIsXCJzb3J0T3JkZXJcIjpcIkFTQ1wifSxcInJlc3VsdEluZGV4XCI6NDJ9Iiwic2lnIjoiOTcwMTk5YTI0ZTcwYTNkMTZlZGQzODE0YmIyNGM2MmIwZjQ2ZjNhNmI4MjEyNGUxNzUwMTc4N2U1Y2IyYThlNiJ9",
+   "hasNextPage": false
+  },
+  "edges": [
+   {
+    "node": {
+     "title": {
+      "id": "tt0133093",
+      "titleText": {
+       "text": "The Matrix"
+      },
+      "originalTitleText": {
+       "text": "The Matrix"
+      },
+      "titleType": {
+       "id": "movie",
+       "text": "Movie",
+       "canHaveEpisodes": false
+      },
+      "releaseYear": {
+       "year": 1999,
+       "endYear": null
+      },
+      "primaryImage": {
+       "url": "https://m.media-amazon.com/images/M/MV5BN2NmN2VhMTQtMDNiOS00NDlhLTliMjgtODE2ZTY0ODQyNDRhXkEyXkFqcGc@._V1_.jpg",
+       "width": 2100,
+       "height": 3156
+      },
+      "ratingsSummary": {
+       "aggregateRating": 8.7,
+       "voteCount": 2272418
+      },
+      "runtime": {
+       "seconds": 8160
+      },
+      "plot": {
+       "plotText": {
+        "plainText": "A computer hacker discovers that his life is nothing more than an elaborate simulation run by an evil AI."
+       }
+      },
+      "titleGenres": {
+       "genres": [
+        {
+         "genre": {
+          "text": "Action"
+         }
+        },
+        {
+         "genre": {
+          "text": "Sci-Fi"
+         }
+        }
+       ]
+      }
+     }
+    }
+   },
+   {
+    "node": {
+     "title": {
+      "id": "tt0234215",
+      "titleText": {
+       "text": "The Matrix Reloaded"
+      },
+      "originalTitleText": {
+       "text": "The Matrix Reloaded"
+      },
+      "titleType": {
+       "id": "movie",
+       "text": "Movie",
+       "canHaveEpisodes": false
+      },
+      "releaseYear": {
+       "year": 2003,
+       "endYear": null
+      },
+      "primaryImage": {
+       "url": "https://m.media-amazon.com/images/M/MV5BNjAxYjkxNjktYTU0YS00NjFhLWIyMDEtMzEzMTJjMzRkMzQ1XkEyXkFqcGc@._V1_.jpg",
+       "width": 800,
+       "height": 1200
+      },
+      "ratingsSummary": {
+       "aggregateRating": 7.2,
+       "voteCount": 675631
+      },
+      "runtime": {
+       "seconds": 8280
+      },
+      "plot": {
+       "plotText": {
+        "plainText": "Freedom fighters Neo, Trinity and Morpheus continue to lead the revolt against the Machine Army, unleashing their arsenal of extraordinary skills and weaponry against the systematic forces of repression and exploitation."
+       }
+      },
+      "titleGenres": {
+       "genres": [
+        {
+         "genre": {
+          "text": "Action"
+         }
+        },
+        {
+         "genre": {
+          "text": "Sci-Fi"
+         }
+        }
+       ]
+      }
+     }
+    }
+   },
+   {
+    "node": {
+     "title": {
+      "id": "tt10838180",
+      "titleText": {
+       "text": "The Matrix Resurrections"
+      },
+      "originalTitleText": {
+       "text": "The Matrix Resurrections"
+      },
+      "titleType": {
+       "id": "movie",
+       "text": "Movie",
+       "canHaveEpisodes": false
+      },
+      "releaseYear": {
+       "year": 2021,
+       "endYear": null
+      },
+      "primaryImage": {
+       "url": "https://m.media-amazon.com/images/M/MV5BMDMyNDIzYzMtZTMyMy00NjUyLWI3Y2MtYzYzOGE1NzQ1MTBiXkEyXkFqcGc@._V1_.jpg",
+       "width": 2764,
+       "height": 4096
+      },
+      "ratingsSummary": {
+       "aggregateRating": 5.6,
+       "voteCount": 306159
+      },
+      "runtime": {
+       "seconds": 8880
+      },
+      "plot": {
+       "plotText": {
+        "plainText": "Return to a world of two realities: one, everyday life; the other, what lies behind it. To find out if his reality is a construct, to truly know himself, Mr. Anderson will have to choose to follow the white rabbit once more."
+       }
+      },
+      "titleGenres": {
+       "genres": [
+        {
+         "genre": {
+          "text": "Action"
+         }
+        },
+        {
+         "genre": {
+          "text": "Sci-Fi"
+         }
+        }
+       ]
+      }
+     }
+    }
+   },
+   {
+    "node": {
+     "title": {
+      "id": "tt0242653",
+      "titleText": {
+       "text": "The Matrix Revolutions"
+      },
+      "originalTitleText": {
+       "text": "The Matrix Revolutions"
+      },
+      "titleType": {
+       "id": "movie",
+       "text": "Movie",
+       "canHaveEpisodes": false
+      },
+      "releaseYear": {
+       "year": 2003,
+       "endYear": null
+      },
+      "primaryImage": {
+       "url": "https://m.media-amazon.com/images/M/MV5BMmNmMTEzODQtNmExMS00OGUxLWFkNTItMTM3NzBlNDk0YWU5XkEyXkFqcGc@._V1_.jpg",
+       "width": 2200,
+       "height": 3251
+      },
+      "ratingsSummary": {
+       "aggregateRating": 6.7,
+       "voteCount": 579335
+      },
+      "runtime": {
+       "seconds": 7740
+      },
+      "plot": {
+       "plotText": {
+        "plainText": "The human city of Zion defends itself against the massive invasion of the machines as Neo fights to end the war at another front while also opposing the rogue Agent Smith."
+       }
+      },
+      "titleGenres": {
+       "genres": [
+        {
+         "genre": {
+          "text": "Action"
+         }
+        },
+        {
+         "genre": {
+          "text": "Sci-Fi"
+         }
+        }
+       ]
+      }
+     }
+    }
+   },
+   {
+    "node": {
+     "title": {
+      "id": "tt31998838",
+      "titleText": {
+       "text": "Matrix 5"
+      },
+      "originalTitleText": {
+       "text": "Matrix 5"
+      },
+      "titleType": {
+       "id": "movie",
+       "text": "Movie",
+       "canHaveEpisodes": false
+      },
+      "releaseYear": null,
+      "primaryImage": null,
+      "ratingsSummary": {
+       "aggregateRating": null,
+       "voteCount": 0
+      },
+      "runtime": null,
+      "plot": null,
+      "titleGenres": {
+       "genres": [
+        {
+         "genre": {
+          "text": "Action"
+         }
+        },
+        {
+         "genre": {
+          "text": "Sci-Fi"
+         }
+        }
+       ]
+      }
+     }
+    }
+   },
+   {
+    "node": {
+     "title": {
+      "id": "tt0224086",
+      "titleText": {
+       "text": "Sex Files: Sexual Matrix"
+      },
+      "originalTitleText": {
+       "text": "Sex Files: Sexual Matrix"
+      },
+      "titleType": {
+       "id": "movie",
+       "text": "Movie",
+       "canHaveEpisodes": false
+      },
+      "releaseYear": {
+       "year": 2000,
+       "endYear": null
+      },
+      "primaryImage": null,
+      "ratingsSummary": {
+       "aggregateRating": 3.9,
+       "voteCount": 235
+      },
+      "runtime": {
+       "seconds": 4800
+      },
+      "plot": {
+       "plotText": {
+        "plainText": "A professor designing a machine designed to meet the naughtiest fantasies. In order to perfect the discovery, he performed tests on various subjects, aided by his assistant very appealing."
+       }
+      },
+      "titleGenres": {
+       "genres": [
+        {
+         "genre": {
+          "text": "Drama"
+         }
+        },
+        {
+         "genre": {
+          "text": "Sci-Fi"
+         }
+        }
+       ]
+      }
+     }
+    }
+   },
+   {
+    "node": {
+     "title": {
+      "id": "tt12355912",
+      "titleText": {
+       "text": "The Matrix: Reborn"
+      },
+      "originalTitleText": {
+       "text": "The Matrix: Reborn"
+      },
+      "titleType": {
+       "id": "tvMovie",
+       "text": "TV Movie",
+       "canHaveEpisodes": false
+      },
+      "releaseYear": {
+       "year": 2020,
+       "endYear": null
+      },
+      "primaryImage": {
+       "url": "https://m.media-amazon.com/images/M/MV5BYzc3M2IyNTctMGM0Mi00Yzc5LTg0M2UtYTdiNDY2NjJiNmFmXkEyXkFqcGc@._V1_.jpg",
+       "width": 541,
+       "height": 800
+      },
+      "ratingsSummary": {
+       "aggregateRating": 6.1,
+       "voteCount": 59
+      },
+      "runtime": {
+       "seconds": 3000
+      },
+      "plot": null,
+      "titleGenres": {
+       "genres": [
+        {
+         "genre": {
+          "text": "Action"
+         }
+        },
+        {
+         "genre": {
+          "text": "Music"
+         }
+        }
+       ]
+      }
+     }
+    }
+   },
+   {
+    "node": {
+     "title": {
+      "id": "tt9847360",
+      "titleText": {
+       "text": "A Glitch in the Matrix"
+      },
+      "originalTitleText": {
+       "text": "A Glitch in the Matrix"
+      },
+      "titleType": {
+       "id": "movie",
+       "text": "Movie",
+       "canHaveEpisodes": false
+      },
+      "releaseYear": {
+       "year": 2021,
+       "endYear": null
+      },
+      "primaryImage": {
+       "url": "https://m.media-amazon.com/images/M/MV5BYmU0NzFhYmEtMmUzNC00MjQ1LTg3NTctZDdlZmVlY2MzMDQzXkEyXkFqcGc@._V1_.jpg",
+       "width": 1384,
+       "height": 2048
+      },
+      "ratingsSummary": {
+       "aggregateRating": 5.3,
+       "voteCount": 2402
+      },
+      "runtime": {
+       "seconds": 6480
+      },
+      "plot": {
+       "plotText": {
+        "plainText": "Documentary filmmaker Rodney Ascher tackles the question \"are we living in a simulation?\" with testimony, philosophical evidence and scientific explanation in his quest for the answer."
+       }
+      },
+      "titleGenres": {
+       "genres": [
+        {
+         "genre": {
+          "text": "Documentary"
+         }
+        }
+       ]
+      }
+     }
+    }
+   },
+   {
+    "node": {
+     "title": {
+      "id": "tt0970173",
+      "titleText": {
+       "text": "Buhera mátrix"
+      },
+      "originalTitleText": {
+       "text": "Buhera mátrix"
+      },
+      "titleType": {
+       "id": "movie",
+       "text": "Movie",
+       "canHaveEpisodes": false
+      },
+      "releaseYear": {
+       "year": 2007,
+       "endYear": null
+      },
+      "primaryImage": {
+       "url": "https://m.media-amazon.com/images/M/MV5BYmEyZDQ0MmUtMGQ5OC00NDBiLTk2YmYtNTEwZTkxMTI1ZjI2XkEyXkFqcGc@._V1_.jpg",
+       "width": 700,
+       "height": 1000
+      },
+      "ratingsSummary": {
+       "aggregateRating": 6.1,
+       "voteCount": 508
+      },
+      "runtime": {
+       "seconds": 4800
+      },
+      "plot": {
+       "plotText": {
+        "plainText": "Among embarrassing images of his life that fell out of photo albums, he guides viewer and two baffled guardian protectors."
+       }
+      },
+      "titleGenres": {
+       "genres": [
+        {
+         "genre": {
+          "text": "Comedy"
+         }
+        }
+       ]
+      }
+     }
+    }
+   },
+   {
+    "node": {
+     "title": {
+      "id": "tt30849138",
+      "titleText": {
+       "text": "Matrix: Generation"
+      },
+      "originalTitleText": {
+       "text": "Matrix: Generation"
+      },
+      "titleType": {
+       "id": "tvMovie",
+       "text": "TV Movie",
+       "canHaveEpisodes": false
+      },
+      "releaseYear": {
+       "year": 2024,
+       "endYear": null
+      },
+      "primaryImage": {
+       "url": "https://m.media-amazon.com/images/M/MV5BMmQ4NTY4NDgtY2ZlMi00MzQxLWJjMmUtZWU0ZjNmMWE0OTc1XkEyXkFqcGc@._V1_.jpg",
+       "width": 665,
+       "height": 950
+      },
+      "ratingsSummary": {
+       "aggregateRating": 6.3,
+       "voteCount": 361
+      },
+      "runtime": {
+       "seconds": 3180
+      },
+      "plot": {
+       "plotText": {
+        "plainText": "After the 1999 premiere of the first Matrix movie, it became a pop culture phenomenon. A special documentary about the Matrix saga and its prophetic aspects."
+       }
+      },
+      "titleGenres": {
+       "genres": [
+        {
+         "genre": {
+          "text": "Documentary"
+         }
+        }
+       ]
+      }
+     }
+    }
+   },
+   {
+    "node": {
+     "title": {
+      "id": "tt37049160",
+      "titleText": {
+       "text": "The Matrix in Shared Reality"
+      },
+      "originalTitleText": {
+       "text": "The Matrix in Shared Reality"
+      },
+      "titleType": {
+       "id": "movie",
+       "text": "Movie",
+       "canHaveEpisodes": false
+      },
+      "releaseYear": {
+       "year": 2025,
+       "endYear": null
+      },
+      "primaryImage": {
+       "url": "https://m.media-amazon.com/images/M/MV5BOTY2ODRkNjQtNzg5ZS00OTNmLWIxNmYtMTBkYjliYTNkZDUwXkEyXkFqcGc@._V1_.jpg",
+       "width": 1380,
+       "height": 2438
+      },
+      "ratingsSummary": {
+       "aggregateRating": null,
+       "voteCount": 0
+      },
+      "runtime": {
+       "seconds": 8160
+      },
+      "plot": {
+       "plotText": {
+        "plainText": "The worlds first-ever cinematic Shared Reality experience is coming to Cosms venues in Los Angeles and Dallas, featuring the blockbuster The Matrix in honor of the films 25th anniversary."
+       }
+      },
+      "titleGenres": {
+       "genres": [
+        {
+         "genre": {
+          "text": "Sci-Fi"
+         }
+        }
+       ]
+      }
+     }
+    }
+   },
+   {
+    "node": {
+     "title": {
+      "id": "tt16409916",
+      "titleText": {
+       "text": "Rifftrax: The Matrix"
+      },
+      "originalTitleText": {
+       "text": "The Matrix"
+      },
+      "titleType": {
+       "id": "movie",
+       "text": "Movie",
+       "canHaveEpisodes": false
+      },
+      "releaseYear": {
+       "year": 2006,
+       "endYear": null
+      },
+      "primaryImage": {
+       "url": "https://m.media-amazon.com/images/M/MV5BMzJmZDUzNmQtY2Y3MC00MzcxLWE2MWItMGUwOGJhYjNhNzljXkEyXkFqcGc@._V1_.jpg",
+       "width": 450,
+       "height": 600
+      },
+      "ratingsSummary": {
+       "aggregateRating": 7.6,
+       "voteCount": 24
+      },
+      "runtime": null,
+      "plot": {
+       "plotText": {
+        "plainText": "What is the Matrix? It's a laugh-a-minute RiffTrax with Mike Nelson and Kevin Murphy, that's what."
+       }
+      },
+      "titleGenres": {
+       "genres": [
+        {
+         "genre": {
+          "text": "Action"
+         }
+        },
+        {
+         "genre": {
+          "text": "Comedy"
+         }
+        },
+        {
+         "genre": {
+          "text": "Sci-Fi"
+         }
+        }
+       ]
+      }
+     }
+    }
+   },
+   {
+    "node": {
+     "title": {
+      "id": "tt1499960",
+      "titleText": {
+       "text": "The Living Matrix"
+      },
+      "originalTitleText": {
+       "text": "The Living Matrix"
+      },
+      "titleType": {
+       "id": "movie",
+       "text": "Movie",
+       "canHaveEpisodes": false
+      },
+      "releaseYear": {
+       "year": 2009,
+       "endYear": null
+      },
+      "primaryImage": {
+       "url": "https://m.media-amazon.com/images/M/MV5BMjAwNTU2NzExMV5BMl5BanBnXkFtZTgwNzI4Mzg2MTE@._V1_.jpg",
+       "width": 375,
+       "height": 500
+      },
+      "ratingsSummary": {
+       "aggregateRating": 6.6,
+       "voteCount": 196
+      },
+      "runtime": {
+       "seconds": 4980
+      },
+      "plot": {
+       "plotText": {
+        "plainText": "Our film, The Living Matrix - The Science of Healing, uncovers new ideas about the intricate web of factors that determine our health. We talk with a group of dedicated scientists, psychologists, bioenergetic researchers and holistic practitioners who are finding healing potential in new places. The documentary brings together academic and independent researchers, practitioners, and science journalists whose work reveals scientific evidence that energy and information fields, not genetics, control health and wellbeing. These include internationally known healer, Dr. Eric Pearl; cellular biologist and former Stanford University professor Dr. Bruce Lipton; author Lynne McTaggart, and former U.S. astronaut Dr. Edgar Mitchell, among others. Through in-person interviews and dramatized video vignettes that document the stories of people who recovered from chronic illness - including a five-year-old boy born with cerebral palsy, an osteopathic doctor with a brain tumor, and a housewife bedridden with chronic fatigue syndrome - the film demonstrates the effectiveness of bioenergetic medicine where traditional medicine has not succeeded."
+       }
+      },
+      "titleGenres": {
+       "genres": [
+        {
+         "genre": {
+          "text": "Documentary"
+         }
+        }
+       ]
+      }
+     }
+    }
+   },
+   {
+    "node": {
+     "title": {
+      "id": "tt9783704",
+      "titleText": {
+       "text": "Glitch in the Matrix"
+      },
+      "originalTitleText": {
+       "text": "Glitch in the Matrix"
+      },
+      "titleType": {
+       "id": "movie",
+       "text": "Movie",
+       "canHaveEpisodes": false
+      },
+      "releaseYear": null,
+      "primaryImage": null,
+      "ratingsSummary": {
+       "aggregateRating": null,
+       "voteCount": 0
+      },
+      "runtime": null,
+      "plot": {
+       "plotText": null
+      },
+      "titleGenres": null
+     }
+    }
+   },
+   {
+    "node": {
+     "title": {
+      "id": "tt1830851",
+      "titleText": {
+       "text": "The Matrix Revolutions Revisited"
+      },
+      "originalTitleText": {
+       "text": "The Matrix Revolutions Revisited"
+      },
+      "titleType": {
+       "id": "movie",
+       "text": "Movie",
+       "canHaveEpisodes": false
+      },
+      "releaseYear": {
+       "year": 2004,
+       "endYear": null
+      },
+      "primaryImage": {
+       "url": "https://m.media-amazon.com/images/M/MV5BYjJkNDU5ODktYjYxNS00ZjBkLWIyMDctNjJhYWFjOWYxY2Q4XkEyXkFqcGc@._V1_.jpg",
+       "width": 676,
+       "height": 1000
+      },
+      "ratingsSummary": {
+       "aggregateRating": 6.7,
+       "voteCount": 54
+      },
+      "runtime": null,
+      "plot": null,
+      "titleGenres": {
+       "genres": [
+        {
+         "genre": {
+          "text": "Documentary"
+         }
+        }
+       ]
+      }
+     }
+    }
+   },
+   {
+    "node": {
+     "title": {
+      "id": "tt11697226",
+      "titleText": {
+       "text": "Finding God"
+      },
+      "originalTitleText": {
+       "text": "Finding God"
+      },
+      "titleType": {
+       "id": "movie",
+       "text": "Movie",
+       "canHaveEpisodes": false
+      },
+      "releaseYear": {
+       "year": 2020,
+       "endYear": null
+      },
+      "primaryImage": {
+       "url": "https://m.media-amazon.com/images/M/MV5BMzVmMzQ1ZmUtZmMyZC00NjYwLTg5YzItNjExY2FmZDQxMmYyXkEyXkFqcGc@._V1_.jpg",
+       "width": 2000,
+       "height": 3000
+      },
+      "ratingsSummary": {
+       "aggregateRating": null,
+       "voteCount": 0
+      },
+      "runtime": null,
+      "plot": null,
+      "titleGenres": null
+     }
+    }
+   },
+   {
+    "node": {
+     "title": {
+      "id": "tt11574780",
+      "titleText": {
+       "text": "The Matrix Redeemed"
+      },
+      "originalTitleText": {
+       "text": "The Immortals Redeemed"
+      },
+      "titleType": {
+       "id": "movie",
+       "text": "Movie",
+       "canHaveEpisodes": false
+      },
+      "releaseYear": {
+       "year": 2020,
+       "endYear": null
+      },
+      "primaryImage": {
+       "url": "https://m.media-amazon.com/images/M/MV5BNWM4NzgwNTYtM2Y4OS00NTk5LWFkN2ItNzFiNjQ5MjBmODdiXkEyXkFqcGc@._V1_.jpg",
+       "width": 1232,
+       "height": 2188
+      },
+      "ratingsSummary": {
+       "aggregateRating": 6.3,
+       "voteCount": 12
+      },
+      "runtime": null,
+      "plot": {
+       "plotText": {
+        "plainText": "Real life story of a writer's struggle with Hollywood. The Immortals screenplay is pitched and the studio proceeds to steal and distort it. They release his work as The Matrix franchise. Madness, a ruse, a nightmare? You're gonna find out."
+       }
+      },
+      "titleGenres": {
+       "genres": [
+        {
+         "genre": {
+          "text": "Biography"
+         }
+        }
+       ]
+      }
+     }
+    }
+   },
+   {
+    "node": {
+     "title": {
+      "id": "tt27796295",
+      "titleText": {
+       "text": "The Religion Matrix"
+      },
+      "originalTitleText": {
+       "text": "The Religion Matrix"
+      },
+      "titleType": {
+       "id": "movie",
+       "text": "Movie",
+       "canHaveEpisodes": false
+      },
+      "releaseYear": {
+       "year": 2021,
+       "endYear": null
+      },
+      "primaryImage": {
+       "url": "https://m.media-amazon.com/images/M/MV5BZmQ1YzQwNmYtYjA1OC00MTRiLTgwM2YtMmVhM2QzNDg2M2IwXkEyXkFqcGc@._V1_.jpg",
+       "width": 1400,
+       "height": 2100
+      },
+      "ratingsSummary": {
+       "aggregateRating": null,
+       "voteCount": 0
+      },
+      "runtime": {
+       "seconds": 3540
+      },
+      "plot": {
+       "plotText": {
+        "plainText": "Explores the various ways humanity is striving to find salvation. Take a journey through the various religions of the world and you will look at your life with a clearer vision."
+       }
+      },
+      "titleGenres": {
+       "genres": [
+        {
+         "genre": {
+          "text": "Documentary"
+         }
+        }
+       ]
+      }
+     }
+    }
+   },
+   {
+    "node": {
+     "title": {
+      "id": "tt2990982",
+      "titleText": {
+       "text": "The Divine Matrix"
+      },
+      "originalTitleText": {
+       "text": "The Divine Matrix"
+      },
+      "titleType": {
+       "id": "movie",
+       "text": "Movie",
+       "canHaveEpisodes": false
+      },
+      "releaseYear": {
+       "year": 2008,
+       "endYear": null
+      },
+      "primaryImage": {
+       "url": "https://m.media-amazon.com/images/M/MV5BMjA1MTEzNDU3M15BMl5BanBnXkFtZTgwNzUxODA2MDE@._V1_.jpg",
+       "width": 375,
+       "height": 500
+      },
+      "ratingsSummary": {
+       "aggregateRating": 8.2,
+       "voteCount": 10
+      },
+      "runtime": {
+       "seconds": 2820
+      },
+      "plot": {
+       "plotText": {
+        "plainText": "We join Gregg Braden, author of The Divine Matrix, in a comfortable setting as he explains the nature of the divine matrix. This matrix is a great field of intelligent energy that connects all things in existence, for all of time. As it connects all things, it serves as a conduit of information, a means for manifestation, and a mirror reflecting our truths."
+       }
+      },
+      "titleGenres": {
+       "genres": [
+        {
+         "genre": {
+          "text": "Documentary"
+         }
+        }
+       ]
+      }
+     }
+    }
+   },
+   {
+    "node": {
+     "title": {
+      "id": "tt9839912",
+      "titleText": {
+       "text": "God's Matrix"
+      },
+      "originalTitleText": {
+       "text": "God's Matrix"
+      },
+      "titleType": {
+       "id": "movie",
+       "text": "Movie",
+       "canHaveEpisodes": false
+      },
+      "releaseYear": null,
+      "primaryImage": {
+       "url": "https://m.media-amazon.com/images/M/MV5BMDI3NzE5NjAtNWNiYS00OGVkLWEzYTctODg1ZTFmYmIwMjY1XkEyXkFqcGc@._V1_.jpg",
+       "width": 2790,
+       "height": 4080
+      },
+      "ratingsSummary": {
+       "aggregateRating": null,
+       "voteCount": 0
+      },
+      "runtime": null,
+      "plot": {
+       "plotText": null
+      },
+      "titleGenres": {
+       "genres": [
+        {
+         "genre": {
+          "text": "Sci-Fi"
+         }
+        }
+       ]
+      }
+     }
+    }
+   },
+   {
+    "node": {
+     "title": {
+      "id": "tt8602258",
+      "titleText": {
+       "text": "Die Luther Matrix"
+      },
+      "originalTitleText": {
+       "text": "Die Luther Matrix"
+      },
+      "titleType": {
+       "id": "tvMovie",
+       "text": "TV Movie",
+       "canHaveEpisodes": false
+      },
+      "releaseYear": {
+       "year": 2017,
+       "endYear": null
+      },
+      "primaryImage": {
+       "url": "https://m.media-amazon.com/images/M/MV5BZDcyZmJmODMtODIwMi00N2U5LTk2MWUtZTIyNGQyNWU5ODM4XkEyXkFqcGc@._V1_.jpg",
+       "width": 725,
+       "height": 1024
+      },
+      "ratingsSummary": {
+       "aggregateRating": null,
+       "voteCount": 0
+      },
+      "runtime": {
+       "seconds": 5400
+      },
+      "plot": {
+       "plotText": {
+        "plainText": "500 years after Martin Luther nailed his 95 theses to the door of the Castle Church in Wittenberg, a detained whistle-blower invokes this famous historical figure as a justification for leaking secret government documents."
+       }
+      },
+      "titleGenres": {
+       "genres": [
+        {
+         "genre": {
+          "text": "Documentary"
+         }
+        },
+        {
+         "genre": {
+          "text": "Thriller"
+         }
+        }
+       ]
+      }
+     }
+    }
+   },
+   {
+    "node": {
+     "title": {
+      "id": "tt33398431",
+      "titleText": {
+       "text": "The Matrix Reloaded"
+      },
+      "originalTitleText": {
+       "text": "The Matrix Reloaded"
+      },
+      "titleType": {
+       "id": "movie",
+       "text": "Movie",
+       "canHaveEpisodes": false
+      },
+      "releaseYear": {
+       "year": 2008,
+       "endYear": null
+      },
+      "primaryImage": null,
+      "ratingsSummary": {
+       "aggregateRating": null,
+       "voteCount": 0
+      },
+      "runtime": null,
+      "plot": null,
+      "titleGenres": null
+     }
+    }
+   },
+   {
+    "node": {
+     "title": {
+      "id": "tt39745791",
+      "titleText": {
+       "text": "Avatars: The Matrix"
+      },
+      "originalTitleText": {
+       "text": "Avatars: The Matrix"
+      },
+      "titleType": {
+       "id": "movie",
+       "text": "Movie",
+       "canHaveEpisodes": false
+      },
+      "releaseYear": null,
+      "primaryImage": {
+       "url": "https://m.media-amazon.com/images/M/MV5BNDc2M2JiYTgtOWY3MC00NTI1LTljMzktOTI4ZmE5OTg4M2JhXkEyXkFqcGc@._V1_.jpg",
+       "width": 1024,
+       "height": 1024
+      },
+      "ratingsSummary": {
+       "aggregateRating": null,
+       "voteCount": 0
+      },
+      "runtime": null,
+      "plot": {
+       "plotText": {
+        "plainText": "After waking with no memory in a frozen forest, a teen girl discovers she is one of the \"Awakened,\" hunted by agents across a fractured reality. Guided by strangers and visions, she must find a hidden key to seal the rift before worlds end"
+       }
+      },
+      "titleGenres": {
+       "genres": [
+        {
+         "genre": {
+          "text": "Sci-Fi"
+         }
+        }
+       ]
+      }
+     }
+    }
+   },
+   {
+    "node": {
+     "title": {
+      "id": "tt10933090",
+      "titleText": {
+       "text": "Matrix Zone"
+      },
+      "originalTitleText": {
+       "text": "Matrix Zone"
+      },
+      "titleType": {
+       "id": "movie",
+       "text": "Movie",
+       "canHaveEpisodes": false
+      },
+      "releaseYear": {
+       "year": 2013,
+       "endYear": null
+      },
+      "primaryImage": null,
+      "ratingsSummary": {
+       "aggregateRating": null,
+       "voteCount": 0
+      },
+      "runtime": null,
+      "plot": null,
+      "titleGenres": {
+       "genres": [
+        {
+         "genre": {
+          "text": "Action"
+         }
+        }
+       ]
+      }
+     }
+    }
+   },
+   {
+    "node": {
+     "title": {
+      "id": "tt2121323",
+      "titleText": {
+       "text": "Matrix of Evil"
+      },
+      "originalTitleText": {
+       "text": "Matrix of Evil"
+      },
+      "titleType": {
+       "id": "movie",
+       "text": "Movie",
+       "canHaveEpisodes": false
+      },
+      "releaseYear": {
+       "year": 2003,
+       "endYear": null
+      },
+      "primaryImage": {
+       "url": "https://m.media-amazon.com/images/M/MV5BNzI0YzlhZWUtNWFlYS00ZThjLTgxZTItOTRiNzRjMWVlODA3XkEyXkFqcGc@._V1_.jpg",
+       "width": 3024,
+       "height": 4032
+      },
+      "ratingsSummary": {
+       "aggregateRating": 5,
+       "voteCount": 76
+      },
+      "runtime": {
+       "seconds": 7680
+      },
+      "plot": null,
+      "titleGenres": {
+       "genres": [
+        {
+         "genre": {
+          "text": "Documentary"
+         }
+        }
+       ]
+      }
+     }
+    }
+   },
+   {
+    "node": {
+     "title": {
+      "id": "tt4413244",
+      "titleText": {
+       "text": "Matrix of Love"
+      },
+      "originalTitleText": {
+       "text": "Matrix of Love"
+      },
+      "titleType": {
+       "id": "movie",
+       "text": "Movie",
+       "canHaveEpisodes": false
+      },
+      "releaseYear": {
+       "year": 2008,
+       "endYear": null
+      },
+      "primaryImage": null,
+      "ratingsSummary": {
+       "aggregateRating": 8.1,
+       "voteCount": 20
+      },
+      "runtime": null,
+      "plot": null,
+      "titleGenres": {
+       "genres": [
+        {
+         "genre": {
+          "text": "Documentary"
+         }
+        }
+       ]
+      }
+     }
+    }
+   },
+   {
+    "node": {
+     "title": {
+      "id": "tt11199234",
+      "titleText": {
+       "text": "Aufstand in der Matrix"
+      },
+      "originalTitleText": {
+       "text": "Aufstand in der Matrix"
+      },
+      "titleType": {
+       "id": "movie",
+       "text": "Movie",
+       "canHaveEpisodes": false
+      },
+      "releaseYear": {
+       "year": 2019,
+       "endYear": null
+      },
+      "primaryImage": {
+       "url": "https://m.media-amazon.com/images/M/MV5BZDU4MDFiZmYtOGYxZi00MzA2LWE4NWUtMjhjZGFiMzRiMjBhXkEyXkFqcGc@._V1_.jpg",
+       "width": 1200,
+       "height": 1600
+      },
+      "ratingsSummary": {
+       "aggregateRating": 7.3,
+       "voteCount": 7
+      },
+      "runtime": {
+       "seconds": 4260
+      },
+      "plot": {
+       "plotText": {
+        "plainText": "Riot in the Matrix. Data protection activists fighting against Big Data and the surveillance state."
+       }
+      },
+      "titleGenres": {
+       "genres": [
+        {
+         "genre": {
+          "text": "Documentary"
+         }
+        }
+       ]
+      }
+     }
+    }
+   },
+   {
+    "node": {
+     "title": {
+      "id": "tt2355608",
+      "titleText": {
+       "text": "Bigger Questions... The Psychic Matrix"
+      },
+      "originalTitleText": {
+       "text": "Bigger Questions... The Psychic Matrix"
+      },
+      "titleType": {
+       "id": "movie",
+       "text": "Movie",
+       "canHaveEpisodes": false
+      },
+      "releaseYear": {
+       "year": 2008,
+       "endYear": null
+      },
+      "primaryImage": {
+       "url": "https://m.media-amazon.com/images/M/MV5BMTM5Mzk1NzE1N15BMl5BanBnXkFtZTgwOTMzNzA2MDE@._V1_.jpg",
+       "width": 375,
+       "height": 500
+      },
+      "ratingsSummary": {
+       "aggregateRating": 4.6,
+       "voteCount": 10
+      },
+      "runtime": {
+       "seconds": 3120
+      },
+      "plot": {
+       "plotText": {
+        "plainText": "Part three of the Bigger Questions Series, The Psychic Matrix explains the true ?nature of this wonderful \"Multiverse\" From the scientist who starred in \"?What the Bleep\" , \"The Secret\" and more."
+       }
+      },
+      "titleGenres": {
+       "genres": [
+        {
+         "genre": {
+          "text": "Documentary"
+         }
+        }
+       ]
+      }
+     }
+    }
+   },
+   {
+    "node": {
+     "title": {
+      "id": "tt12093002",
+      "titleText": {
+       "text": "Matrix Isolation"
+      },
+      "originalTitleText": {
+       "text": "Matrix Isolation"
+      },
+      "titleType": {
+       "id": "movie",
+       "text": "Movie",
+       "canHaveEpisodes": false
+      },
+      "releaseYear": {
+       "year": 2020,
+       "endYear": null
+      },
+      "primaryImage": {
+       "url": "https://m.media-amazon.com/images/M/MV5BNWE3ODQ1YzAtN2E1NC00Y2U0LWE0ZWMtOWJmNDQ0MjJlZmQyXkEyXkFqcGc@._V1_.jpg",
+       "width": 2771,
+       "height": 3464
+      },
+      "ratingsSummary": {
+       "aggregateRating": null,
+       "voteCount": 0
+      },
+      "runtime": {
+       "seconds": 3600
+      },
+      "plot": {
+       "plotText": {
+        "plainText": "During the Conoravirus outbreak worldwide, actors come together to show how the isolation is effecting them, as if we all live in the Matrix world.."
+       }
+      },
+      "titleGenres": {
+       "genres": [
+        {
+         "genre": {
+          "text": "Documentary"
+         }
+        },
+        {
+         "genre": {
+          "text": "Comedy"
+         }
+        },
+        {
+         "genre": {
+          "text": "Sci-Fi"
+         }
+        }
+       ]
+      }
+     }
+    }
+   },
+   {
+    "node": {
+     "title": {
+      "id": "tt31123035",
+      "titleText": {
+       "text": "Transformers: War for the Matrix"
+      },
+      "originalTitleText": {
+       "text": "Transformers: War for the Matrix"
+      },
+      "titleType": {
+       "id": "movie",
+       "text": "Movie",
+       "canHaveEpisodes": false
+      },
+      "releaseYear": null,
+      "primaryImage": {
+       "url": "https://m.media-amazon.com/images/M/MV5BM2JjNjJhM2MtY2I1OS00MWNmLTgwYmUtNDhjYWNlYTU5NTkzXkEyXkFqcGc@._V1_.jpg",
+       "width": 1920,
+       "height": 1080
+      },
+      "ratingsSummary": {
+       "aggregateRating": null,
+       "voteCount": 0
+      },
+      "runtime": {
+       "seconds": 6300
+      },
+      "plot": {
+       "plotText": {
+        "plainText": "In the war's final days, the Autobots have fled from Cybertron's as it falls under Megatron's control. The Decepticon leader then tracks down the escaping Autobots to a planet called earth, not knowing of the secrets that lie beneath. This will be the first project of a stop motion franchise."
+       }
+      },
+      "titleGenres": {
+       "genres": [
+        {
+         "genre": {
+          "text": "Action"
+         }
+        }
+       ]
+      }
+     }
+    }
+   },
+   {
+    "node": {
+     "title": {
+      "id": "tt33508480",
+      "titleText": {
+       "text": "Down the Rabbit Hole: Reflections of the Matrix"
+      },
+      "originalTitleText": {
+       "text": "Down the Rabbit Hole: Reflections of the Matrix"
+      },
+      "titleType": {
+       "id": "movie",
+       "text": "Movie",
+       "canHaveEpisodes": false
+      },
+      "releaseYear": {
+       "year": 2024,
+       "endYear": null
+      },
+      "primaryImage": {
+       "url": "https://m.media-amazon.com/images/M/MV5BNWJjMjI4NjMtZmJjZS00ZTc0LThkZTItZTc1OWU1OTFiYWFkXkEyXkFqcGc@._V1_.jpg",
+       "width": 1066,
+       "height": 1564
+      },
+      "ratingsSummary": {
+       "aggregateRating": null,
+       "voteCount": 0
+      },
+      "runtime": null,
+      "plot": null,
+      "titleGenres": {
+       "genres": [
+        {
+         "genre": {
+          "text": "Sci-Fi"
+         }
+        }
+       ]
+      }
+     }
+    }
+   },
+   {
+    "node": {
+     "title": {
+      "id": "tt0438231",
+      "titleText": {
+       "text": "The Matrix: The Movie Special"
+      },
+      "originalTitleText": {
+       "text": "The Matrix: The Movie Special"
+      },
+      "titleType": {
+       "id": "tvMovie",
+       "text": "TV Movie",
+       "canHaveEpisodes": false
+      },
+      "releaseYear": {
+       "year": 1999,
+       "endYear": null
+      },
+      "primaryImage": null,
+      "ratingsSummary": {
+       "aggregateRating": 7.9,
+       "voteCount": 82
+      },
+      "runtime": {
+       "seconds": 1800
+      },
+      "plot": {
+       "plotText": {
+        "plainText": "Before Neo and Morpheus became a household name and an annual Halloween costume, this Mtv original movie special was the first of it's kind paving the way for hundreds of half assed replicas. Hosted by Chris Connelly, on the actual Matrix movie set, the special delivered viewers an indepth look into the making of the Matrix, the Movie. Exclusive interviews with the cast and crew helped make this show the Ultimate guide to the Matrix and it's everlasting sound track."
+       }
+      },
+      "titleGenres": {
+       "genres": [
+        {
+         "genre": {
+          "text": "Action"
+         }
+        }
+       ]
+      }
+     }
+    }
+   },
+   {
+    "node": {
+     "title": {
+      "id": "tt1074193",
+      "titleText": {
+       "text": "Decoded: The Making of 'The Matrix Reloaded'"
+      },
+      "originalTitleText": {
+       "text": "Decoded: The Making of 'The Matrix Reloaded'"
+      },
+      "titleType": {
+       "id": "tvMovie",
+       "text": "TV Movie",
+       "canHaveEpisodes": false
+      },
+      "releaseYear": {
+       "year": 2003,
+       "endYear": null
+      },
+      "primaryImage": null,
+      "ratingsSummary": {
+       "aggregateRating": 7.7,
+       "voteCount": 32
+      },
+      "runtime": {
+       "seconds": 1440
+      },
+      "plot": null,
+      "titleGenres": {
+       "genres": [
+        {
+         "genre": {
+          "text": "Sci-Fi"
+         }
+        }
+       ]
+      }
+     }
+    }
+   },
+   {
+    "node": {
+     "title": {
+      "id": "tt0389150",
+      "titleText": {
+       "text": "The Matrix Defence"
+      },
+      "originalTitleText": {
+       "text": "The Matrix Defence"
+      },
+      "titleType": {
+       "id": "tvMovie",
+       "text": "TV Movie",
+       "canHaveEpisodes": false
+      },
+      "releaseYear": {
+       "year": 2003,
+       "endYear": null
+      },
+      "primaryImage": null,
+      "ratingsSummary": {
+       "aggregateRating": 7.9,
+       "voteCount": 17
+      },
+      "runtime": null,
+      "plot": {
+       "plotText": {
+        "plainText": "How much of an influence can a film have? This documentary looks at the influence of The Matrix, a film that millions of people worldwide have seen. The film looks at several cases of murder or attempted murder where the accused appears to have been influenced by the film to kill or has believed that they are part of the matrix and must try to battle through it like Neo himself."
+       }
+      },
+      "titleGenres": {
+       "genres": [
+        {
+         "genre": {
+          "text": "Documentary"
+         }
+        }
+       ]
+      }
+     }
+    }
+   },
+   {
+    "node": {
+     "title": {
+      "id": "tt1595473",
+      "titleText": {
+       "text": "The American Matrix: Age of Deception"
+      },
+      "originalTitleText": {
+       "text": "The American Matrix: Age of Deception"
+      },
+      "titleType": {
+       "id": "movie",
+       "text": "Movie",
+       "canHaveEpisodes": false
+      },
+      "releaseYear": {
+       "year": 2009,
+       "endYear": null
+      },
+      "primaryImage": {
+       "url": "https://m.media-amazon.com/images/M/MV5BNjcxODE4MzE3MV5BMl5BanBnXkFtZTcwNjMwMzcxMw@@._V1_.jpg",
+       "width": 936,
+       "height": 1220
+      },
+      "ratingsSummary": {
+       "aggregateRating": 4.5,
+       "voteCount": 27
+      },
+      "runtime": {
+       "seconds": 7140
+      },
+      "plot": {
+       "plotText": {
+        "plainText": "This new movie details news items that all people should be aware of such as the economic collapse of The United States and the formation of a New World Order. See what has really been going on in America today and the world we live in. Is the USA headed down a road to fascism? Will the dollar be replaced by a new world currency?"
+       }
+      },
+      "titleGenres": {
+       "genres": [
+        {
+         "genre": {
+          "text": "Documentary"
+         }
+        },
+        {
+         "genre": {
+          "text": "News"
+         }
+        }
+       ]
+      }
+     }
+    }
+   },
+   {
+    "node": {
+     "title": {
+      "id": "tt10550604",
+      "titleText": {
+       "text": "The Cosmic Matrix: Science, SETI & UFOs"
+      },
+      "originalTitleText": {
+       "text": "The Cosmic Matrix: Science, SETI & UFOs"
+      },
+      "titleType": {
+       "id": "movie",
+       "text": "Movie",
+       "canHaveEpisodes": false
+      },
+      "releaseYear": {
+       "year": 2019,
+       "endYear": null
+      },
+      "primaryImage": {
+       "url": "https://m.media-amazon.com/images/M/MV5BOWRkNzhhZTMtNzlhZS00ZTUxLTlhMjctNTRlZGFhYmRjYTI4XkEyXkFqcGc@._V1_.jpg",
+       "width": 2000,
+       "height": 3000
+      },
+      "ratingsSummary": {
+       "aggregateRating": null,
+       "voteCount": 0
+      },
+      "runtime": {
+       "seconds": 4320
+      },
+      "plot": {
+       "plotText": {
+        "plainText": "The search for life in the universe has now been embraced by scientists around the world. Join us on an amazing new odyssey of Cosmic Disclosure, across the great expanse of space and here on Earth, from the birth of the universe to the present, as we take a fresh look at Science, SETI, Exoplanet Research, UFOlogy, Religion and their place with respect to the legitimate exploration of Extraterrestrial Life. Where does life and intelligence come from? How is SETI and Ufology now shaping the search for extraterrestrial intelligence in space and here on Earth? What have we learned from the recent discovery of thousands of planets revolving around stars beyond our own solar system? Join us as we explore \"The Cosmic Matrix: Science, SETI and UFOs.\" Along the way we discover what drives our beliefs, how our preconceived assumptions shape our search for life, extraterrestrial intelligence, and our place in the universe. For the first time in history, this film presents an amazing new look at what we now know and hope to learn about our place among the stars."
+       }
+      },
+      "titleGenres": {
+       "genres": [
+        {
+         "genre": {
+          "text": "Documentary"
+         }
+        }
+       ]
+      }
+     }
+    }
+   },
+   {
+    "node": {
+     "title": {
+      "id": "tt33372959",
+      "titleText": {
+       "text": "E.V.E. Absolute Matrix"
+      },
+      "originalTitleText": {
+       "text": "E.V.E. Absolute Matrix"
+      },
+      "titleType": {
+       "id": "movie",
+       "text": "Movie",
+       "canHaveEpisodes": false
+      },
+      "releaseYear": {
+       "year": 2009,
+       "endYear": null
+      },
+      "primaryImage": {
+       "url": "https://m.media-amazon.com/images/M/MV5BOTkyZjI5MTEtYzViYi00ZmU0LWFlNDctNTcyM2JkMDMzNGJmXkEyXkFqcGc@._V1_.jpg",
+       "width": 660,
+       "height": 928
+      },
+      "ratingsSummary": {
+       "aggregateRating": null,
+       "voteCount": 0
+      },
+      "runtime": {
+       "seconds": 2880
+      },
+      "plot": {
+       "plotText": {
+        "plainText": "Specializing in performing New Music and works by contemporary composers, Eve Egoyan is a powerful and commanding performer. In E.V.E. Absolute Matrix, Josephson captures Egoyan's intensity as she performs a 5-hour epic for piano, the 12 part \"Inner Cities\" by composer Alvin Curran. The piano and the performer's hands are not visible, nor is the music audible."
+       }
+      },
+      "titleGenres": {
+       "genres": [
+        {
+         "genre": {
+          "text": "Documentary"
+         }
+        },
+        {
+         "genre": {
+          "text": "Drama"
+         }
+        },
+        {
+         "genre": {
+          "text": "Music"
+         }
+        }
+       ]
+      }
+     }
+    }
+   },
+   {
+    "node": {
+     "title": {
+      "id": "tt9052972",
+      "titleText": {
+       "text": "The Matrix for Radical Simulationists (aka How to Read The Matrix as a Cypher)"
+      },
+      "originalTitleText": {
+       "text": "The Matrix for Radical Simulationists (aka How to Read The Matrix as a Cypher)"
+      },
+      "titleType": {
+       "id": "movie",
+       "text": "Movie",
+       "canHaveEpisodes": false
+      },
+      "releaseYear": {
+       "year": 2018,
+       "endYear": null
+      },
+      "primaryImage": {
+       "url": "https://m.media-amazon.com/images/M/MV5BMTc3MjI0MjEtYzI3YS00NWFkLTg1ZWEtOGEzNTY0NmUzMjMzXkEyXkFqcGc@._V1_.jpg",
+       "width": 2125,
+       "height": 3006
+      },
+      "ratingsSummary": {
+       "aggregateRating": null,
+       "voteCount": 0
+      },
+      "runtime": null,
+      "plot": null,
+      "titleGenres": null
+     }
+    }
+   },
+   {
+    "node": {
+     "title": {
+      "id": "tt9052950",
+      "titleText": {
+       "text": "The Matrix for Realists (aka Reviewing The Matrix in Terms of One Cypher)"
+      },
+      "originalTitleText": {
+       "text": "The Matrix for Realists (aka Reviewing The Matrix in Terms of One Cypher)"
+      },
+      "titleType": {
+       "id": "movie",
+       "text": "Movie",
+       "canHaveEpisodes": false
+      },
+      "releaseYear": {
+       "year": 2018,
+       "endYear": null
+      },
+      "primaryImage": {
+       "url": "https://m.media-amazon.com/images/M/MV5BYzY3MTFjMzMtMjk0NS00MDkwLWE2Y2UtMjc2MzI5MjdjNjRiXkEyXkFqcGc@._V1_.jpg",
+       "width": 2125,
+       "height": 3006
+      },
+      "ratingsSummary": {
+       "aggregateRating": null,
+       "voteCount": 0
+      },
+      "runtime": null,
+      "plot": null,
+      "titleGenres": null
+     }
+    }
+   },
+   {
+    "node": {
+     "title": {
+      "id": "tt31593066",
+      "titleText": {
+       "text": "New York Dolls Live at the Matrix Club"
+      },
+      "originalTitleText": {
+       "text": "New York Dolls Live at the Matrix Club"
+      },
+      "titleType": {
+       "id": "movie",
+       "text": "Movie",
+       "canHaveEpisodes": false
+      },
+      "releaseYear": {
+       "year": 1973,
+       "endYear": null
+      },
+      "primaryImage": {
+       "url": "https://m.media-amazon.com/images/M/MV5BMmYyY2EzMzItYjgwOS00ZGFjLThjNzItOTFkZDQ1ZjY3MjQwXkEyXkFqcGc@._V1_.jpg",
+       "width": 756,
+       "height": 1010
+      },
+      "ratingsSummary": {
+       "aggregateRating": null,
+       "voteCount": 0
+      },
+      "runtime": {
+       "seconds": 3660
+      },
+      "plot": {
+       "plotText": {
+        "plainText": "New York Dolls on tour in California, met the San Francisco audience at the Matrix Club on Sept. 4-5, 1973, to promote their debut album produced by Todd Rundgren. The set list included \"Looking for a Kiss\", \"Personality Crisis\", \"Bad Girl\" and \"Jet Boy\". The sound was raw, slightly out of tune and rattling, the whole thing seemed a bit unrehearsed or influenced by external circumstances."
+       }
+      },
+      "titleGenres": {
+       "genres": [
+        {
+         "genre": {
+          "text": "Documentary"
+         }
+        },
+        {
+         "genre": {
+          "text": "Music"
+         }
+        }
+       ]
+      }
+     }
+    }
+   },
+   {
+    "node": {
+     "title": {
+      "id": "tt9052934",
+      "titleText": {
+       "text": "The Matrix for Realists (aka Reviewing The Matrix in Terms of One Cypher)--A Timesaving, Perception-Taxing Version"
+      },
+      "originalTitleText": {
+       "text": "The Matrix for Realists (aka Reviewing The Matrix in Terms of One Cypher)--A Timesaving, Perception-Taxing Version"
+      },
+      "titleType": {
+       "id": "movie",
+       "text": "Movie",
+       "canHaveEpisodes": false
+      },
+      "releaseYear": {
+       "year": 2018,
+       "endYear": null
+      },
+      "primaryImage": {
+       "url": "https://m.media-amazon.com/images/M/MV5BMmQ0YWQ2ZWQtYTUzYS00NmRmLWI0ODYtMWFlODY3MzRlYzljXkEyXkFqcGc@._V1_.jpg",
+       "width": 2125,
+       "height": 3006
+      },
+      "ratingsSummary": {
+       "aggregateRating": null,
+       "voteCount": 0
+      },
+      "runtime": {
+       "seconds": 8220
+      },
+      "plot": null,
+      "titleGenres": null
+     }
+    }
+   },
+   {
+    "node": {
+     "title": {
+      "id": "tt2062668",
+      "titleText": {
+       "text": "The Happiness Matrix"
+      },
+      "originalTitleText": {
+       "text": "The Happiness Matrix"
+      },
+      "titleType": {
+       "id": "movie",
+       "text": "Movie",
+       "canHaveEpisodes": false
+      },
+      "releaseYear": {
+       "year": 2012,
+       "endYear": null
+      },
+      "primaryImage": {
+       "url": "https://m.media-amazon.com/images/M/MV5BMTQ0MzQxNzE1MV5BMl5BanBnXkFtZTgwNTU0NTA4NjE@._V1_.jpg",
+       "width": 375,
+       "height": 500
+      },
+      "ratingsSummary": {
+       "aggregateRating": null,
+       "voteCount": 0
+      },
+      "runtime": {
+       "seconds": 7380
+      },
+      "plot": {
+       "plotText": {
+        "plainText": "Volume 1 of \"The Happiness Matrix,\" a 2-hour personal growth DVD, manifesting, in a practical, authentic and engaging manner, a powerful thought process that anyone can use to transform their lives. Sourced from wisdom traditions, \"The Happiness Matrix\" is a thoroughly tested and proven program based on the life-changing MBA course, \"Creativity & Personal Mastery,\" taught at some of the world's top ranking business schools. \"The Happiness Matrix\" will open you up to possibilities you never dreamed of and give you the tools you need to begin your transformation. Your internal changes will be rapidly reflected in the world outside and lead you to an immeasurably more fulfilling life."
+       }
+      },
+      "titleGenres": {
+       "genres": [
+        {
+         "genre": {
+          "text": "Documentary"
+         }
+        }
+       ]
+      }
+     }
+    }
+   },
+   {
+    "node": {
+     "title": {
+      "id": "tt7068378",
+      "titleText": {
+       "text": "The Matrix of Control"
+      },
+      "originalTitleText": {
+       "text": "The Matrix of Control"
+      },
+      "titleType": {
+       "id": "movie",
+       "text": "Movie",
+       "canHaveEpisodes": false
+      },
+      "releaseYear": {
+       "year": 2014,
+       "endYear": null
+      },
+      "primaryImage": null,
+      "ratingsSummary": {
+       "aggregateRating": null,
+       "voteCount": 0
+      },
+      "runtime": {
+       "seconds": 3000
+      },
+      "plot": {
+       "plotText": {
+        "plainText": "Silent weapon technology has grown from Operations Research (O.R.), a strategic and tactical methodology created under the Military Management in England during World War II. The original purpose of Operations Research was to study the strategic and tactical problems of air and land defense with the objective of effective use of limited military resources against foreign enemies (i.e., logistics). In this documentary, we learn the making and interviews of this happening."
+       }
+      },
+      "titleGenres": {
+       "genres": [
+        {
+         "genre": {
+          "text": "Documentary"
+         }
+        }
+       ]
+      }
+     }
+    }
+   }
+  ]
+ }
+}

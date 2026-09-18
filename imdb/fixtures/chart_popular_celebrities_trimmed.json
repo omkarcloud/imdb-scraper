@@ -1,0 +1,265 @@
+{
+ "topMeterNames": {
+  "pageInfo": {
+   "endCursor": "eyJlc1Rva2VuIjpbIjEwMCJdLCJmaWx0ZXIiOiJ7fSIsInNpZyI6ImFkMGY4YWZmYTI4ZjAwMDZhNjVkMGJkYmFiNzRiMjAxYTQzM2U1MDBlZjRlYTVlOTRkYTE4N2RlNzU5YjI2MmUifQ==",
+   "hasNextPage": true
+  },
+  "edges": [
+   {
+    "node": {
+     "id": "nm0659363",
+     "nameText": {
+      "text": "Hayden Panettiere"
+     },
+     "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BZmUzNDVkNmEtNzg5NC00YWJlLTk2NDktNzc1NzFmOGM5ZjE4XkEyXkFqcGc@._V1_.jpg",
+      "width": 519,
+      "height": 779
+     },
+     "professions": [
+      {
+       "profession": {
+        "text": "Actress"
+       }
+      },
+      {
+       "profession": {
+        "text": "Producer"
+       }
+      },
+      {
+       "profession": {
+        "text": "Music Department"
+       }
+      }
+     ],
+     "meterRank": {
+      "currentRank": 1,
+      "rankChange": {
+       "changeDirection": "UP",
+       "difference": 404
+      }
+     },
+     "knownFor": {
+      "edges": [
+       {
+        "node": {
+         "title": {
+          "id": "tt0813715",
+          "titleText": {
+           "text": "Heroes"
+          },
+          "releaseYear": {
+           "year": 2006
+          }
+         }
+        }
+       }
+      ]
+     }
+    }
+   },
+   {
+    "node": {
+     "id": "nm1296883",
+     "nameText": {
+      "text": "Agnez Mo"
+     },
+     "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BN2I1N2RkYWYtZWU0MC00ZDRlLWEzOGYtODkxMmJhYmYxMzM4XkEyXkFqcGc@._V1_CR179,76,815,1223_.jpg",
+      "width": 815,
+      "height": 1223
+     },
+     "professions": [
+      {
+       "profession": {
+        "text": "Actress"
+       }
+      },
+      {
+       "profession": {
+        "text": "Music Department"
+       }
+      },
+      {
+       "profession": {
+        "text": "Director"
+       }
+      }
+     ],
+     "meterRank": {
+      "currentRank": 2,
+      "rankChange": {
+       "changeDirection": "UP",
+       "difference": 4
+      }
+     },
+     "knownFor": {
+      "edges": [
+       {
+        "node": {
+         "title": {
+          "id": "tt9288030",
+          "titleText": {
+           "text": "Reacher"
+          },
+          "releaseYear": {
+           "year": 2022
+          }
+         }
+        }
+       }
+      ]
+     }
+    }
+   },
+   {
+    "node": {
+     "id": "nm9984699",
+     "nameText": {
+      "text": "Inde Navarrette"
+     },
+     "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BODFlMTZmODItNzExZi00ZWJiLTgyMTUtOGFlY2FiZTJiZTExXkEyXkFqcGc@._V1_.jpg",
+      "width": 3640,
+      "height": 5460
+     },
+     "professions": [
+      {
+       "profession": {
+        "text": "Actress"
+       }
+      },
+      {
+       "profession": {
+        "text": "Soundtrack"
+       }
+      }
+     ],
+     "meterRank": {
+      "currentRank": 3,
+      "rankChange": {
+       "changeDirection": "FLAT",
+       "difference": 0
+      }
+     },
+     "knownFor": {
+      "edges": [
+       {
+        "node": {
+         "title": {
+          "id": "tt37287335",
+          "titleText": {
+           "text": "Obsession"
+          },
+          "releaseYear": {
+           "year": 2025
+          }
+         }
+        }
+       }
+      ]
+     }
+    }
+   },
+   {
+    "node": {
+     "id": "nm0005370",
+     "nameText": {
+      "text": "Kathleen Robertson"
+     },
+     "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BZTRiM2FiMjgtZDAxOC00YzE5LThhNjktZTI0Yjg4YzY2YTU2XkEyXkFqcGc@._V1_.jpg",
+      "width": 930,
+      "height": 1000
+     },
+     "professions": [
+      {
+       "profession": {
+        "text": "Actress"
+       }
+      },
+      {
+       "profession": {
+        "text": "Writer"
+       }
+      },
+      {
+       "profession": {
+        "text": "Producer"
+       }
+      }
+     ],
+     "meterRank": {
+      "currentRank": 4,
+      "rankChange": {
+       "changeDirection": "UP",
+       "difference": 6
+      }
+     },
+     "knownFor": {
+      "edges": [
+       {
+        "node": {
+         "title": {
+          "id": "tt9288030",
+          "titleText": {
+           "text": "Reacher"
+          },
+          "releaseYear": {
+           "year": 2022
+          }
+         }
+        }
+       }
+      ]
+     }
+    }
+   },
+   {
+    "node": {
+     "id": "nm5840032",
+     "nameText": {
+      "text": "Ella Rubin"
+     },
+     "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BZjA2ODg4MTgtNzMyNS00OGM2LWJjYmYtNDI0MzIyNDdlMTdlXkEyXkFqcGc@._V1_.jpg",
+      "width": 1280,
+      "height": 1577
+     },
+     "professions": [
+      {
+       "profession": {
+        "text": "Actress"
+       }
+      }
+     ],
+     "meterRank": {
+      "currentRank": 5,
+      "rankChange": {
+       "changeDirection": "DOWN",
+       "difference": 3
+      }
+     },
+     "knownFor": {
+      "edges": [
+       {
+        "node": {
+         "title": {
+          "id": "tt28607951",
+          "titleText": {
+           "text": "Anora"
+          },
+          "releaseYear": {
+           "year": 2024
+          }
+         }
+        }
+       }
+      ]
+     }
+    }
+   }
+  ]
+ }
+}

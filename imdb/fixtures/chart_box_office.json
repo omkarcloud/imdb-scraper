@@ -1,0 +1,678 @@
+{
+ "boxOfficeWeekendChart": {
+  "weekendStartDate": "2026-08-21",
+  "weekendEndDate": "2026-08-23",
+  "entries": [
+   {
+    "weekendGross": {
+     "total": {
+      "amount": 39000155,
+      "currency": "USD"
+     }
+    },
+    "title": {
+     "id": "tt22084616",
+     "titleText": {
+      "text": "Spider-Man: Brand New Day"
+     },
+     "originalTitleText": {
+      "text": "Spider-Man: Brand New Day"
+     },
+     "titleType": {
+      "id": "movie",
+      "text": "Movie",
+      "canHaveEpisodes": false
+     },
+     "releaseYear": {
+      "year": 2026,
+      "endYear": null
+     },
+     "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BOWNjYWM3NWItOGE0ZS00MWRjLThiZWEtYjc4ZmNmMmU5ZTVmXkEyXkFqcGc@._V1_.jpg",
+      "width": 600,
+      "height": 889
+     },
+     "ratingsSummary": {
+      "aggregateRating": 8,
+      "voteCount": 259463
+     },
+     "runtime": {
+      "seconds": 8700
+     },
+     "plot": {
+      "plotText": {
+       "plainText": "A forgotten Peter Parker lives alone as a full-time Spider-Man until mounting pressure triggers a dangerous change and a powerful new enemy emerges."
+      }
+     },
+     "titleGenres": {
+      "genres": [
+       {
+        "genre": {
+         "text": "Action"
+        }
+       },
+       {
+        "genre": {
+         "text": "Adventure"
+        }
+       },
+       {
+        "genre": {
+         "text": "Sci-Fi"
+        }
+       }
+      ]
+     },
+     "lifetimeGross": {
+      "total": {
+       "amount": 2219901181,
+       "currency": "USD"
+      }
+     }
+    }
+   },
+   {
+    "weekendGross": {
+     "total": {
+      "amount": 25106020,
+      "currency": "USD"
+     }
+    },
+    "title": {
+     "id": "tt32393988",
+     "titleText": {
+      "text": "Insidious: Out of the Further"
+     },
+     "originalTitleText": {
+      "text": "Insidious: Out of the Further"
+     },
+     "titleType": {
+      "id": "movie",
+      "text": "Movie",
+      "canHaveEpisodes": false
+     },
+     "releaseYear": {
+      "year": 2026,
+      "endYear": null
+     },
+     "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTY4YjM1OGItMDlmMi00OTU1LWEzM2MtZGMyZTQ1NzhiM2VhXkEyXkFqcGc@._V1_.jpg",
+      "width": 1400,
+      "height": 2100
+     },
+     "ratingsSummary": {
+      "aggregateRating": 6.3,
+      "voteCount": 5791
+     },
+     "runtime": {
+      "seconds": 6360
+     },
+     "plot": {
+      "plotText": {
+       "plainText": "Gemma, a young mother raising her daughter in the house she grew up in, discovers she can travel into The Further, where she possesses an ability to bring what lives there back to the real world."
+      }
+     },
+     "titleGenres": {
+      "genres": [
+       {
+        "genre": {
+         "text": "Horror"
+        }
+       },
+       {
+        "genre": {
+         "text": "Mystery"
+        }
+       },
+       {
+        "genre": {
+         "text": "Thriller"
+        }
+       }
+      ]
+     },
+     "lifetimeGross": {
+      "total": {
+       "amount": 60106020,
+       "currency": "USD"
+      }
+     }
+    }
+   },
+   {
+    "weekendGross": {
+     "total": {
+      "amount": 19709080,
+      "currency": "USD"
+     }
+    },
+    "title": {
+     "id": "tt33764258",
+     "titleText": {
+      "text": "The Odyssey"
+     },
+     "originalTitleText": {
+      "text": "The Odyssey"
+     },
+     "titleType": {
+      "id": "movie",
+      "text": "Movie",
+      "canHaveEpisodes": false
+     },
+     "releaseYear": {
+      "year": 2026,
+      "endYear": null
+     },
+     "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BNTcyNmJlZmQtNDUwYy00NDBjLTg1NGQtYTY2Y2UxMWM3NmI1XkEyXkFqcGc@._V1_.jpg",
+      "width": 960,
+      "height": 1422
+     },
+     "ratingsSummary": {
+      "aggregateRating": 8.5,
+      "voteCount": 444799
+     },
+     "runtime": {
+      "seconds": 10320
+     },
+     "plot": {
+      "plotText": {
+       "plainText": "After the Trojan War, Odysseus faces a dangerous voyage back to Ithaca, meeting creatures like the Cyclops Polyphemus, Sirens, and Calypso along the way."
+      }
+     },
+     "titleGenres": {
+      "genres": [
+       {
+        "genre": {
+         "text": "Action"
+        }
+       },
+       {
+        "genre": {
+         "text": "Adventure"
+        }
+       },
+       {
+        "genre": {
+         "text": "Fantasy"
+        }
+       }
+      ]
+     },
+     "lifetimeGross": {
+      "total": {
+       "amount": 1448194630,
+       "currency": "USD"
+      }
+     }
+    }
+   },
+   {
+    "weekendGross": {
+     "total": {
+      "amount": 9171687,
+      "currency": "USD"
+     }
+    },
+    "title": {
+     "id": "tt29356163",
+     "titleText": {
+      "text": "PAW Patrol: The Dino Movie"
+     },
+     "originalTitleText": {
+      "text": "PAW Patrol: The Dino Movie"
+     },
+     "titleType": {
+      "id": "movie",
+      "text": "Movie",
+      "canHaveEpisodes": false
+     },
+     "releaseYear": {
+      "year": 2026,
+      "endYear": null
+     },
+     "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BY2E2Y2Q0Y2ItZTUyZS00MzllLTkwYmQtYjdmNzM3NGRiYjFmXkEyXkFqcGc@._V1_.jpg",
+      "width": 2025,
+      "height": 3000
+     },
+     "ratingsSummary": {
+      "aggregateRating": 6.2,
+      "voteCount": 1567
+     },
+     "runtime": {
+      "seconds": 5280
+     },
+     "plot": {
+      "plotText": {
+       "plainText": "The Paw Patrol lands on a mysterious dinosaur island after a storm, where they meet Rex, a stranded pup. When Humdinger's reckless mining triggers a volcano, the team faces their biggest rescue mission yet to save the island."
+      }
+     },
+     "titleGenres": {
+      "genres": [
+       {
+        "genre": {
+         "text": "Animation"
+        }
+       },
+       {
+        "genre": {
+         "text": "Action"
+        }
+       },
+       {
+        "genre": {
+         "text": "Adventure"
+        }
+       }
+      ]
+     },
+     "lifetimeGross": {
+      "total": {
+       "amount": 103480242,
+       "currency": "USD"
+      }
+     }
+    }
+   },
+   {
+    "weekendGross": {
+     "total": {
+      "amount": 8751255,
+      "currency": "USD"
+     }
+    },
+    "title": {
+     "id": "tt27165187",
+     "titleText": {
+      "text": "The End of Oak Street"
+     },
+     "originalTitleText": {
+      "text": "The End of Oak Street"
+     },
+     "titleType": {
+      "id": "movie",
+      "text": "Movie",
+      "canHaveEpisodes": false
+     },
+     "releaseYear": {
+      "year": 2026,
+      "endYear": null
+     },
+     "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BZGI0YmRjNWYtYTliYy00YzdjLTkzNzQtZWExNjA2ZDU5MzAwXkEyXkFqcGc@._V1_.jpg",
+      "width": 1638,
+      "height": 2048
+     },
+     "ratingsSummary": {
+      "aggregateRating": 6.6,
+      "voteCount": 27813
+     },
+     "runtime": {
+      "seconds": 5940
+     },
+     "plot": {
+      "plotText": {
+       "plainText": "The Platt family bands together to navigate their new surroundings after a cosmic event transports their suburban neighborhood to someplace unknown."
+      }
+     },
+     "titleGenres": {
+      "genres": [
+       {
+        "genre": {
+         "text": "Action"
+        }
+       },
+       {
+        "genre": {
+         "text": "Adventure"
+        }
+       },
+       {
+        "genre": {
+         "text": "Mystery"
+        }
+       }
+      ]
+     },
+     "lifetimeGross": {
+      "total": {
+       "amount": 85717407,
+       "currency": "USD"
+      }
+     }
+    }
+   },
+   {
+    "weekendGross": {
+     "total": {
+      "amount": 7709519,
+      "currency": "USD"
+     }
+    },
+    "title": {
+     "id": "tt32338669",
+     "titleText": {
+      "text": "Mutiny"
+     },
+     "originalTitleText": {
+      "text": "Mutiny"
+     },
+     "titleType": {
+      "id": "movie",
+      "text": "Movie",
+      "canHaveEpisodes": false
+     },
+     "releaseYear": {
+      "year": 2026,
+      "endYear": null
+     },
+     "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BMTVjMjVlZjktZTg1Zi00ZDdmLTk1ODItNDE1Y2I4MTg1MDQ0XkEyXkFqcGc@._V1_.jpg",
+      "width": 1080,
+      "height": 1350
+     },
+     "ratingsSummary": {
+      "aggregateRating": 5.7,
+      "voteCount": 8560
+     },
+     "runtime": {
+      "seconds": 5700
+     },
+     "plot": {
+      "plotText": {
+       "plainText": "After his billionaire industrialist boss is murdered in front of him, Cole Reed is set up to take the fall for the crime -- leaving him on the run as he works to uncover an international conspiracy."
+      }
+     },
+     "titleGenres": {
+      "genres": [
+       {
+        "genre": {
+         "text": "Action"
+        }
+       },
+       {
+        "genre": {
+         "text": "Crime"
+        }
+       },
+       {
+        "genre": {
+         "text": "Thriller"
+        }
+       }
+      ]
+     },
+     "lifetimeGross": {
+      "total": {
+       "amount": 7758908,
+       "currency": "USD"
+      }
+     }
+    }
+   },
+   {
+    "weekendGross": {
+     "total": {
+      "amount": 5011611,
+      "currency": "USD"
+     }
+    },
+    "title": {
+     "id": "tt33095251",
+     "titleText": {
+      "text": "Tony"
+     },
+     "originalTitleText": {
+      "text": "Tony"
+     },
+     "titleType": {
+      "id": "movie",
+      "text": "Movie",
+      "canHaveEpisodes": false
+     },
+     "releaseYear": {
+      "year": 2026,
+      "endYear": null
+     },
+     "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BNDc1NGEyMzAtZWNiNC00MDY0LTg2NmYtZWIxZmM0NTNhNjc0XkEyXkFqcGc@._V1_.jpg",
+      "width": 1382,
+      "height": 2047
+     },
+     "ratingsSummary": {
+      "aggregateRating": 7.6,
+      "voteCount": 3872
+     },
+     "runtime": {
+      "seconds": 6360
+     },
+     "plot": {
+      "plotText": {
+       "plainText": "A 19-year-old Anthony Bourdain travels to Provincetown and stumbles into the chaotic world of a restaurant kitchen, setting off a summer that will shape the course of his life."
+      }
+     },
+     "titleGenres": {
+      "genres": [
+       {
+        "genre": {
+         "text": "Biography"
+        }
+       },
+       {
+        "genre": {
+         "text": "Comedy"
+        }
+       },
+       {
+        "genre": {
+         "text": "Drama"
+        }
+       }
+      ]
+     },
+     "lifetimeGross": {
+      "total": {
+       "amount": 7201403,
+       "currency": "USD"
+      }
+     }
+    }
+   },
+   {
+    "weekendGross": {
+     "total": {
+      "amount": 3195615,
+      "currency": "USD"
+     }
+    },
+    "title": {
+     "id": "tt0232500",
+     "titleText": {
+      "text": "The Fast and the Furious"
+     },
+     "originalTitleText": {
+      "text": "The Fast and the Furious"
+     },
+     "titleType": {
+      "id": "movie",
+      "text": "Movie",
+      "canHaveEpisodes": false
+     },
+     "releaseYear": {
+      "year": 2001,
+      "endYear": null
+     },
+     "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BZGRiMDE1NTMtMThmZS00YjE4LWI1ODQtNjRkZGZlOTg2MGE1XkEyXkFqcGc@._V1_.jpg",
+      "width": 3092,
+      "height": 4598
+     },
+     "ratingsSummary": {
+      "aggregateRating": 6.8,
+      "voteCount": 464674
+     },
+     "runtime": {
+      "seconds": 6360
+     },
+     "plot": {
+      "plotText": {
+       "plainText": "Los Angeles police officer Brian O'Conner must decide where his loyalty really lies when he becomes enamored with the street racing world he has been sent undercover to destroy."
+      }
+     },
+     "titleGenres": {
+      "genres": [
+       {
+        "genre": {
+         "text": "Action"
+        }
+       },
+       {
+        "genre": {
+         "text": "Crime"
+        }
+       },
+       {
+        "genre": {
+         "text": "Thriller"
+        }
+       }
+      ]
+     },
+     "lifetimeGross": {
+      "total": {
+       "amount": 210713610,
+       "currency": "USD"
+      }
+     }
+    }
+   },
+   {
+    "weekendGross": {
+     "total": {
+      "amount": 3075694,
+      "currency": "USD"
+     }
+    },
+    "title": {
+     "id": "tt33305867",
+     "titleText": {
+      "text": "Spa Weekend"
+     },
+     "originalTitleText": {
+      "text": "Spa Weekend"
+     },
+     "titleType": {
+      "id": "movie",
+      "text": "Movie",
+      "canHaveEpisodes": false
+     },
+     "releaseYear": {
+      "year": 2026,
+      "endYear": null
+     },
+     "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BNTcwYjQwMzEtMTAwMS00MjQxLTg5NTEtNzExNzI1ODQzNmQ4XkEyXkFqcGc@._V1_.jpg",
+      "width": 1944,
+      "height": 2880
+     },
+     "ratingsSummary": {
+      "aggregateRating": 5.4,
+      "voteCount": 567
+     },
+     "runtime": {
+      "seconds": 5820
+     },
+     "plot": {
+      "plotText": {
+       "plainText": "Three friends go on a spa weekend that descends into chaos when their trainwreck friend joins, leading to hilarious consequences."
+      }
+     },
+     "titleGenres": {
+      "genres": [
+       {
+        "genre": {
+         "text": "Comedy"
+        }
+       }
+      ]
+     },
+     "lifetimeGross": {
+      "total": {
+       "amount": 3108160,
+       "currency": "USD"
+      }
+     }
+    }
+   },
+   {
+    "weekendGross": {
+     "total": {
+      "amount": 1904969,
+      "currency": "USD"
+     }
+    },
+    "title": {
+     "id": "tt35298123",
+     "titleText": {
+      "text": "Teenage Sex and Death at Camp Miasma"
+     },
+     "originalTitleText": {
+      "text": "Teenage Sex and Death at Camp Miasma"
+     },
+     "titleType": {
+      "id": "movie",
+      "text": "Movie",
+      "canHaveEpisodes": false
+     },
+     "releaseYear": {
+      "year": 2026,
+      "endYear": null
+     },
+     "primaryImage": {
+      "url": "https://m.media-amazon.com/images/M/MV5BOTRlMWM2ZmQtNTljZC00MTg0LTlhNzQtZDg2N2FiMmU1NWY1XkEyXkFqcGc@._V1_.jpg",
+      "width": 2700,
+      "height": 4000
+     },
+     "ratingsSummary": {
+      "aggregateRating": 7.2,
+      "voteCount": 5432
+     },
+     "runtime": {
+      "seconds": 6720
+     },
+     "plot": {
+      "plotText": {
+       "plainText": "A director making a slasher sequel becomes obsessed with casting the original film's 'final girl,' leading both women into psychological and sexual chaos."
+      }
+     },
+     "titleGenres": {
+      "genres": [
+       {
+        "genre": {
+         "text": "Drama"
+        }
+       },
+       {
+        "genre": {
+         "text": "Horror"
+        }
+       },
+       {
+        "genre": {
+         "text": "Romance"
+        }
+       }
+      ]
+     },
+     "lifetimeGross": {
+      "total": {
+       "amount": 4009454,
+       "currency": "USD"
+      }
+     }
+    }
+   }
+  ]
+ }
+}

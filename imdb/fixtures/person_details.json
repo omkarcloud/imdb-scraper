@@ -1,0 +1,2669 @@
+{
+ "name": {
+  "id": "nm0000138",
+  "canonicalUrl": "https://www.imdb.com/name/nm0000138/",
+  "nameText": {
+   "text": "Leonardo DiCaprio"
+  },
+  "primaryImage": {
+   "url": "https://m.media-amazon.com/images/M/MV5BMjI0MTg3MzI0M15BMl5BanBnXkFtZTcwMzQyODU2Mw@@._V1_.jpg",
+   "width": 297,
+   "height": 400
+  },
+  "bio": {
+   "text": {
+    "plainText": "Few actors in the world have had a career quite as diverse as Leonardo DiCaprio's. DiCaprio has gone from relatively humble beginnings, as a supporting cast member of the sitcom Growing Pains (1985) and low budget horror movies, such as Critters 3 (1991), to a major teenage heartthrob in the 1990s, as the hunky lead actor in movies such as Romeo + Juliet (1996) and Titanic (1997), to then become a leading man in Hollywood blockbusters, made by internationally renowned directors such as Martin Scorsese and Christopher Nolan.\n\nLeonardo Wilhelm DiCaprio was born in Los Angeles, California, the only child of Irmelin DiCaprio (née Indenbirken) and former comic book artist George DiCaprio. His father is of Italian and German descent, and his mother, who is German-born, is of German, Ukrainian and Russian ancestry. His middle name, \"Wilhelm\", was his maternal grandfather's first name. Leonardo's father had achieved minor status as an artist and distributor of cult comic book titles, and was even depicted in several issues of American Splendor, the cult semi-autobiographical comic book series by the late 'Harvey Pekar', a friend of George's. Leonardo's performance skills became obvious to his parents early on, and after signing him up with a talent agent who wanted Leonardo to perform under the stage name \"Lenny Williams\", DiCaprio began appearing on a number of television commercials and educational programs.\n\nDiCaprio began attracting the attention of producers, who cast him in small roles in a number of television series, such as Roseanne (1988) and The New Lassie (1989), but it wasn't until 1991 that DiCaprio made his film debut in Critters 3 (1991), a low-budget horror movie. While Critters 3 (1991) did little to help showcase DiCaprio's acting abilities, it did help him develop his show-reel, and attract the attention of the people behind the hit sitcom Growing Pains (1985), in which Leonardo was cast in the \"Cousin Oliver\" role of a young homeless boy who moves in with the Seavers. While DiCaprio's stint on Growing Pains (1985) was very short, as the sitcom was axed the year after he joined, it helped bring DiCaprio into the public's attention and, after the sitcom ended, DiCaprio began auditioning for roles in which he would get the chance to prove his acting chops.\n\nLeonardo took up a diverse range of roles in the early 1990s, including a mentally challenged youth in What's Eating Gilbert Grape (1993), a young gunslinger in The Quick and the Dead (1995) and a drug addict in one of his most challenging roles to date, Jim Carroll in The Basketball Diaries (1995), a role which the late River Phoenix originally expressed interest in. While these diverse roles helped establish Leonardo's reputation as an actor, it wasn't until his role as Romeo Montague in Baz Luhrmann's Romeo + Juliet (1996) that Leonardo became a household name, a true movie star. The following year, DiCaprio starred in another movie about doomed lovers, Titanic (1997), which went on to beat all box office records held before then, as, at the time, Titanic (1997) became the highest grossing movie of all time, and cemented DiCaprio's reputation as a teen heartthrob. Following his work on Titanic (1997), DiCaprio kept a low profile for a number of years, with roles in The Man in the Iron Mask (1998) and the low-budget The Beach (2000) being some of his few notable roles during this period.\n\nIn 2002, he burst back into screens throughout the world with leading roles in Catch Me If You Can (2002) and Gangs of New York (2002), his first of many collaborations with director Martin Scorsese. With a current salary of $20 million a movie, DiCaprio is now one of the biggest movie stars in the world. However, he has not limited his professional career to just acting in movies, as DiCaprio is a committed environmentalist, who is actively involved in many environmental causes, and his commitment to this issue led to his involvement in The 11th Hour, a documentary movie about the state of the natural environment. As someone who has gone from small roles in television commercials to one of the most respected actors in the world, DiCaprio has had one of the most diverse careers in cinema. DiCaprio continued to defy conventions about the types of roles he would accept, and with his career now seeing him leading all-star casts in action thrillers such as The Departed (2006), Shutter Island (2010) and Christopher Nolan's Inception (2010), DiCaprio continues to wow audiences by refusing to conform to any cliché about actors.\n\nIn 2012, he played a mustache twirling villain in Django Unchained (2012), and then tragic literary character Jay Gatsby in The Great Gatsby (2013) and Jordan Belfort in The Wolf of Wall Street (2013).\n\nDiCaprio is passionate about environmental and humanitarian causes, having donated $1,000,000 to earthquake relief efforts in 2010, the same year he contributed $1,000,000 to the Wildlife Conservation Society."
+   }
+  },
+  "birthDate": {
+   "dateComponents": {
+    "day": 11,
+    "month": 11,
+    "year": 1974
+   }
+  },
+  "birthLocation": {
+   "text": "Hollywood, Los Angeles, California, USA"
+  },
+  "deathDate": null,
+  "deathLocation": null,
+  "deathStatus": "ALIVE",
+  "height": {
+   "measurement": {
+    "value": 182.88,
+    "unit": "CENTIMETER"
+   }
+  },
+  "professions": [
+   {
+    "profession": {
+     "text": "Producer"
+    }
+   },
+   {
+    "profession": {
+     "text": "Actor"
+    }
+   },
+   {
+    "profession": {
+     "text": "Writer"
+    }
+   },
+   {
+    "profession": {
+     "text": "Executive"
+    }
+   },
+   {
+    "profession": {
+     "text": "Soundtrack"
+    }
+   }
+  ],
+  "meterRank": {
+   "currentRank": 60,
+   "rankChange": {
+    "changeDirection": "DOWN",
+    "difference": 6
+   }
+  },
+  "knownFor": {
+   "edges": [
+    {
+     "node": {
+      "title": {
+       "id": "tt0407887",
+       "titleText": {
+        "text": "The Departed"
+       },
+       "originalTitleText": {
+        "text": "The Departed"
+       },
+       "titleType": {
+        "id": "movie",
+        "text": "Movie",
+        "canHaveEpisodes": false
+       },
+       "releaseYear": {
+        "year": 2006,
+        "endYear": null
+       },
+       "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMTI1MTY2OTIxNV5BMl5BanBnXkFtZTYwNjQ4NjY3._V1_.jpg",
+        "width": 450,
+        "height": 665
+       },
+       "ratingsSummary": {
+        "aggregateRating": 8.5,
+        "voteCount": 1574081
+       },
+       "runtime": {
+        "seconds": 9060
+       },
+       "plot": {
+        "plotText": {
+         "plainText": "An undercover cop and a mole in the police attempt to identify each other while infiltrating an Irish gang in South Boston."
+        }
+       },
+       "titleGenres": {
+        "genres": [
+         {
+          "genre": {
+           "text": "Crime"
+          }
+         },
+         {
+          "genre": {
+           "text": "Drama"
+          }
+         },
+         {
+          "genre": {
+           "text": "Thriller"
+          }
+         }
+        ]
+       }
+      },
+      "credit": {
+       "category": {
+        "text": "Actor"
+       }
+      }
+     }
+    },
+    {
+     "node": {
+      "title": {
+       "id": "tt0993846",
+       "titleText": {
+        "text": "The Wolf of Wall Street"
+       },
+       "originalTitleText": {
+        "text": "The Wolf of Wall Street"
+       },
+       "titleType": {
+        "id": "movie",
+        "text": "Movie",
+        "canHaveEpisodes": false
+       },
+       "releaseYear": {
+        "year": 2013,
+        "endYear": null
+       },
+       "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMjIxMjgxNTk0MF5BMl5BanBnXkFtZTgwNjIyOTg2MDE@._V1_.jpg",
+        "width": 1382,
+        "height": 2048
+       },
+       "ratingsSummary": {
+        "aggregateRating": 8.2,
+        "voteCount": 1819745
+       },
+       "runtime": {
+        "seconds": 10800
+       },
+       "plot": {
+        "plotText": {
+         "plainText": "Based on the true story of Jordan Belfort, from his rise to a wealthy stock-broker living the high life to his fall involving crime, corruption and the federal government."
+        }
+       },
+       "titleGenres": {
+        "genres": [
+         {
+          "genre": {
+           "text": "Biography"
+          }
+         },
+         {
+          "genre": {
+           "text": "Comedy"
+          }
+         },
+         {
+          "genre": {
+           "text": "Crime"
+          }
+         }
+        ]
+       }
+      },
+      "credit": {
+       "category": {
+        "text": "Producer"
+       }
+      }
+     }
+    },
+    {
+     "node": {
+      "title": {
+       "id": "tt0338751",
+       "titleText": {
+        "text": "The Aviator"
+       },
+       "originalTitleText": {
+        "text": "The Aviator"
+       },
+       "titleType": {
+        "id": "movie",
+        "text": "Movie",
+        "canHaveEpisodes": false
+       },
+       "releaseYear": {
+        "year": 2004,
+        "endYear": null
+       },
+       "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BYTUyYWJlNDgtOTM5Ny00YTQ3LWFmYTgtZjJiNTNkYjJlMmY4XkEyXkFqcGc@._V1_.jpg",
+        "width": 600,
+        "height": 892
+       },
+       "ratingsSummary": {
+        "aggregateRating": 7.5,
+        "voteCount": 412249
+       },
+       "runtime": {
+        "seconds": 10200
+       },
+       "plot": {
+        "plotText": {
+         "plainText": "A biopic depicting the early years of legendary director and aviator Howard Hughes' career from the late 1920s to the mid 1940s."
+        }
+       },
+       "titleGenres": {
+        "genres": [
+         {
+          "genre": {
+           "text": "Biography"
+          }
+         },
+         {
+          "genre": {
+           "text": "Drama"
+          }
+         }
+        ]
+       }
+      },
+      "credit": {
+       "category": {
+        "text": "Producer"
+       }
+      }
+     }
+    },
+    {
+     "node": {
+      "title": {
+       "id": "tt0120338",
+       "titleText": {
+        "text": "Titanic"
+       },
+       "originalTitleText": {
+        "text": "Titanic"
+       },
+       "titleType": {
+        "id": "movie",
+        "text": "Movie",
+        "canHaveEpisodes": false
+       },
+       "releaseYear": {
+        "year": 1997,
+        "endYear": null
+       },
+       "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BYzYyN2FiZmUtYWYzMy00MzViLWJkZTMtOGY1ZjgzNWMwN2YxXkEyXkFqcGc@._V1_.jpg",
+        "width": 2015,
+        "height": 3000
+       },
+       "ratingsSummary": {
+        "aggregateRating": 8,
+        "voteCount": 1409301
+       },
+       "runtime": {
+        "seconds": 11640
+       },
+       "plot": {
+        "plotText": {
+         "plainText": "A young aristocrat falls in love with a poor artist aboard the luxurious, ill-fated RMS Titanic."
+        }
+       },
+       "titleGenres": {
+        "genres": [
+         {
+          "genre": {
+           "text": "Drama"
+          }
+         },
+         {
+          "genre": {
+           "text": "Romance"
+          }
+         }
+        ]
+       }
+      },
+      "credit": {
+       "category": {
+        "text": "Actor"
+       }
+      }
+     }
+    },
+    {
+     "node": {
+      "title": {
+       "id": "tt1375666",
+       "titleText": {
+        "text": "Inception"
+       },
+       "originalTitleText": {
+        "text": "Inception"
+       },
+       "titleType": {
+        "id": "movie",
+        "text": "Movie",
+        "canHaveEpisodes": false
+       },
+       "releaseYear": {
+        "year": 2010,
+        "endYear": null
+       },
+       "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMjAxMzY3NjcxNF5BMl5BanBnXkFtZTcwNTI5OTM0Mw@@._V1_.jpg",
+        "width": 700,
+        "height": 1037
+       },
+       "ratingsSummary": {
+        "aggregateRating": 8.8,
+        "voteCount": 2860307
+       },
+       "runtime": {
+        "seconds": 8880
+       },
+       "plot": {
+        "plotText": {
+         "plainText": "A thief who steals corporate secrets through the use of dream-sharing technology is given the inverse task of planting an idea into the mind of a CEO, but his tragic past may doom the project and his team to disaster."
+        }
+       },
+       "titleGenres": {
+        "genres": [
+         {
+          "genre": {
+           "text": "Adventure"
+          }
+         },
+         {
+          "genre": {
+           "text": "Sci-Fi"
+          }
+         },
+         {
+          "genre": {
+           "text": "Thriller"
+          }
+         }
+        ]
+       }
+      },
+      "credit": {
+       "category": {
+        "text": "Actor"
+       }
+      }
+     }
+    },
+    {
+     "node": {
+      "title": {
+       "id": "tt1130884",
+       "titleText": {
+        "text": "Shutter Island"
+       },
+       "originalTitleText": {
+        "text": "Shutter Island"
+       },
+       "titleType": {
+        "id": "movie",
+        "text": "Movie",
+        "canHaveEpisodes": false
+       },
+       "releaseYear": {
+        "year": 2010,
+        "endYear": null
+       },
+       "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BN2FjNWExYzEtY2YzOC00YjNlLTllMTQtNmIwM2Q1YzBhOWM1XkEyXkFqcGc@._V1_.jpg",
+        "width": 2026,
+        "height": 3000
+       },
+       "ratingsSummary": {
+        "aggregateRating": 8.2,
+        "voteCount": 1677558
+       },
+       "runtime": {
+        "seconds": 8280
+       },
+       "plot": {
+        "plotText": {
+         "plainText": "Two US marshals are sent to a mental institution on an inhospitable island in order to investigate the disappearance of a patient."
+        }
+       },
+       "titleGenres": {
+        "genres": [
+         {
+          "genre": {
+           "text": "Mystery"
+          }
+         },
+         {
+          "genre": {
+           "text": "Thriller"
+          }
+         }
+        ]
+       }
+      },
+      "credit": {
+       "category": {
+        "text": "Actor"
+       }
+      }
+     }
+    },
+    {
+     "node": {
+      "title": {
+       "id": "tt0117509",
+       "titleText": {
+        "text": "Romeo + Juliet"
+       },
+       "originalTitleText": {
+        "text": "Romeo + Juliet"
+       },
+       "titleType": {
+        "id": "movie",
+        "text": "Movie",
+        "canHaveEpisodes": false
+       },
+       "releaseYear": {
+        "year": 1996,
+        "endYear": null
+       },
+       "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BZjBhYjkxN2EtNDc1Yy00NTViLTkxMjQtMDYxMzM0MzA3NGQ4XkEyXkFqcGc@._V1_.jpg",
+        "width": 1080,
+        "height": 1600
+       },
+       "ratingsSummary": {
+        "aggregateRating": 6.7,
+        "voteCount": 263008
+       },
+       "runtime": {
+        "seconds": 7200
+       },
+       "plot": {
+        "plotText": {
+         "plainText": "Shakespeare's famous play is updated to the hip modern suburb of Verona still retaining its original dialogue."
+        }
+       },
+       "titleGenres": {
+        "genres": [
+         {
+          "genre": {
+           "text": "Drama"
+          }
+         },
+         {
+          "genre": {
+           "text": "Romance"
+          }
+         }
+        ]
+       }
+      },
+      "credit": {
+       "category": {
+        "text": "Actor"
+       }
+      }
+     }
+    },
+    {
+     "node": {
+      "title": {
+       "id": "tt1663202",
+       "titleText": {
+        "text": "The Revenant"
+       },
+       "originalTitleText": {
+        "text": "The Revenant"
+       },
+       "titleType": {
+        "id": "movie",
+        "text": "Movie",
+        "canHaveEpisodes": false
+       },
+       "releaseYear": {
+        "year": 2015,
+        "endYear": null
+       },
+       "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BYTgwNmQzZDctMjNmOS00OTExLTkwM2UtNzJmOTJhODFjOTdlXkEyXkFqcGc@._V1_.jpg",
+        "width": 1909,
+        "height": 2838
+       },
+       "ratingsSummary": {
+        "aggregateRating": 8,
+        "voteCount": 959296
+       },
+       "runtime": {
+        "seconds": 9360
+       },
+       "plot": {
+        "plotText": {
+         "plainText": "A frontiersman on a fur trading expedition in the 1820s fights for survival after being mauled by a bear and left for dead by members of his own hunting team."
+        }
+       },
+       "titleGenres": {
+        "genres": [
+         {
+          "genre": {
+           "text": "Action"
+          }
+         },
+         {
+          "genre": {
+           "text": "Drama"
+          }
+         },
+         {
+          "genre": {
+           "text": "Western"
+          }
+         }
+        ]
+       }
+      },
+      "credit": {
+       "category": {
+        "text": "Actor"
+       }
+      }
+     }
+    }
+   ]
+  },
+  "credits": {
+   "total": 132,
+   "pageInfo": {
+    "endCursor": "bm0wMDAwMTM4L3R0MDEwMTYyNy9hY3Rvcg==",
+    "hasNextPage": true
+   },
+   "edges": [
+    {
+     "node": {
+      "category": {
+       "id": "producer",
+       "text": "Producer"
+      },
+      "title": {
+       "id": "tt38985296",
+       "titleText": {
+        "text": "Oz"
+       },
+       "titleType": {
+        "id": "movie",
+        "text": "Movie"
+       },
+       "releaseYear": {
+        "year": 2026
+       }
+      }
+     }
+    },
+    {
+     "node": {
+      "category": {
+       "id": "producer",
+       "text": "Producer"
+      },
+      "title": {
+       "id": "tt44539909",
+       "titleText": {
+        "text": "Freeing Flipper"
+       },
+       "titleType": {
+        "id": "movie",
+        "text": "Movie"
+       },
+       "releaseYear": {
+        "year": 2026
+       }
+      }
+     }
+    },
+    {
+     "node": {
+      "category": {
+       "id": "producer",
+       "text": "Producer"
+      },
+      "title": {
+       "id": "tt39796043",
+       "titleText": {
+        "text": "Death Boom"
+       },
+       "titleType": {
+        "id": "movie",
+        "text": "Movie"
+       },
+       "releaseYear": {
+        "year": 2026
+       }
+      }
+     }
+    },
+    {
+     "node": {
+      "category": {
+       "id": "producer",
+       "text": "Producer"
+      },
+      "title": {
+       "id": "tt39314348",
+       "titleText": {
+        "text": "A Gorilla Story: Told by David Attenborough"
+       },
+       "titleType": {
+        "id": "movie",
+        "text": "Movie"
+       },
+       "releaseYear": {
+        "year": 2026
+       }
+      }
+     }
+    },
+    {
+     "node": {
+      "category": {
+       "id": "producer",
+       "text": "Producer"
+      },
+      "title": {
+       "id": "tt34358231",
+       "titleText": {
+        "text": "Serling"
+       },
+       "titleType": {
+        "id": "movie",
+        "text": "Movie"
+       },
+       "releaseYear": {
+        "year": 2026
+       }
+      }
+     }
+    },
+    {
+     "node": {
+      "category": {
+       "id": "producer",
+       "text": "Producer"
+      },
+      "title": {
+       "id": "tt34577866",
+       "titleText": {
+        "text": "The Lake"
+       },
+       "titleType": {
+        "id": "movie",
+        "text": "Movie"
+       },
+       "releaseYear": {
+        "year": 2026
+       }
+      }
+     }
+    },
+    {
+     "node": {
+      "category": {
+       "id": "producer",
+       "text": "Producer"
+      },
+      "title": {
+       "id": "tt35672651",
+       "titleText": {
+        "text": "Sleepwalker"
+       },
+       "titleType": {
+        "id": "movie",
+        "text": "Movie"
+       },
+       "releaseYear": {
+        "year": 2026
+       }
+      }
+     }
+    },
+    {
+     "node": {
+      "category": {
+       "id": "actor",
+       "text": "Actor"
+      },
+      "title": {
+       "id": "tt30144839",
+       "titleText": {
+        "text": "One Battle After Another"
+       },
+       "titleType": {
+        "id": "movie",
+        "text": "Movie"
+       },
+       "releaseYear": {
+        "year": 2025
+       }
+      }
+     }
+    },
+    {
+     "node": {
+      "category": {
+       "id": "producer",
+       "text": "Producer"
+      },
+      "title": {
+       "id": "tt36590218",
+       "titleText": {
+        "text": "Yanuni"
+       },
+       "titleType": {
+        "id": "movie",
+        "text": "Movie"
+       },
+       "releaseYear": {
+        "year": 2025
+       }
+      }
+     }
+    },
+    {
+     "node": {
+      "category": {
+       "id": "producer",
+       "text": "Producer"
+      },
+      "title": {
+       "id": "tt18382254",
+       "titleText": {
+        "text": "Sitting Bull"
+       },
+       "titleType": {
+        "id": "tvSeries",
+        "text": "TV Series"
+       },
+       "releaseYear": {
+        "year": 2025
+       }
+      }
+     }
+    },
+    {
+     "node": {
+      "category": {
+       "id": "producer",
+       "text": "Producer"
+      },
+      "title": {
+       "id": "tt31034190",
+       "titleText": {
+        "text": "Snow Leopard Sisters"
+       },
+       "titleType": {
+        "id": "movie",
+        "text": "Movie"
+       },
+       "releaseYear": {
+        "year": 2025
+       }
+      }
+     }
+    },
+    {
+     "node": {
+      "category": {
+       "id": "producer",
+       "text": "Producer"
+      },
+      "title": {
+       "id": "tt28440231",
+       "titleText": {
+        "text": "Checkpoint Zoo"
+       },
+       "titleType": {
+        "id": "movie",
+        "text": "Movie"
+       },
+       "releaseYear": {
+        "year": 2024
+       }
+      }
+     }
+    },
+    {
+     "node": {
+      "category": {
+       "id": "producer",
+       "text": "Producer"
+      },
+      "title": {
+       "id": "tt12981702",
+       "titleText": {
+        "text": "Ozi: Voice of the Forest"
+       },
+       "titleType": {
+        "id": "movie",
+        "text": "Movie"
+       },
+       "releaseYear": {
+        "year": 2023
+       }
+      }
+     }
+    },
+    {
+     "node": {
+      "category": {
+       "id": "actor",
+       "text": "Actor"
+      },
+      "title": {
+       "id": "tt5537002",
+       "titleText": {
+        "text": "Killers of the Flower Moon"
+       },
+       "titleType": {
+        "id": "movie",
+        "text": "Movie"
+       },
+       "releaseYear": {
+        "year": 2023
+       }
+      }
+     }
+    },
+    {
+     "node": {
+      "category": {
+       "id": "producer",
+       "text": "Producer"
+      },
+      "title": {
+       "id": "tt5537002",
+       "titleText": {
+        "text": "Killers of the Flower Moon"
+       },
+       "titleType": {
+        "id": "movie",
+        "text": "Movie"
+       },
+       "releaseYear": {
+        "year": 2023
+       }
+      }
+     }
+    },
+    {
+     "node": {
+      "category": {
+       "id": "producer",
+       "text": "Producer"
+      },
+      "title": {
+       "id": "tt27248255",
+       "titleText": {
+        "text": "We Are Guardians"
+       },
+       "titleType": {
+        "id": "movie",
+        "text": "Movie"
+       },
+       "releaseYear": {
+        "year": 2023
+       }
+      }
+     }
+    },
+    {
+     "node": {
+      "category": {
+       "id": "producer",
+       "text": "Producer"
+      },
+      "title": {
+       "id": "tt24855976",
+       "titleText": {
+        "text": "Path of the Panther"
+       },
+       "titleType": {
+        "id": "movie",
+        "text": "Movie"
+       },
+       "releaseYear": {
+        "year": 2022
+       }
+      }
+     }
+    },
+    {
+     "node": {
+      "category": {
+       "id": "producer",
+       "text": "Producer"
+      },
+      "title": {
+       "id": "tt21439528",
+       "titleText": {
+        "text": "The Volcano: Rescue from Whakaari"
+       },
+       "titleType": {
+        "id": "movie",
+        "text": "Movie"
+       },
+       "releaseYear": {
+        "year": 2022
+       }
+      }
+     }
+    },
+    {
+     "node": {
+      "category": {
+       "id": "producer",
+       "text": "Producer"
+      },
+      "title": {
+       "id": "tt2953250",
+       "titleText": {
+        "text": "Shining Girls"
+       },
+       "titleType": {
+        "id": "tvSeries",
+        "text": "TV Series"
+       },
+       "releaseYear": {
+        "year": 2022
+       }
+      }
+     }
+    },
+    {
+     "node": {
+      "category": {
+       "id": "producer",
+       "text": "Producer"
+      },
+      "title": {
+       "id": "tt12330446",
+       "titleText": {
+        "text": "Theodore Roosevelt"
+       },
+       "titleType": {
+        "id": "tvMiniSeries",
+        "text": "TV Mini Series"
+       },
+       "releaseYear": {
+        "year": 2022
+       }
+      }
+     }
+    },
+    {
+     "node": {
+      "category": {
+       "id": "actor",
+       "text": "Actor"
+      },
+      "title": {
+       "id": "tt11286314",
+       "titleText": {
+        "text": "Don't Look Up"
+       },
+       "titleType": {
+        "id": "movie",
+        "text": "Movie"
+       },
+       "releaseYear": {
+        "year": 2021
+       }
+      }
+     }
+    },
+    {
+     "node": {
+      "category": {
+       "id": "producer",
+       "text": "Producer"
+      },
+      "title": {
+       "id": "tt11346000",
+       "titleText": {
+        "text": "King of Cool"
+       },
+       "titleType": {
+        "id": "movie",
+        "text": "Movie"
+       },
+       "releaseYear": {
+        "year": 2021
+       }
+      }
+     }
+    },
+    {
+     "node": {
+      "category": {
+       "id": "producer",
+       "text": "Producer"
+      },
+      "title": {
+       "id": "tt14538516",
+       "titleText": {
+        "text": "Brave Mission"
+       },
+       "titleType": {
+        "id": "tvSeries",
+        "text": "TV Series"
+       },
+       "releaseYear": {
+        "year": 2021
+       }
+      }
+     }
+    },
+    {
+     "node": {
+      "category": {
+       "id": "producer",
+       "text": "Producer"
+      },
+      "title": {
+       "id": "tt14921098",
+       "titleText": {
+        "text": "Fin"
+       },
+       "titleType": {
+        "id": "movie",
+        "text": "Movie"
+       },
+       "releaseYear": {
+        "year": 2021
+       }
+      }
+     }
+    },
+    {
+     "node": {
+      "category": {
+       "id": "producer",
+       "text": "Producer"
+      },
+      "title": {
+       "id": "tt2401814",
+       "titleText": {
+        "text": "The Loneliest Whale: The Search for 52"
+       },
+       "titleType": {
+        "id": "movie",
+        "text": "Movie"
+       },
+       "releaseYear": {
+        "year": 2021
+       }
+      }
+     }
+    },
+    {
+     "node": {
+      "category": {
+       "id": "producer",
+       "text": "Producer"
+      },
+      "title": {
+       "id": "tt16409252",
+       "titleText": {
+        "text": "From Devil's Breath"
+       },
+       "titleType": {
+        "id": "short",
+        "text": "Short"
+       },
+       "releaseYear": {
+        "year": 2021
+       }
+      }
+     }
+    },
+    {
+     "node": {
+      "category": {
+       "id": "producer",
+       "text": "Producer"
+      },
+      "title": {
+       "id": "tt14357532",
+       "titleText": {
+        "text": "The Titans That Built America"
+       },
+       "titleType": {
+        "id": "tvMiniSeries",
+        "text": "TV Mini Series"
+       },
+       "releaseYear": {
+        "year": 2021
+       }
+      }
+     }
+    },
+    {
+     "node": {
+      "category": {
+       "id": "producer",
+       "text": "Producer"
+      },
+      "title": {
+       "id": "tt14035292",
+       "titleText": {
+        "text": "Kid 90"
+       },
+       "titleType": {
+        "id": "movie",
+        "text": "Movie"
+       },
+       "releaseYear": {
+        "year": 2021
+       }
+      }
+     }
+    },
+    {
+     "node": {
+      "category": {
+       "id": "producer",
+       "text": "Producer"
+      },
+      "title": {
+       "id": "tt7423322",
+       "titleText": {
+        "text": "The Right Stuff"
+       },
+       "titleType": {
+        "id": "tvSeries",
+        "text": "TV Series"
+       },
+       "releaseYear": {
+        "year": 2020
+       }
+      }
+     }
+    },
+    {
+     "node": {
+      "category": {
+       "id": "producer",
+       "text": "Producer"
+      },
+      "title": {
+       "id": "tt13005714",
+       "titleText": {
+        "text": "Whose Vote Counts, Explained"
+       },
+       "titleType": {
+        "id": "tvMiniSeries",
+        "text": "TV Mini Series"
+       },
+       "releaseYear": {
+        "year": 2020
+       }
+      }
+     }
+    },
+    {
+     "node": {
+      "category": {
+       "id": "producer",
+       "text": "Producer"
+      },
+      "title": {
+       "id": "tt8690814",
+       "titleText": {
+        "text": "Grant"
+       },
+       "titleType": {
+        "id": "tvMiniSeries",
+        "text": "TV Mini Series"
+       },
+       "releaseYear": {
+        "year": 2020
+       }
+      }
+     }
+    },
+    {
+     "node": {
+      "category": {
+       "id": "producer",
+       "text": "Producer"
+      },
+      "title": {
+       "id": "tt3513548",
+       "titleText": {
+        "text": "Richard Jewell"
+       },
+       "titleType": {
+        "id": "movie",
+        "text": "Movie"
+       },
+       "releaseYear": {
+        "year": 2019
+       }
+      }
+     }
+    },
+    {
+     "node": {
+      "category": {
+       "id": "producer",
+       "text": "Producer"
+      },
+      "title": {
+       "id": "tt10578490",
+       "titleText": {
+        "text": "And We Go Green"
+       },
+       "titleType": {
+        "id": "movie",
+        "text": "Movie"
+       },
+       "releaseYear": {
+        "year": 2019
+       }
+      }
+     }
+    },
+    {
+     "node": {
+      "category": {
+       "id": "producer",
+       "text": "Producer"
+      },
+      "title": {
+       "id": "tt9114472",
+       "titleText": {
+        "text": "Ice on Fire"
+       },
+       "titleType": {
+        "id": "movie",
+        "text": "Movie"
+       },
+       "releaseYear": {
+        "year": 2019
+       }
+      }
+     }
+    },
+    {
+     "node": {
+      "category": {
+       "id": "actor",
+       "text": "Actor"
+      },
+      "title": {
+       "id": "tt7131622",
+       "titleText": {
+        "text": "Once Upon a Time in... Hollywood"
+       },
+       "titleType": {
+        "id": "movie",
+        "text": "Movie"
+       },
+       "releaseYear": {
+        "year": 2019
+       }
+      }
+     }
+    },
+    {
+     "node": {
+      "category": {
+       "id": "producer",
+       "text": "Producer"
+      },
+      "title": {
+       "id": "tt9326056",
+       "titleText": {
+        "text": "Sea of Shadows"
+       },
+       "titleType": {
+        "id": "movie",
+        "text": "Movie"
+       },
+       "releaseYear": {
+        "year": 2019
+       }
+      }
+     }
+    },
+    {
+     "node": {
+      "category": {
+       "id": "producer",
+       "text": "Producer"
+      },
+      "title": {
+       "id": "tt9316022",
+       "titleText": {
+        "text": "Struggle: The Life and Lost Art of Szukalski"
+       },
+       "titleType": {
+        "id": "movie",
+        "text": "Movie"
+       },
+       "releaseYear": {
+        "year": 2018
+       }
+      }
+     }
+    },
+    {
+     "node": {
+      "category": {
+       "id": "producer",
+       "text": "Producer"
+      },
+      "title": {
+       "id": "tt4532826",
+       "titleText": {
+        "text": "Robin Hood"
+       },
+       "titleType": {
+        "id": "movie",
+        "text": "Movie"
+       },
+       "releaseYear": {
+        "year": 2018
+       }
+      }
+     }
+    },
+    {
+     "node": {
+      "category": {
+       "id": "producer",
+       "text": "Producer"
+      },
+      "title": {
+       "id": "tt8014232",
+       "titleText": {
+        "text": "Jonestown: Terror in the Jungle"
+       },
+       "titleType": {
+        "id": "tvMiniSeries",
+        "text": "TV Mini Series"
+       },
+       "releaseYear": {
+        "year": 2018
+       }
+      }
+     }
+    },
+    {
+     "node": {
+      "category": {
+       "id": "producer",
+       "text": "Producer"
+      },
+      "title": {
+       "id": "tt8654714",
+       "titleText": {
+        "text": "Pollinators Under Pressure"
+       },
+       "titleType": {
+        "id": "short",
+        "text": "Short"
+       },
+       "releaseYear": {
+        "year": 2018
+       }
+      }
+     }
+    },
+    {
+     "node": {
+      "category": {
+       "id": "producer",
+       "text": "Producer"
+      },
+      "title": {
+       "id": "tt2069797",
+       "titleText": {
+        "text": "Delirium"
+       },
+       "titleType": {
+        "id": "movie",
+        "text": "Movie"
+       },
+       "releaseYear": {
+        "year": 2018
+       }
+      }
+     }
+    },
+    {
+     "node": {
+      "category": {
+       "id": "producer",
+       "text": "Producer"
+      },
+      "title": {
+       "id": "tt6251076",
+       "titleText": {
+        "text": "The Men Who Built America: Frontiersmen"
+       },
+       "titleType": {
+        "id": "tvMiniSeries",
+        "text": "TV Mini Series"
+       },
+       "releaseYear": {
+        "year": 2018
+       }
+      }
+     }
+    },
+    {
+     "node": {
+      "category": {
+       "id": "producer",
+       "text": "Producer"
+      },
+      "title": {
+       "id": "tt7293754",
+       "titleText": {
+        "text": "Fire Chasers"
+       },
+       "titleType": {
+        "id": "tvMiniSeries",
+        "text": "TV Mini Series"
+       },
+       "releaseYear": {
+        "year": 2017
+       }
+      }
+     }
+    },
+    {
+     "node": {
+      "category": {
+       "id": "producer",
+       "text": "Producer"
+      },
+      "title": {
+       "id": "tt2361317",
+       "titleText": {
+        "text": "Live by Night"
+       },
+       "titleType": {
+        "id": "movie",
+        "text": "Movie"
+       },
+       "releaseYear": {
+        "year": 2016
+       }
+      }
+     }
+    },
+    {
+     "node": {
+      "category": {
+       "id": "producer",
+       "text": "Producer"
+      },
+      "title": {
+       "id": "tt5203824",
+       "titleText": {
+        "text": "A Plastic Ocean"
+       },
+       "titleType": {
+        "id": "movie",
+        "text": "Movie"
+       },
+       "releaseYear": {
+        "year": 2016
+       }
+      }
+     }
+    },
+    {
+     "node": {
+      "category": {
+       "id": "producer",
+       "text": "Producer"
+      },
+      "title": {
+       "id": "tt5929776",
+       "titleText": {
+        "text": "Before the Flood"
+       },
+       "titleType": {
+        "id": "movie",
+        "text": "Movie"
+       },
+       "releaseYear": {
+        "year": 2016
+       }
+      }
+     }
+    },
+    {
+     "node": {
+      "category": {
+       "id": "producer",
+       "text": "Producer"
+      },
+      "title": {
+       "id": "tt5952266",
+       "titleText": {
+        "text": "The Ivory Game"
+       },
+       "titleType": {
+        "id": "movie",
+        "text": "Movie"
+       },
+       "releaseYear": {
+        "year": 2016
+       }
+      }
+     }
+    },
+    {
+     "node": {
+      "category": {
+       "id": "producer",
+       "text": "Producer"
+      },
+      "title": {
+       "id": "tt5278932",
+       "titleText": {
+        "text": "When Two Worlds Collide"
+       },
+       "titleType": {
+        "id": "movie",
+        "text": "Movie"
+       },
+       "releaseYear": {
+        "year": 2016
+       }
+      }
+     }
+    },
+    {
+     "node": {
+      "category": {
+       "id": "actor",
+       "text": "Actor"
+      },
+      "title": {
+       "id": "tt1663202",
+       "titleText": {
+        "text": "The Revenant"
+       },
+       "titleType": {
+        "id": "movie",
+        "text": "Movie"
+       },
+       "releaseYear": {
+        "year": 2015
+       }
+      }
+     }
+    },
+    {
+     "node": {
+      "category": {
+       "id": "actor",
+       "text": "Actor"
+      },
+      "title": {
+       "id": "tt4016250",
+       "titleText": {
+        "text": "The Audition"
+       },
+       "titleType": {
+        "id": "short",
+        "text": "Short"
+       },
+       "releaseYear": {
+        "year": 2015
+       }
+      }
+     }
+    },
+    {
+     "node": {
+      "category": {
+       "id": "producer",
+       "text": "Producer"
+      },
+      "title": {
+       "id": "tt7918460",
+       "titleText": {
+        "text": "Digital Wampum"
+       },
+       "titleType": {
+        "id": "tvMiniSeries",
+        "text": "TV Mini Series"
+       },
+       "releaseYear": {
+        "year": 2015
+       }
+      }
+     }
+    },
+    {
+     "node": {
+      "category": {
+       "id": "producer",
+       "text": "Producer"
+      },
+      "title": {
+       "id": "tt1698654",
+       "titleText": {
+        "text": "Catching the Sun"
+       },
+       "titleType": {
+        "id": "movie",
+        "text": "Movie"
+       },
+       "releaseYear": {
+        "year": 2015
+       }
+      }
+     }
+    },
+    {
+     "node": {
+      "category": {
+       "id": "producer",
+       "text": "Producer"
+      },
+      "title": {
+       "id": "tt3302820",
+       "titleText": {
+        "text": "Cowspiracy: The Sustainability Secret"
+       },
+       "titleType": {
+        "id": "movie",
+        "text": "Movie"
+       },
+       "releaseYear": {
+        "year": 2014
+       }
+      }
+     }
+    },
+    {
+     "node": {
+      "category": {
+       "id": "producer",
+       "text": "Producer"
+      },
+      "title": {
+       "id": "tt3455224",
+       "titleText": {
+        "text": "Virunga"
+       },
+       "titleType": {
+        "id": "movie",
+        "text": "Movie"
+       },
+       "releaseYear": {
+        "year": 2014
+       }
+      }
+     }
+    },
+    {
+     "node": {
+      "category": {
+       "id": "actor",
+       "text": "Actor"
+      },
+      "title": {
+       "id": "tt0993846",
+       "titleText": {
+        "text": "The Wolf of Wall Street"
+       },
+       "titleType": {
+        "id": "movie",
+        "text": "Movie"
+       },
+       "releaseYear": {
+        "year": 2013
+       }
+      }
+     }
+    },
+    {
+     "node": {
+      "category": {
+       "id": "producer",
+       "text": "Producer"
+      },
+      "title": {
+       "id": "tt0993846",
+       "titleText": {
+        "text": "The Wolf of Wall Street"
+       },
+       "titleType": {
+        "id": "movie",
+        "text": "Movie"
+       },
+       "releaseYear": {
+        "year": 2013
+       }
+      }
+     }
+    },
+    {
+     "node": {
+      "category": {
+       "id": "producer",
+       "text": "Producer"
+      },
+      "title": {
+       "id": "tt1206543",
+       "titleText": {
+        "text": "Out of the Furnace"
+       },
+       "titleType": {
+        "id": "movie",
+        "text": "Movie"
+       },
+       "releaseYear": {
+        "year": 2013
+       }
+      }
+     }
+    },
+    {
+     "node": {
+      "category": {
+       "id": "producer",
+       "text": "Producer"
+      },
+      "title": {
+       "id": "tt2364841",
+       "titleText": {
+        "text": "Runner Runner"
+       },
+       "titleType": {
+        "id": "movie",
+        "text": "Movie"
+       },
+       "releaseYear": {
+        "year": 2013
+       }
+      }
+     }
+    },
+    {
+     "node": {
+      "category": {
+       "id": "actor",
+       "text": "Actor"
+      },
+      "title": {
+       "id": "tt1343092",
+       "titleText": {
+        "text": "The Great Gatsby"
+       },
+       "titleType": {
+        "id": "movie",
+        "text": "Movie"
+       },
+       "releaseYear": {
+        "year": 2013
+       }
+      }
+     }
+    },
+    {
+     "node": {
+      "category": {
+       "id": "actor",
+       "text": "Actor"
+      },
+      "title": {
+       "id": "tt1853728",
+       "titleText": {
+        "text": "Django Unchained"
+       },
+       "titleType": {
+        "id": "movie",
+        "text": "Movie"
+       },
+       "releaseYear": {
+        "year": 2012
+       }
+      }
+     }
+    },
+    {
+     "node": {
+      "category": {
+       "id": "actor",
+       "text": "Actor"
+      },
+      "title": {
+       "id": "tt1616195",
+       "titleText": {
+        "text": "J. Edgar"
+       },
+       "titleType": {
+        "id": "movie",
+        "text": "Movie"
+       },
+       "releaseYear": {
+        "year": 2011
+       }
+      }
+     }
+    },
+    {
+     "node": {
+      "category": {
+       "id": "producer",
+       "text": "Producer"
+      },
+      "title": {
+       "id": "tt1124035",
+       "titleText": {
+        "text": "The Ides of March"
+       },
+       "titleType": {
+        "id": "movie",
+        "text": "Movie"
+       },
+       "releaseYear": {
+        "year": 2011
+       }
+      }
+     }
+    },
+    {
+     "node": {
+      "category": {
+       "id": "producer",
+       "text": "Producer"
+      },
+      "title": {
+       "id": "tt1486185",
+       "titleText": {
+        "text": "Red Riding Hood"
+       },
+       "titleType": {
+        "id": "movie",
+        "text": "Movie"
+       },
+       "releaseYear": {
+        "year": 2011
+       }
+      }
+     }
+    },
+    {
+     "node": {
+      "category": {
+       "id": "actor",
+       "text": "Actor"
+      },
+      "title": {
+       "id": "tt1375666",
+       "titleText": {
+        "text": "Inception"
+       },
+       "titleType": {
+        "id": "movie",
+        "text": "Movie"
+       },
+       "releaseYear": {
+        "year": 2010
+       }
+      }
+     }
+    },
+    {
+     "node": {
+      "category": {
+       "id": "actor",
+       "text": "Actor"
+      },
+      "title": {
+       "id": "tt1130884",
+       "titleText": {
+        "text": "Shutter Island"
+       },
+       "titleType": {
+        "id": "movie",
+        "text": "Movie"
+       },
+       "releaseYear": {
+        "year": 2010
+       }
+      }
+     }
+    },
+    {
+     "node": {
+      "category": {
+       "id": "producer",
+       "text": "Producer"
+      },
+      "title": {
+       "id": "tt1148204",
+       "titleText": {
+        "text": "Orphan"
+       },
+       "titleType": {
+        "id": "movie",
+        "text": "Movie"
+       },
+       "releaseYear": {
+        "year": 2009
+       }
+      }
+     }
+    },
+    {
+     "node": {
+      "category": {
+       "id": "actor",
+       "text": "Actor"
+      },
+      "title": {
+       "id": "tt0959337",
+       "titleText": {
+        "text": "Revolutionary Road"
+       },
+       "titleType": {
+        "id": "movie",
+        "text": "Movie"
+       },
+       "releaseYear": {
+        "year": 2008
+       }
+      }
+     }
+    },
+    {
+     "node": {
+      "category": {
+       "id": "actor",
+       "text": "Actor"
+      },
+      "title": {
+       "id": "tt0758774",
+       "titleText": {
+        "text": "Body of Lies"
+       },
+       "titleType": {
+        "id": "movie",
+        "text": "Movie"
+       },
+       "releaseYear": {
+        "year": 2008
+       }
+      }
+     }
+    },
+    {
+     "node": {
+      "category": {
+       "id": "producer",
+       "text": "Producer"
+      },
+      "title": {
+       "id": "tt0883073",
+       "titleText": {
+        "text": "Greensburg"
+       },
+       "titleType": {
+        "id": "tvSeries",
+        "text": "TV Series"
+       },
+       "releaseYear": {
+        "year": 2008
+       }
+      }
+     }
+    },
+    {
+     "node": {
+      "category": {
+       "id": "writer",
+       "text": "Writer"
+      },
+      "title": {
+       "id": "tt0883073",
+       "titleText": {
+        "text": "Greensburg"
+       },
+       "titleType": {
+        "id": "tvSeries",
+        "text": "TV Series"
+       },
+       "releaseYear": {
+        "year": 2008
+       }
+      }
+     }
+    },
+    {
+     "node": {
+      "category": {
+       "id": "producer",
+       "text": "Producer"
+      },
+      "title": {
+       "id": "tt0492931",
+       "titleText": {
+        "text": "The 11th Hour"
+       },
+       "titleType": {
+        "id": "movie",
+        "text": "Movie"
+       },
+       "releaseYear": {
+        "year": 2007
+       }
+      }
+     }
+    },
+    {
+     "node": {
+      "category": {
+       "id": "writer",
+       "text": "Writer"
+      },
+      "title": {
+       "id": "tt0492931",
+       "titleText": {
+        "text": "The 11th Hour"
+       },
+       "titleType": {
+        "id": "movie",
+        "text": "Movie"
+       },
+       "releaseYear": {
+        "year": 2007
+       }
+      }
+     }
+    },
+    {
+     "node": {
+      "category": {
+       "id": "producer",
+       "text": "Producer"
+      },
+      "title": {
+       "id": "tt0403057",
+       "titleText": {
+        "text": "Gardener of Eden"
+       },
+       "titleType": {
+        "id": "movie",
+        "text": "Movie"
+       },
+       "releaseYear": {
+        "year": 2007
+       }
+      }
+     }
+    },
+    {
+     "node": {
+      "category": {
+       "id": "actor",
+       "text": "Actor"
+      },
+      "title": {
+       "id": "tt0450259",
+       "titleText": {
+        "text": "Blood Diamond"
+       },
+       "titleType": {
+        "id": "movie",
+        "text": "Movie"
+       },
+       "releaseYear": {
+        "year": 2006
+       }
+      }
+     }
+    },
+    {
+     "node": {
+      "category": {
+       "id": "actor",
+       "text": "Actor"
+      },
+      "title": {
+       "id": "tt0407887",
+       "titleText": {
+        "text": "The Departed"
+       },
+       "titleType": {
+        "id": "movie",
+        "text": "Movie"
+       },
+       "releaseYear": {
+        "year": 2006
+       }
+      }
+     }
+    },
+    {
+     "node": {
+      "category": {
+       "id": "actor",
+       "text": "Actor"
+      },
+      "title": {
+       "id": "tt0338751",
+       "titleText": {
+        "text": "The Aviator"
+       },
+       "titleType": {
+        "id": "movie",
+        "text": "Movie"
+       },
+       "releaseYear": {
+        "year": 2004
+       }
+      }
+     }
+    },
+    {
+     "node": {
+      "category": {
+       "id": "producer",
+       "text": "Producer"
+      },
+      "title": {
+       "id": "tt0338751",
+       "titleText": {
+        "text": "The Aviator"
+       },
+       "titleType": {
+        "id": "movie",
+        "text": "Movie"
+       },
+       "releaseYear": {
+        "year": 2004
+       }
+      }
+     }
+    },
+    {
+     "node": {
+      "category": {
+       "id": "producer",
+       "text": "Producer"
+      },
+      "title": {
+       "id": "tt0364961",
+       "titleText": {
+        "text": "The Assassination of Richard Nixon"
+       },
+       "titleType": {
+        "id": "movie",
+        "text": "Movie"
+       },
+       "releaseYear": {
+        "year": 2004
+       }
+      }
+     }
+    },
+    {
+     "node": {
+      "category": {
+       "id": "actor",
+       "text": "Actor"
+      },
+      "title": {
+       "id": "tt0264464",
+       "titleText": {
+        "text": "Catch Me If You Can"
+       },
+       "titleType": {
+        "id": "movie",
+        "text": "Movie"
+       },
+       "releaseYear": {
+        "year": 2002
+       }
+      }
+     }
+    },
+    {
+     "node": {
+      "category": {
+       "id": "actor",
+       "text": "Actor"
+      },
+      "title": {
+       "id": "tt0217505",
+       "titleText": {
+        "text": "Gangs of New York"
+       },
+       "titleType": {
+        "id": "movie",
+        "text": "Movie"
+       },
+       "releaseYear": {
+        "year": 2002
+       }
+      }
+     }
+    },
+    {
+     "node": {
+      "category": {
+       "id": "actor",
+       "text": "Actor"
+      },
+      "title": {
+       "id": "tt0119004",
+       "titleText": {
+        "text": "Don's Plum"
+       },
+       "titleType": {
+        "id": "movie",
+        "text": "Movie"
+       },
+       "releaseYear": {
+        "year": 2001
+       }
+      }
+     }
+    },
+    {
+     "node": {
+      "category": {
+       "id": "actor",
+       "text": "Actor"
+      },
+      "title": {
+       "id": "tt0163978",
+       "titleText": {
+        "text": "The Beach"
+       },
+       "titleType": {
+        "id": "movie",
+        "text": "Movie"
+       },
+       "releaseYear": {
+        "year": 2000
+       }
+      }
+     }
+    },
+    {
+     "node": {
+      "category": {
+       "id": "actor",
+       "text": "Actor"
+      },
+      "title": {
+       "id": "tt0120533",
+       "titleText": {
+        "text": "Celebrity"
+       },
+       "titleType": {
+        "id": "movie",
+        "text": "Movie"
+       },
+       "releaseYear": {
+        "year": 1998
+       }
+      }
+     }
+    },
+    {
+     "node": {
+      "category": {
+       "id": "actor",
+       "text": "Actor"
+      },
+      "title": {
+       "id": "tt0120744",
+       "titleText": {
+        "text": "The Man in the Iron Mask"
+       },
+       "titleType": {
+        "id": "movie",
+        "text": "Movie"
+       },
+       "releaseYear": {
+        "year": 1998
+       }
+      }
+     }
+    },
+    {
+     "node": {
+      "category": {
+       "id": "actor",
+       "text": "Actor"
+      },
+      "title": {
+       "id": "tt0120338",
+       "titleText": {
+        "text": "Titanic"
+       },
+       "titleType": {
+        "id": "movie",
+        "text": "Movie"
+       },
+       "releaseYear": {
+        "year": 1997
+       }
+      }
+     }
+    },
+    {
+     "node": {
+      "category": {
+       "id": "actor",
+       "text": "Actor"
+      },
+      "title": {
+       "id": "tt0116999",
+       "titleText": {
+        "text": "Marvin's Room"
+       },
+       "titleType": {
+        "id": "movie",
+        "text": "Movie"
+       },
+       "releaseYear": {
+        "year": 1996
+       }
+      }
+     }
+    },
+    {
+     "node": {
+      "category": {
+       "id": "actor",
+       "text": "Actor"
+      },
+      "title": {
+       "id": "tt0117509",
+       "titleText": {
+        "text": "Romeo + Juliet"
+       },
+       "titleType": {
+        "id": "movie",
+        "text": "Movie"
+       },
+       "releaseYear": {
+        "year": 1996
+       }
+      }
+     }
+    },
+    {
+     "node": {
+      "category": {
+       "id": "actor",
+       "text": "Actor"
+      },
+      "title": {
+       "id": "tt32897497",
+       "titleText": {
+        "text": "The Jim Carroll Band: People Who Died"
+       },
+       "titleType": {
+        "id": "musicVideo",
+        "text": "Music Video"
+       },
+       "releaseYear": {
+        "year": 1995
+       }
+      }
+     }
+    },
+    {
+     "node": {
+      "category": {
+       "id": "actor",
+       "text": "Actor"
+      },
+      "title": {
+       "id": "tt10929730",
+       "titleText": {
+        "text": "X-Girl"
+       },
+       "titleType": {
+        "id": "short",
+        "text": "Short"
+       },
+       "releaseYear": {
+        "year": 1995
+       }
+      }
+     }
+    },
+    {
+     "node": {
+      "category": {
+       "id": "actor",
+       "text": "Actor"
+      },
+      "title": {
+       "id": "tt10852498",
+       "titleText": {
+        "text": "Honda: Miracle Civic"
+       },
+       "titleType": {
+        "id": "video",
+        "text": "Video"
+       },
+       "releaseYear": {
+        "year": 1995
+       }
+      }
+     }
+    },
+    {
+     "node": {
+      "category": {
+       "id": "actor",
+       "text": "Actor"
+      },
+      "title": {
+       "id": "tt0114702",
+       "titleText": {
+        "text": "Total Eclipse"
+       },
+       "titleType": {
+        "id": "movie",
+        "text": "Movie"
+       },
+       "releaseYear": {
+        "year": 1995
+       }
+      }
+     }
+    },
+    {
+     "node": {
+      "category": {
+       "id": "actor",
+       "text": "Actor"
+      },
+      "title": {
+       "id": "tt0114214",
+       "titleText": {
+        "text": "The Quick and the Dead"
+       },
+       "titleType": {
+        "id": "movie",
+        "text": "Movie"
+       },
+       "releaseYear": {
+        "year": 1995
+       }
+      }
+     }
+    },
+    {
+     "node": {
+      "category": {
+       "id": "actor",
+       "text": "Actor"
+      },
+      "title": {
+       "id": "tt0112461",
+       "titleText": {
+        "text": "The Basketball Diaries"
+       },
+       "titleType": {
+        "id": "movie",
+        "text": "Movie"
+       },
+       "releaseYear": {
+        "year": 1995
+       }
+      }
+     }
+    },
+    {
+     "node": {
+      "category": {
+       "id": "actor",
+       "text": "Actor"
+      },
+      "title": {
+       "id": "tt0109820",
+       "titleText": {
+        "text": "The Foot Shooting Party"
+       },
+       "titleType": {
+        "id": "short",
+        "text": "Short"
+       },
+       "releaseYear": {
+        "year": 1994
+       }
+      }
+     }
+    },
+    {
+     "node": {
+      "category": {
+       "id": "actor",
+       "text": "Actor"
+      },
+      "title": {
+       "id": "tt0108550",
+       "titleText": {
+        "text": "What's Eating Gilbert Grape"
+       },
+       "titleType": {
+        "id": "movie",
+        "text": "Movie"
+       },
+       "releaseYear": {
+        "year": 1993
+       }
+      }
+     }
+    },
+    {
+     "node": {
+      "category": {
+       "id": "actor",
+       "text": "Actor"
+      },
+      "title": {
+       "id": "tt0108330",
+       "titleText": {
+        "text": "This Boy's Life"
+       },
+       "titleType": {
+        "id": "movie",
+        "text": "Movie"
+       },
+       "releaseYear": {
+        "year": 1993
+       }
+      }
+     }
+    },
+    {
+     "node": {
+      "category": {
+       "id": "actor",
+       "text": "Actor"
+      },
+      "title": {
+       "id": "tt0088527",
+       "titleText": {
+        "text": "Growing Pains"
+       },
+       "titleType": {
+        "id": "tvSeries",
+        "text": "TV Series"
+       },
+       "releaseYear": {
+        "year": 1985
+       }
+      }
+     }
+    },
+    {
+     "node": {
+      "category": {
+       "id": "actor",
+       "text": "Actor"
+      },
+      "title": {
+       "id": "tt0105156",
+       "titleText": {
+        "text": "Poison Ivy"
+       },
+       "titleType": {
+        "id": "movie",
+        "text": "Movie"
+       },
+       "releaseYear": {
+        "year": 1992
+       }
+      }
+     }
+    },
+    {
+     "node": {
+      "category": {
+       "id": "actor",
+       "text": "Actor"
+      },
+      "title": {
+       "id": "tt10851578",
+       "titleText": {
+        "text": "Kraft: Kraft Free Singles"
+       },
+       "titleType": {
+        "id": "video",
+        "text": "Video"
+       },
+       "releaseYear": {
+        "year": 1991
+       }
+      }
+     }
+    },
+    {
+     "node": {
+      "category": {
+       "id": "actor",
+       "text": "Actor"
+      },
+      "title": {
+       "id": "tt0101627",
+       "titleText": {
+        "text": "Critters 3"
+       },
+       "titleType": {
+        "id": "movie",
+        "text": "Movie"
+       },
+       "releaseYear": {
+        "year": 1991
+       }
+      }
+     }
+    }
+   ]
+  }
+ }
+}

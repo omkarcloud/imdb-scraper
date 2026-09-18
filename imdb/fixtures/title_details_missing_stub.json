@@ -1,0 +1,37 @@
+{
+ "title": {
+  "id": "tt9999999999",
+  "canonicalUrl": "https://www.imdb.com/title/tt9999999999/",
+  "titleText": null,
+  "originalTitleText": null,
+  "titleType": null,
+  "releaseYear": null,
+  "releaseDate": null,
+  "runtime": null,
+  "certificate": null,
+  "ratingsSummary": {
+   "aggregateRating": null,
+   "voteCount": 0,
+   "topRanking": null
+  },
+  "metacritic": null,
+  "plot": null,
+  "titleGenres": null,
+  "primaryImage": null,
+  "latestTrailer": null,
+  "principalCredits": [],
+  "credits": {
+   "total": 0,
+   "edges": []
+  },
+  "productionBudget": null,
+  "lifetimeGross": null,
+  "openingWeekendGross": null,
+  "moreLikeThisTitles": {
+   "edges": []
+  },
+  "episodes": null,
+  "countriesOfOrigin": null,
+  "spokenLanguages": null
+ }
+}

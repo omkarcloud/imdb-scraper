@@ -1,0 +1,1221 @@
+{
+ "title": {
+  "id": "tt0111161",
+  "canonicalUrl": "https://www.imdb.com/title/tt0111161/",
+  "titleText": {
+   "text": "The Shawshank Redemption"
+  },
+  "originalTitleText": {
+   "text": "The Shawshank Redemption"
+  },
+  "titleType": {
+   "id": "movie",
+   "text": "Movie",
+   "canHaveEpisodes": false,
+   "isSeries": false,
+   "isEpisode": false
+  },
+  "releaseYear": {
+   "year": 1994,
+   "endYear": null
+  },
+  "releaseDate": {
+   "day": 14,
+   "month": 10,
+   "year": 1994
+  },
+  "runtime": {
+   "seconds": 8520
+  },
+  "certificate": {
+   "rating": "R"
+  },
+  "ratingsSummary": {
+   "aggregateRating": 9.3,
+   "voteCount": 3229091,
+   "topRanking": {
+    "rank": 1
+   }
+  },
+  "metacritic": {
+   "metascore": {
+    "score": 82,
+    "reviewCount": 22
+   }
+  },
+  "plot": {
+   "plotText": {
+    "plainText": "After a banker is sentenced to life in Shawshank Prison, he forms an unlikely friendship with a seasoned inmate and clings to hope amid cruelty and corruption."
+   }
+  },
+  "titleGenres": {
+   "genres": [
+    {
+     "genre": {
+      "text": "Drama"
+     }
+    }
+   ]
+  },
+  "primaryImage": {
+   "url": "https://m.media-amazon.com/images/M/MV5BMDAyY2FhYjctNDc5OS00MDNlLThiMGUtY2UxYWVkNGY2ZjljXkEyXkFqcGc@._V1_.jpg",
+   "width": 1200,
+   "height": 1800,
+   "caption": {
+    "plainText": "Tim Robbins in The Shawshank Redemption (1994)"
+   }
+  },
+  "latestTrailer": {
+   "id": "vi3877612057",
+   "name": {
+    "value": "Official Trailer"
+   },
+   "runtime": {
+    "value": 131,
+    "unit": "SECONDS"
+   },
+   "thumbnail": {
+    "url": "https://m.media-amazon.com/images/M/MV5BNjQ2NDA3MDcxMF5BMl5BanBnXkFtZTgwMjE5NTU0NzE@._V1_.jpg"
+   }
+  },
+  "principalCredits": [
+   {
+    "category": {
+     "id": "director",
+     "text": "Director"
+    },
+    "credits": [
+     {
+      "name": {
+       "id": "nm0001104",
+       "nameText": {
+        "text": "Frank Darabont"
+       }
+      }
+     }
+    ]
+   },
+   {
+    "category": {
+     "id": "writer",
+     "text": "Writers"
+    },
+    "credits": [
+     {
+      "name": {
+       "id": "nm0000175",
+       "nameText": {
+        "text": "Stephen King"
+       }
+      }
+     },
+     {
+      "name": {
+       "id": "nm0001104",
+       "nameText": {
+        "text": "Frank Darabont"
+       }
+      }
+     }
+    ]
+   },
+   {
+    "category": {
+     "id": "cast",
+     "text": "Stars"
+    },
+    "credits": [
+     {
+      "name": {
+       "id": "nm0000209",
+       "nameText": {
+        "text": "Tim Robbins"
+       }
+      }
+     },
+     {
+      "name": {
+       "id": "nm0000151",
+       "nameText": {
+        "text": "Morgan Freeman"
+       }
+      }
+     },
+     {
+      "name": {
+       "id": "nm0348409",
+       "nameText": {
+        "text": "Bob Gunton"
+       }
+      }
+     },
+     {
+      "name": {
+       "id": "nm0006669",
+       "nameText": {
+        "text": "William Sadler"
+       }
+      }
+     }
+    ]
+   }
+  ],
+  "credits": {
+   "total": 74,
+   "edges": [
+    {
+     "node": {
+      "name": {
+       "id": "nm0000209",
+       "nameText": {
+        "text": "Tim Robbins"
+       },
+       "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMTI1OTYxNzAxOF5BMl5BanBnXkFtZTYwNTE5ODI4._V1_.jpg"
+       }
+      },
+      "characters": [
+       {
+        "name": "Andy Dufresne"
+       }
+      ]
+     }
+    },
+    {
+     "node": {
+      "name": {
+       "id": "nm0000151",
+       "nameText": {
+        "text": "Morgan Freeman"
+       },
+       "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMTc0MDMyMzI2OF5BMl5BanBnXkFtZTcwMzM2OTk1MQ@@._V1_.jpg"
+       }
+      },
+      "characters": [
+       {
+        "name": "Ellis Boyd 'Red' Redding"
+       }
+      ]
+     }
+    },
+    {
+     "node": {
+      "name": {
+       "id": "nm0348409",
+       "nameText": {
+        "text": "Bob Gunton"
+       },
+       "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BOWQ1ZTI1ZDgtMjhmZC00OWExLTliNWQtNzgxNTExZWIwMDJkXkEyXkFqcGc@._V1_.jpg"
+       }
+      },
+      "characters": [
+       {
+        "name": "Warden Norton"
+       }
+      ]
+     }
+    },
+    {
+     "node": {
+      "name": {
+       "id": "nm0006669",
+       "nameText": {
+        "text": "William Sadler"
+       },
+       "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMTA1NjU3NDg1MTheQTJeQWpwZ15BbWU2MDI4OTcxMw@@._V1_.jpg"
+       }
+      },
+      "characters": [
+       {
+        "name": "Heywood"
+       }
+      ]
+     }
+    },
+    {
+     "node": {
+      "name": {
+       "id": "nm0000317",
+       "nameText": {
+        "text": "Clancy Brown"
+       },
+       "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMTUxODY3NjAzMF5BMl5BanBnXkFtZTcwMTQ5MjYwNg@@._V1_.jpg"
+       }
+      },
+      "characters": [
+       {
+        "name": "Captain Hadley"
+       }
+      ]
+     }
+    },
+    {
+     "node": {
+      "name": {
+       "id": "nm0004743",
+       "nameText": {
+        "text": "Gil Bellows"
+       },
+       "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMTgxMzc0MDAzNV5BMl5BanBnXkFtZTgwMzUzMTI0MzE@._V1_.jpg"
+       }
+      },
+      "characters": [
+       {
+        "name": "Tommy"
+       }
+      ]
+     }
+    },
+    {
+     "node": {
+      "name": {
+       "id": "nm0001679",
+       "nameText": {
+        "text": "Mark Rolston"
+       },
+       "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BYmUzNTBkNzgtNTE4NS00ZDAzLWI2MWYtYjM4NjA1ZmMyZGRmXkEyXkFqcGc@._V1_.jpg"
+       }
+      },
+      "characters": [
+       {
+        "name": "Bogs Diamond"
+       }
+      ]
+     }
+    },
+    {
+     "node": {
+      "name": {
+       "id": "nm0926235",
+       "nameText": {
+        "text": "James Whitmore"
+       },
+       "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BYjcxNTU0MTYtYjgwNi00ZjIxLTljYWUtMzY4OGRkZjUyNzRhXkEyXkFqcGc@._V1_.jpg"
+       }
+      },
+      "characters": [
+       {
+        "name": "Brooks Hatlen"
+       }
+      ]
+     }
+    },
+    {
+     "node": {
+      "name": {
+       "id": "nm0218810",
+       "nameText": {
+        "text": "Jeffrey DeMunn"
+       },
+       "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMTQ0Mjc3NDA1OV5BMl5BanBnXkFtZTcwMTg3MDEyOA@@._V1_.jpg"
+       }
+      },
+      "characters": [
+       {
+        "name": "1946 D.A."
+       }
+      ]
+     }
+    },
+    {
+     "node": {
+      "name": {
+       "id": "nm0104594",
+       "nameText": {
+        "text": "Larry Brandenburg"
+       },
+       "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNTJjZGIyN2YtZjk5OC00MGY3LWE0ZmItNTY0YTgyZmFlMDg5XkEyXkFqcGc@._V1_.jpg"
+       }
+      },
+      "characters": [
+       {
+        "name": "Skeet"
+       }
+      ]
+     }
+    },
+    {
+     "node": {
+      "name": {
+       "id": "nm0321358",
+       "nameText": {
+        "text": "Neil Giuntoli"
+       },
+       "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMjI0OTUxNjIyNF5BMl5BanBnXkFtZTcwNDE0MDcwOA@@._V1_.jpg"
+       }
+      },
+      "characters": [
+       {
+        "name": "Jigger"
+       }
+      ]
+     }
+    },
+    {
+     "node": {
+      "name": {
+       "id": "nm0508742",
+       "nameText": {
+        "text": "Brian Libby"
+       },
+       "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMjI2NDYwNzU0NV5BMl5BanBnXkFtZTcwMjYwMTcwOA@@._V1_.jpg"
+       }
+      },
+      "characters": [
+       {
+        "name": "Floyd"
+       }
+      ]
+     }
+    },
+    {
+     "node": {
+      "name": {
+       "id": "nm0698998",
+       "nameText": {
+        "text": "David Proval"
+       },
+       "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMjE0MTU0NjU3Nl5BMl5BanBnXkFtZTYwNTgzNjY0._V1_.jpg"
+       }
+      },
+      "characters": [
+       {
+        "name": "Snooze"
+       }
+      ]
+     }
+    },
+    {
+     "node": {
+      "name": {
+       "id": "nm0706554",
+       "nameText": {
+        "text": "Joseph Ragno"
+       },
+       "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMTQyNzMyNTUwNV5BMl5BanBnXkFtZTcwNjQ2MTcwOA@@._V1_.jpg"
+       }
+      },
+      "characters": [
+       {
+        "name": "Ernie"
+       }
+      ]
+     }
+    },
+    {
+     "node": {
+      "name": {
+       "id": "nm0161980",
+       "nameText": {
+        "text": "Jude Ciccolella"
+       },
+       "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BYTFkYzlhMGQtZjYzYy00YmY0LTg3N2MtMDcwMTU0MzFjYjA0XkEyXkFqcGc@._V1_.jpg"
+       }
+      },
+      "characters": [
+       {
+        "name": "Guard Mert"
+       }
+      ]
+     }
+    },
+    {
+     "node": {
+      "name": {
+       "id": "nm0005204",
+       "nameText": {
+        "text": "Paul McCrane"
+       },
+       "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMTI2Mjc1NzExN15BMl5BanBnXkFtZTYwNjUzMzQz._V1_.jpg"
+       }
+      },
+      "characters": [
+       {
+        "name": "Guard Trout"
+       }
+      ]
+     }
+    },
+    {
+     "node": {
+      "name": {
+       "id": "nm0086169",
+       "nameText": {
+        "text": "Renee Blaine"
+       },
+       "primaryImage": null
+      },
+      "characters": [
+       {
+        "name": "Andy Dufresne's Wife"
+       }
+      ]
+     }
+    },
+    {
+     "node": {
+      "name": {
+       "id": "nm0542957",
+       "nameText": {
+        "text": "Scott Mann"
+       },
+       "primaryImage": null
+      },
+      "characters": [
+       {
+        "name": "Glenn Quentin"
+       }
+      ]
+     }
+    },
+    {
+     "node": {
+      "name": {
+       "id": "nm0395612",
+       "nameText": {
+        "text": "John Horton"
+       },
+       "primaryImage": null
+      },
+      "characters": [
+       {
+        "name": "1946 Judge"
+       }
+      ]
+     }
+    },
+    {
+     "node": {
+      "name": {
+       "id": "nm2939075",
+       "nameText": {
+        "text": "Gordon Greene"
+       },
+       "primaryImage": null
+      },
+      "characters": [
+       {
+        "name": "1947 Parole Hearings Man"
+       }
+      ]
+     }
+    }
+   ]
+  },
+  "productionBudget": {
+   "budget": {
+    "amount": 25000000,
+    "currency": "USD"
+   }
+  },
+  "lifetimeGross": {
+   "total": {
+    "amount": 29424909,
+    "currency": "USD"
+   }
+  },
+  "openingWeekendGross": {
+   "gross": {
+    "total": {
+     "amount": 727327,
+     "currency": "USD"
+    }
+   },
+   "weekendEndDate": "1994-09-25",
+   "theaterCount": 33
+  },
+  "moreLikeThisTitles": {
+   "edges": [
+    {
+     "node": {
+      "id": "tt0108052",
+      "titleText": {
+       "text": "Schindler's List"
+      },
+      "originalTitleText": {
+       "text": "Schindler's List"
+      },
+      "titleType": {
+       "id": "movie",
+       "text": "Movie",
+       "canHaveEpisodes": false
+      },
+      "releaseYear": {
+       "year": 1993,
+       "endYear": null
+      },
+      "primaryImage": {
+       "url": "https://m.media-amazon.com/images/M/MV5BNjM1ZDQxYWUtMzQyZS00MTE1LWJmZGYtNGUyNTdlYjM3ZmVmXkEyXkFqcGc@._V1_.jpg",
+       "width": 1600,
+       "height": 2400
+      },
+      "ratingsSummary": {
+       "aggregateRating": 9,
+       "voteCount": 1599705
+      },
+      "runtime": {
+       "seconds": 11760
+      },
+      "plot": {
+       "plotText": {
+        "plainText": "In German-occupied Poland during World War II, industrialist Oskar Schindler gradually becomes concerned for his Jewish workforce after witnessing their persecution by the Nazis."
+       }
+      },
+      "titleGenres": {
+       "genres": [
+        {
+         "genre": {
+          "text": "Biography"
+         }
+        },
+        {
+         "genre": {
+          "text": "Drama"
+         }
+        },
+        {
+         "genre": {
+          "text": "History"
+         }
+        }
+       ]
+      }
+     }
+    },
+    {
+     "node": {
+      "id": "tt0117665",
+      "titleText": {
+       "text": "Sleepers"
+      },
+      "originalTitleText": {
+       "text": "Sleepers"
+      },
+      "titleType": {
+       "id": "movie",
+       "text": "Movie",
+       "canHaveEpisodes": false
+      },
+      "releaseYear": {
+       "year": 1996,
+       "endYear": null
+      },
+      "primaryImage": {
+       "url": "https://m.media-amazon.com/images/M/MV5BMjBhMWRmZTAtOGRlNC00YWYxLTlmZWUtYTY4YThlZGNhYmM2XkEyXkFqcGc@._V1_.jpg",
+       "width": 1061,
+       "height": 1500
+      },
+      "ratingsSummary": {
+       "aggregateRating": 7.5,
+       "voteCount": 256862
+      },
+      "runtime": {
+       "seconds": 8820
+      },
+      "plot": {
+       "plotText": {
+        "plainText": "A reporter and a District Attorney help childhood friends who killed a sadistic guard."
+       }
+      },
+      "titleGenres": {
+       "genres": [
+        {
+         "genre": {
+          "text": "Crime"
+         }
+        },
+        {
+         "genre": {
+          "text": "Drama"
+         }
+        },
+        {
+         "genre": {
+          "text": "Thriller"
+         }
+        }
+       ]
+      }
+     }
+    },
+    {
+     "node": {
+      "id": "tt0120689",
+      "titleText": {
+       "text": "The Green Mile"
+      },
+      "originalTitleText": {
+       "text": "The Green Mile"
+      },
+      "titleType": {
+       "id": "movie",
+       "text": "Movie",
+       "canHaveEpisodes": false
+      },
+      "releaseYear": {
+       "year": 1999,
+       "endYear": null
+      },
+      "primaryImage": {
+       "url": "https://m.media-amazon.com/images/M/MV5BMTUxMzQyNjA5MF5BMl5BanBnXkFtZTYwOTU2NTY3._V1_.jpg",
+       "width": 500,
+       "height": 740
+      },
+      "ratingsSummary": {
+       "aggregateRating": 8.6,
+       "voteCount": 1580767
+      },
+      "runtime": {
+       "seconds": 11340
+      },
+      "plot": {
+       "plotText": {
+        "plainText": "A death row guard learns that a gentle giant in his charge possesses a mysterious gift."
+       }
+      },
+      "titleGenres": {
+       "genres": [
+        {
+         "genre": {
+          "text": "Crime"
+         }
+        },
+        {
+         "genre": {
+          "text": "Drama"
+         }
+        },
+        {
+         "genre": {
+          "text": "Fantasy"
+         }
+        }
+       ]
+      }
+     }
+    },
+    {
+     "node": {
+      "id": "tt0120338",
+      "titleText": {
+       "text": "Titanic"
+      },
+      "originalTitleText": {
+       "text": "Titanic"
+      },
+      "titleType": {
+       "id": "movie",
+       "text": "Movie",
+       "canHaveEpisodes": false
+      },
+      "releaseYear": {
+       "year": 1997,
+       "endYear": null
+      },
+      "primaryImage": {
+       "url": "https://m.media-amazon.com/images/M/MV5BYzYyN2FiZmUtYWYzMy00MzViLWJkZTMtOGY1ZjgzNWMwN2YxXkEyXkFqcGc@._V1_.jpg",
+       "width": 2015,
+       "height": 3000
+      },
+      "ratingsSummary": {
+       "aggregateRating": 8,
+       "voteCount": 1409301
+      },
+      "runtime": {
+       "seconds": 11640
+      },
+      "plot": {
+       "plotText": {
+        "plainText": "A young aristocrat falls in love with a poor artist aboard the luxurious, ill-fated RMS Titanic."
+       }
+      },
+      "titleGenres": {
+       "genres": [
+        {
+         "genre": {
+          "text": "Drama"
+         }
+        },
+        {
+         "genre": {
+          "text": "Romance"
+         }
+        }
+       ]
+      }
+     }
+    },
+    {
+     "node": {
+      "id": "tt15398776",
+      "titleText": {
+       "text": "Oppenheimer"
+      },
+      "originalTitleText": {
+       "text": "Oppenheimer"
+      },
+      "titleType": {
+       "id": "movie",
+       "text": "Movie",
+       "canHaveEpisodes": false
+      },
+      "releaseYear": {
+       "year": 2023,
+       "endYear": null
+      },
+      "primaryImage": {
+       "url": "https://m.media-amazon.com/images/M/MV5BN2JkMDc5MGQtZjg3YS00NmFiLWIyZmQtZTJmNTM5MjVmYTQ4XkEyXkFqcGc@._V1_.jpg",
+       "width": 2331,
+       "height": 3454
+      },
+      "ratingsSummary": {
+       "aggregateRating": 8.2,
+       "voteCount": 1090288
+      },
+      "runtime": {
+       "seconds": 10800
+      },
+      "plot": {
+       "plotText": {
+        "plainText": "A dramatization of the life story of J. Robert Oppenheimer, the physicist who had a large hand in the development of the atomic bombs that brought an end to World War II."
+       }
+      },
+      "titleGenres": {
+       "genres": [
+        {
+         "genre": {
+          "text": "Biography"
+         }
+        },
+        {
+         "genre": {
+          "text": "Drama"
+         }
+        },
+        {
+         "genre": {
+          "text": "History"
+         }
+        }
+       ]
+      }
+     }
+    },
+    {
+     "node": {
+      "id": "tt0253474",
+      "titleText": {
+       "text": "The Pianist"
+      },
+      "originalTitleText": {
+       "text": "The Pianist"
+      },
+      "titleType": {
+       "id": "movie",
+       "text": "Movie",
+       "canHaveEpisodes": false
+      },
+      "releaseYear": {
+       "year": 2002,
+       "endYear": null
+      },
+      "primaryImage": {
+       "url": "https://m.media-amazon.com/images/M/MV5BMjEwNmEwYjgtNTk3ZC00NjljLTg5ZDctZTY3ZGQwZjRkZmQxXkEyXkFqcGc@._V1_.jpg",
+       "width": 787,
+       "height": 1087
+      },
+      "ratingsSummary": {
+       "aggregateRating": 8.5,
+       "voteCount": 1022439
+      },
+      "runtime": {
+       "seconds": 9000
+      },
+      "plot": {
+       "plotText": {
+        "plainText": "During WWII, acclaimed Polish musician Wladyslaw faces various struggles as he loses contact with his family. As the situation worsens, he hides in the ruins of Warsaw in order to survive."
+       }
+      },
+      "titleGenres": {
+       "genres": [
+        {
+         "genre": {
+          "text": "Biography"
+         }
+        },
+        {
+         "genre": {
+          "text": "Drama"
+         }
+        },
+        {
+         "genre": {
+          "text": "Music"
+         }
+        }
+       ]
+      }
+     }
+    },
+    {
+     "node": {
+      "id": "tt0469494",
+      "titleText": {
+       "text": "There Will Be Blood"
+      },
+      "originalTitleText": {
+       "text": "There Will Be Blood"
+      },
+      "titleType": {
+       "id": "movie",
+       "text": "Movie",
+       "canHaveEpisodes": false
+      },
+      "releaseYear": {
+       "year": 2007,
+       "endYear": null
+      },
+      "primaryImage": {
+       "url": "https://m.media-amazon.com/images/M/MV5BMjAxODQ4MDU5NV5BMl5BanBnXkFtZTcwMDU4MjU1MQ@@._V1_.jpg",
+       "width": 510,
+       "height": 755
+      },
+      "ratingsSummary": {
+       "aggregateRating": 8.2,
+       "voteCount": 717304
+      },
+      "runtime": {
+       "seconds": 9480
+      },
+      "plot": {
+       "plotText": {
+        "plainText": "A story of family, religion, hatred, oil and madness, focusing on a turn-of-the-century prospector in the early days of the business."
+       }
+      },
+      "titleGenres": {
+       "genres": [
+        {
+         "genre": {
+          "text": "Drama"
+         }
+        }
+       ]
+      }
+     }
+    },
+    {
+     "node": {
+      "id": "tt2119532",
+      "titleText": {
+       "text": "Hacksaw Ridge"
+      },
+      "originalTitleText": {
+       "text": "Hacksaw Ridge"
+      },
+      "titleType": {
+       "id": "movie",
+       "text": "Movie",
+       "canHaveEpisodes": false
+      },
+      "releaseYear": {
+       "year": 2016,
+       "endYear": null
+      },
+      "primaryImage": {
+       "url": "https://m.media-amazon.com/images/M/MV5BMjQ1NjM3MTUxNV5BMl5BanBnXkFtZTgwMDc5MTY5OTE@._V1_.jpg",
+       "width": 971,
+       "height": 1500
+      },
+      "ratingsSummary": {
+       "aggregateRating": 8.1,
+       "voteCount": 694282
+      },
+      "runtime": {
+       "seconds": 8340
+      },
+      "plot": {
+       "plotText": {
+        "plainText": "World War II American Army Medic Desmond T. Doss, serving during the Battle of Okinawa, refuses to kill people and becomes the first man in American history to receive the Medal of Honor without firing a shot."
+       }
+      },
+      "titleGenres": {
+       "genres": [
+        {
+         "genre": {
+          "text": "Biography"
+         }
+        },
+        {
+         "genre": {
+          "text": "Drama"
+         }
+        },
+        {
+         "genre": {
+          "text": "History"
+         }
+        }
+       ]
+      }
+     }
+    },
+    {
+     "node": {
+      "id": "tt0443706",
+      "titleText": {
+       "text": "Zodiac"
+      },
+      "originalTitleText": {
+       "text": "Zodiac"
+      },
+      "titleType": {
+       "id": "movie",
+       "text": "Movie",
+       "canHaveEpisodes": false
+      },
+      "releaseYear": {
+       "year": 2007,
+       "endYear": null
+      },
+      "primaryImage": {
+       "url": "https://m.media-amazon.com/images/M/MV5BNDFkMTRkZmQtM2I0NC00NjJjLWJlMDctNTNiZWYxYzhjZDZiXkEyXkFqcGc@._V1_.jpg",
+       "width": 1943,
+       "height": 2867
+      },
+      "ratingsSummary": {
+       "aggregateRating": 7.7,
+       "voteCount": 685905
+      },
+      "runtime": {
+       "seconds": 9420
+      },
+      "plot": {
+       "plotText": {
+        "plainText": "Between 1968 and 1983, a San Francisco cartoonist becomes an amateur detective obsessed with tracking down the Zodiac Killer, an unidentified individual who terrorizes Northern California with a killing spree."
+       }
+      },
+      "titleGenres": {
+       "genres": [
+        {
+         "genre": {
+          "text": "Crime"
+         }
+        },
+        {
+         "genre": {
+          "text": "Drama"
+         }
+        },
+        {
+         "genre": {
+          "text": "Mystery"
+         }
+        }
+       ]
+      }
+     }
+    },
+    {
+     "node": {
+      "id": "tt2713180",
+      "titleText": {
+       "text": "Fury"
+      },
+      "originalTitleText": {
+       "text": "Fury"
+      },
+      "titleType": {
+       "id": "movie",
+       "text": "Movie",
+       "canHaveEpisodes": false
+      },
+      "releaseYear": {
+       "year": 2014,
+       "endYear": null
+      },
+      "primaryImage": {
+       "url": "https://m.media-amazon.com/images/M/MV5BMjA4MDU0NTUyN15BMl5BanBnXkFtZTgwMzQxMzY4MjE@._V1_.jpg",
+       "width": 1382,
+       "height": 2048
+      },
+      "ratingsSummary": {
+       "aggregateRating": 7.6,
+       "voteCount": 617046
+      },
+      "runtime": {
+       "seconds": 8040
+      },
+      "plot": {
+       "plotText": {
+        "plainText": "A grizzled tank commander makes tough decisions as he and his crew fight their way across Germany in April, 1945."
+       }
+      },
+      "titleGenres": {
+       "genres": [
+        {
+         "genre": {
+          "text": "Action"
+         }
+        },
+        {
+         "genre": {
+          "text": "Drama"
+         }
+        },
+        {
+         "genre": {
+          "text": "War"
+         }
+        }
+       ]
+      }
+     }
+    },
+    {
+     "node": {
+      "id": "tt0086879",
+      "titleText": {
+       "text": "Amadeus"
+      },
+      "originalTitleText": {
+       "text": "Amadeus"
+      },
+      "titleType": {
+       "id": "movie",
+       "text": "Movie",
+       "canHaveEpisodes": false
+      },
+      "releaseYear": {
+       "year": 1984,
+       "endYear": null
+      },
+      "primaryImage": {
+       "url": "https://m.media-amazon.com/images/M/MV5BMzc2MjM0NTMtOGY4NC00NzY1LWE2ODUtZjMzY2RhNGNkZDAyXkEyXkFqcGc@._V1_.jpg",
+       "width": 962,
+       "height": 1500
+      },
+      "ratingsSummary": {
+       "aggregateRating": 8.4,
+       "voteCount": 472392
+      },
+      "runtime": {
+       "seconds": 9600
+      },
+      "plot": {
+       "plotText": {
+        "plainText": "In 18th-century Vienna, court composer Antonio Salieri becomes awed and consumed by envy when the gifted, irreverent Wolfgang Amadeus Mozart bursts onto the imperial music scene."
+       }
+      },
+      "titleGenres": {
+       "genres": [
+        {
+         "genre": {
+          "text": "Biography"
+         }
+        },
+        {
+         "genre": {
+          "text": "Drama"
+         }
+        },
+        {
+         "genre": {
+          "text": "Music"
+         }
+        }
+       ]
+      }
+     }
+    },
+    {
+     "node": {
+      "id": "tt5537002",
+      "titleText": {
+       "text": "Killers of the Flower Moon"
+      },
+      "originalTitleText": {
+       "text": "Killers of the Flower Moon"
+      },
+      "titleType": {
+       "id": "movie",
+       "text": "Movie",
+       "canHaveEpisodes": false
+      },
+      "releaseYear": {
+       "year": 2023,
+       "endYear": null
+      },
+      "primaryImage": {
+       "url": "https://m.media-amazon.com/images/M/MV5BZWY5ZDVjNTUtODI5Yy00MjFhLWEyM2EtYzZjM2VjZTI0MTBjXkEyXkFqcGc@._V1_.jpg",
+       "width": 2000,
+       "height": 3000
+      },
+      "ratingsSummary": {
+       "aggregateRating": 7.5,
+       "voteCount": 312372
+      },
+      "runtime": {
+       "seconds": 12360
+      },
+      "plot": {
+       "plotText": {
+        "plainText": "When oil is discovered in 1920s Oklahoma under Osage Nation land, the Osage people are murdered one by one - until the FBI steps in to unravel the mystery."
+       }
+      },
+      "titleGenres": {
+       "genres": [
+        {
+         "genre": {
+          "text": "Crime"
+         }
+        },
+        {
+         "genre": {
+          "text": "Drama"
+         }
+        },
+        {
+         "genre": {
+          "text": "History"
+         }
+        }
+       ]
+      }
+     }
+    }
+   ]
+  },
+  "episodes": null,
+  "countriesOfOrigin": {
+   "countries": [
+    {
+     "id": "US",
+     "text": "United States"
+    }
+   ]
+  },
+  "spokenLanguages": {
+   "spokenLanguages": [
+    {
+     "id": "en",
+     "text": "English"
+    }
+   ]
+  }
+ }
+}

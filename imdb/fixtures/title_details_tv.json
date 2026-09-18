@@ -1,0 +1,1261 @@
+{
+ "title": {
+  "id": "tt0944947",
+  "canonicalUrl": "https://www.imdb.com/title/tt0944947/",
+  "titleText": {
+   "text": "Game of Thrones"
+  },
+  "originalTitleText": {
+   "text": "Game of Thrones"
+  },
+  "titleType": {
+   "id": "tvSeries",
+   "text": "TV Series",
+   "canHaveEpisodes": true,
+   "isSeries": true,
+   "isEpisode": false
+  },
+  "releaseYear": {
+   "year": 2011,
+   "endYear": 2019
+  },
+  "releaseDate": {
+   "day": 17,
+   "month": 4,
+   "year": 2011
+  },
+  "runtime": {
+   "seconds": 3600
+  },
+  "certificate": {
+   "rating": "TV-MA"
+  },
+  "ratingsSummary": {
+   "aggregateRating": 9.2,
+   "voteCount": 2653532,
+   "topRanking": {
+    "rank": 13
+   }
+  },
+  "metacritic": null,
+  "plot": {
+   "plotText": {
+    "plainText": "Nine noble families vie for control of Westeros and the Iron Throne, while an ancient threat beyond The Wall begins to stir."
+   }
+  },
+  "titleGenres": {
+   "genres": [
+    {
+     "genre": {
+      "text": "Drama"
+     }
+    },
+    {
+     "genre": {
+      "text": "Fantasy"
+     }
+    }
+   ]
+  },
+  "primaryImage": {
+   "url": "https://m.media-amazon.com/images/M/MV5BNGYxOGJkMjItZjVkZC00OGEzLWExNjktOTZmNGZhZmRlMTk2XkEyXkFqcGc@._V1_.jpg",
+   "width": 736,
+   "height": 1090,
+   "caption": {
+    "plainText": "Sean Bean in Game of Thrones (2011)"
+   }
+  },
+  "latestTrailer": {
+   "id": "vi1988544281",
+   "name": {
+    "value": "Game Of Thrones: Complete Series"
+   },
+   "runtime": {
+    "value": 151,
+    "unit": "SECONDS"
+   },
+   "thumbnail": {
+    "url": "https://m.media-amazon.com/images/M/MV5BNmFiYjA2ZjgtYjA3YS00NjUzLWE2MGMtYzlmYzI0ZTRmYTA4XkEyXkFqcGdeQVRoaXJkUGFydHlJbmdlc3Rpb25Xb3JrZmxvdw@@._V1_.jpg"
+   }
+  },
+  "principalCredits": [
+   {
+    "category": {
+     "id": "creator",
+     "text": "Creators"
+    },
+    "credits": [
+     {
+      "name": {
+       "id": "nm1125275",
+       "nameText": {
+        "text": "David Benioff"
+       }
+      }
+     },
+     {
+      "name": {
+       "id": "nm1888967",
+       "nameText": {
+        "text": "D.B. Weiss"
+       }
+      }
+     }
+    ]
+   },
+   {
+    "category": {
+     "id": "cast",
+     "text": "Stars"
+    },
+    "credits": [
+     {
+      "name": {
+       "id": "nm3592338",
+       "nameText": {
+        "text": "Emilia Clarke"
+       }
+      }
+     },
+     {
+      "name": {
+       "id": "nm0227759",
+       "nameText": {
+        "text": "Peter Dinklage"
+       }
+      }
+     },
+     {
+      "name": {
+       "id": "nm3229685",
+       "nameText": {
+        "text": "Kit Harington"
+       }
+      }
+     },
+     {
+      "name": {
+       "id": "nm0372176",
+       "nameText": {
+        "text": "Lena Headey"
+       }
+      }
+     }
+    ]
+   }
+  ],
+  "credits": {
+   "total": 857,
+   "edges": [
+    {
+     "node": {
+      "name": {
+       "id": "nm0227759",
+       "nameText": {
+        "text": "Peter Dinklage"
+       },
+       "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMTM1MTI5Mzc0MF5BMl5BanBnXkFtZTYwNzgzOTQz._V1_.jpg"
+       }
+      },
+      "characters": [
+       {
+        "name": "Tyrion Lannister"
+       }
+      ]
+     }
+    },
+    {
+     "node": {
+      "name": {
+       "id": "nm0372176",
+       "nameText": {
+        "text": "Lena Headey"
+       },
+       "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMzIwMjIwNjg0M15BMl5BanBnXkFtZTgwOTI3MDEzMDE@._V1_.jpg"
+       }
+      },
+      "characters": [
+       {
+        "name": "Cersei Lannister"
+       }
+      ]
+     }
+    },
+    {
+     "node": {
+      "name": {
+       "id": "nm3229685",
+       "nameText": {
+        "text": "Kit Harington"
+       },
+       "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMTA2NTI0NjYxMTBeQTJeQWpwZ15BbWU3MDIxMjgyNzY@._V1_.jpg"
+       }
+      },
+      "characters": [
+       {
+        "name": "Jon Snow"
+       }
+      ]
+     }
+    },
+    {
+     "node": {
+      "name": {
+       "id": "nm3592338",
+       "nameText": {
+        "text": "Emilia Clarke"
+       },
+       "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNjg3OTg4MDczMl5BMl5BanBnXkFtZTgwODc0NzUwNjE@._V1_.jpg"
+       }
+      },
+      "characters": [
+       {
+        "name": "Daenerys Targaryen"
+       }
+      ]
+     }
+    },
+    {
+     "node": {
+      "name": {
+       "id": "nm3849842",
+       "nameText": {
+        "text": "Sophie Turner"
+       },
+       "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMzJlNTY5NmQtMjFkYy00NWMwLTk4YzItM2M4M2I0MWFjNDIyXkEyXkFqcGc@._V1_.jpg"
+       }
+      },
+      "characters": [
+       {
+        "name": "Sansa Stark"
+       }
+      ]
+     }
+    },
+    {
+     "node": {
+      "name": {
+       "id": "nm3586035",
+       "nameText": {
+        "text": "Maisie Williams"
+       },
+       "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BZTk1MzVkZDUtYWEzMy00YjM1LWE2OGQtYWM3NTA0MjVjMmIyXkEyXkFqcGc@._V1_.jpg"
+       }
+      },
+      "characters": [
+       {
+        "name": "Arya Stark"
+       }
+      ]
+     }
+    },
+    {
+     "node": {
+      "name": {
+       "id": "nm0182666",
+       "nameText": {
+        "text": "Nikolaj Coster-Waldau"
+       },
+       "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BZmU5YjY5ZTItNDkxMy00MWEyLWJlNjktMWJiN2Y5ZWUzZjQ0XkEyXkFqcGc@._V1_.jpg"
+       }
+      },
+      "characters": [
+       {
+        "name": "Jaime Lannister"
+       }
+      ]
+     }
+    },
+    {
+     "node": {
+      "name": {
+       "id": "nm0322513",
+       "nameText": {
+        "text": "Iain Glen"
+       },
+       "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNDgzNTZhMWUtMjFhZS00NzQ2LTk4M2EtYWJhMzllYTg0ZWM5XkEyXkFqcGc@._V1_.jpg"
+       }
+      },
+      "characters": [
+       {
+        "name": "Jorah Mormont"
+       }
+      ]
+     }
+    },
+    {
+     "node": {
+      "name": {
+       "id": "nm4263213",
+       "nameText": {
+        "text": "John Bradley"
+       },
+       "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNDA3NWNlYjUtNTY2Yy00YWY4LWI5YWYtM2Q1ZTNlYmE1YTI2XkEyXkFqcGc@._V1_.jpg"
+       }
+      },
+      "characters": [
+       {
+        "name": "Samwell Tarly"
+       }
+      ]
+     }
+    },
+    {
+     "node": {
+      "name": {
+       "id": "nm0654295",
+       "nameText": {
+        "text": "Alfie Allen"
+       },
+       "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BOTlhODE3NjItNTExYi00MGIzLWEzMzYtMTRlN2MwZmJlM2QxXkEyXkFqcGc@._V1_.jpg"
+       }
+      },
+      "characters": [
+       {
+        "name": "Theon Greyjoy"
+       }
+      ]
+     }
+    },
+    {
+     "node": {
+      "name": {
+       "id": "nm0384152",
+       "nameText": {
+        "text": "Conleth Hill"
+       },
+       "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BNDM3NDYyNDE5NV5BMl5BanBnXkFtZTcwNDIxNzQyOA@@._V1_.jpg"
+       }
+      },
+      "characters": [
+       {
+        "name": "Lord Varys"
+       }
+      ]
+     }
+    },
+    {
+     "node": {
+      "name": {
+       "id": "nm0192377",
+       "nameText": {
+        "text": "Liam Cunningham"
+       },
+       "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMjEyMDM0NzQ5NV5BMl5BanBnXkFtZTcwNDkyODQyNw@@._V1_.jpg"
+       }
+      },
+      "characters": [
+       {
+        "name": "Davos Seaworth"
+       }
+      ]
+     }
+    },
+    {
+     "node": {
+      "name": {
+       "id": "nm3729225",
+       "nameText": {
+        "text": "Gwendoline Christie"
+       },
+       "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMzA3MTcxMTMzM15BMl5BanBnXkFtZTcwMDI2MDg0Nw@@._V1_.jpg"
+       }
+      },
+      "characters": [
+       {
+        "name": "Brienne of Tarth"
+       }
+      ]
+     }
+    },
+    {
+     "node": {
+      "name": {
+       "id": "nm0318821",
+       "nameText": {
+        "text": "Aidan Gillen"
+       },
+       "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMjMwNzE4MzMxNl5BMl5BanBnXkFtZTgwOTYwMTEyMDE@._V1_.jpg"
+       }
+      },
+      "characters": [
+       {
+        "name": "Petyr 'Littlefinger' Baelish"
+       }
+      ]
+     }
+    },
+    {
+     "node": {
+      "name": {
+       "id": "nm3652842",
+       "nameText": {
+        "text": "Isaac Hempstead Wright"
+       },
+       "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMjE0MjM5MDkwMV5BMl5BanBnXkFtZTgwMTM0NzkwNTE@._V1_.jpg"
+       }
+      },
+      "characters": [
+       {
+        "name": "Bran Stark"
+       }
+      ]
+     }
+    },
+    {
+     "node": {
+      "name": {
+       "id": "nm0564920",
+       "nameText": {
+        "text": "Rory McCann"
+       },
+       "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMTA2NjM4MjUwMjFeQTJeQWpwZ15BbWU4MDk0MjkwODcz._V1_.jpg"
+       }
+      },
+      "characters": [
+       {
+        "name": "Sandor 'The Hound' Clegane"
+       }
+      ]
+     }
+    },
+    {
+     "node": {
+      "name": {
+       "id": "nm2812026",
+       "nameText": {
+        "text": "Nathalie Emmanuel"
+       },
+       "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BZDA2ZmE1YTUtYTczZi00MDIxLWE3YTQtZWYzNGI3YzIzM2Q1XkEyXkFqcGc@._V1_.jpg"
+       }
+      },
+      "characters": [
+       {
+        "name": "Missandei"
+       }
+      ]
+     }
+    },
+    {
+     "node": {
+      "name": {
+       "id": "nm0283492",
+       "nameText": {
+        "text": "Jerome Flynn"
+       },
+       "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMjMxMTE3Nzg1N15BMl5BanBnXkFtZTgwNTc2MTk4MjI@._V1_.jpg"
+       }
+      },
+      "characters": [
+       {
+        "name": "Bronn"
+       }
+      ]
+     }
+    },
+    {
+     "node": {
+      "name": {
+       "id": "nm4535552",
+       "nameText": {
+        "text": "Daniel Portman"
+       },
+       "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BMzU4OTE0YWQtYWZiZS00NjM1LTg3NmMtOTJkNDdkZDVjMmFiXkEyXkFqcGc@._V1_.jpg"
+       }
+      },
+      "characters": [
+       {
+        "name": "Podrick Payne"
+       }
+      ]
+     }
+    },
+    {
+     "node": {
+      "name": {
+       "id": "nm2760664",
+       "nameText": {
+        "text": "Jacob Anderson"
+       },
+       "primaryImage": {
+        "url": "https://m.media-amazon.com/images/M/MV5BYmI4ZmIyM2UtZTJiMy00NjlkLTg3NWItZWVjMjIzMjFkNDEzXkEyXkFqcGc@._V1_.jpg"
+       }
+      },
+      "characters": [
+       {
+        "name": "Grey Worm"
+       }
+      ]
+     }
+    }
+   ]
+  },
+  "productionBudget": null,
+  "lifetimeGross": null,
+  "openingWeekendGross": null,
+  "moreLikeThisTitles": {
+   "edges": [
+    {
+     "node": {
+      "id": "tt5180504",
+      "titleText": {
+       "text": "The Witcher"
+      },
+      "originalTitleText": {
+       "text": "The Witcher"
+      },
+      "titleType": {
+       "id": "tvSeries",
+       "text": "TV Series",
+       "canHaveEpisodes": true
+      },
+      "releaseYear": {
+       "year": 2019,
+       "endYear": null
+      },
+      "primaryImage": {
+       "url": "https://m.media-amazon.com/images/M/MV5BOTQzMzNmMzUtODgwNS00YTdhLTg5N2MtOWU1YTc4YWY3NjRlXkEyXkFqcGc@._V1_.jpg",
+       "width": 1200,
+       "height": 1500
+      },
+      "ratingsSummary": {
+       "aggregateRating": 7.8,
+       "voteCount": 624247
+      },
+      "runtime": {
+       "seconds": 3600
+      },
+      "plot": {
+       "plotText": {
+        "plainText": "Geralt of Rivia, a solitary monster hunter, struggles to find his place in a world where people often prove more wicked than beasts."
+       }
+      },
+      "titleGenres": {
+       "genres": [
+        {
+         "genre": {
+          "text": "Action"
+         }
+        },
+        {
+         "genre": {
+          "text": "Adventure"
+         }
+        },
+        {
+         "genre": {
+          "text": "Drama"
+         }
+        }
+       ]
+      }
+     }
+    },
+    {
+     "node": {
+      "id": "tt27497448",
+      "titleText": {
+       "text": "A Knight of the Seven Kingdoms"
+      },
+      "originalTitleText": {
+       "text": "A Knight of the Seven Kingdoms"
+      },
+      "titleType": {
+       "id": "tvSeries",
+       "text": "TV Series",
+       "canHaveEpisodes": true
+      },
+      "releaseYear": {
+       "year": 2026,
+       "endYear": null
+      },
+      "primaryImage": {
+       "url": "https://m.media-amazon.com/images/M/MV5BYzg4M2U3YWMtMWY4MS00MzFkLTk2ZWQtOThiOGYxZDEyMGQ2XkEyXkFqcGc@._V1_.jpg",
+       "width": 2560,
+       "height": 3840
+      },
+      "ratingsSummary": {
+       "aggregateRating": 8.6,
+       "voteCount": 279906
+      },
+      "runtime": {
+       "seconds": 3600
+      },
+      "plot": {
+       "plotText": {
+        "plainText": "A century before the events of \"Game of Thrones,\" Ser Duncan the Tall, and his squire, Egg, wander through Westeros while the Targaryen dynasty rule the Iron Throne. Great destinies and enemies await the incomparable friends."
+       }
+      },
+      "titleGenres": {
+       "genres": [
+        {
+         "genre": {
+          "text": "Adventure"
+         }
+        },
+        {
+         "genre": {
+          "text": "Drama"
+         }
+        },
+        {
+         "genre": {
+          "text": "Fantasy"
+         }
+        }
+       ]
+      }
+     }
+    },
+    {
+     "node": {
+      "id": "tt6905542",
+      "titleText": {
+       "text": "The Dark Crystal: Age of Resistance"
+      },
+      "originalTitleText": {
+       "text": "The Dark Crystal: Age of Resistance"
+      },
+      "titleType": {
+       "id": "tvSeries",
+       "text": "TV Series",
+       "canHaveEpisodes": true
+      },
+      "releaseYear": {
+       "year": 2019,
+       "endYear": 2019
+      },
+      "primaryImage": {
+       "url": "https://m.media-amazon.com/images/M/MV5BYzU4ODc0M2QtZmRiOC00Y2Q5LWI4NzctNDhhNzBlOGQyYjgyXkEyXkFqcGc@._V1_.jpg",
+       "width": 1500,
+       "height": 2222
+      },
+      "ratingsSummary": {
+       "aggregateRating": 8.4,
+       "voteCount": 29506
+      },
+      "runtime": null,
+      "plot": {
+       "plotText": {
+        "plainText": "Return to the world of Thra, where three Gelfling discover the horrifying secret behind the Skeksis' power, and set out to ignite the fires of rebellion and save their world."
+       }
+      },
+      "titleGenres": {
+       "genres": [
+        {
+         "genre": {
+          "text": "Adventure"
+         }
+        },
+        {
+         "genre": {
+          "text": "Family"
+         }
+        },
+        {
+         "genre": {
+          "text": "Fantasy"
+         }
+        }
+       ]
+      }
+     }
+    },
+    {
+     "node": {
+      "id": "tt7631058",
+      "titleText": {
+       "text": "The Lord of the Rings: The Rings of Power"
+      },
+      "originalTitleText": {
+       "text": "The Lord of the Rings: The Rings of Power"
+      },
+      "titleType": {
+       "id": "tvSeries",
+       "text": "TV Series",
+       "canHaveEpisodes": true
+      },
+      "releaseYear": {
+       "year": 2022,
+       "endYear": null
+      },
+      "primaryImage": {
+       "url": "https://m.media-amazon.com/images/M/MV5BMjlhYTk3ZGQtNjdlYi00NDQyLTgxZTEtMzk0OTU5OTRhNGZhXkEyXkFqcGc@._V1_.jpg",
+       "width": 1080,
+       "height": 1920
+      },
+      "ratingsSummary": {
+       "aggregateRating": 6.8,
+       "voteCount": 443739
+      },
+      "runtime": {
+       "seconds": 3600
+      },
+      "plot": {
+       "plotText": {
+        "plainText": "Epic drama set thousands of years before the events of J.R.R. Tolkien's 'The Hobbit' and 'The Lord of the Rings' follows an ensemble cast of characters, both familiar and new, as they confront the long-feared re-emergence of evil to Middle-earth."
+       }
+      },
+      "titleGenres": {
+       "genres": [
+        {
+         "genre": {
+          "text": "Action"
+         }
+        },
+        {
+         "genre": {
+          "text": "Adventure"
+         }
+        },
+        {
+         "genre": {
+          "text": "Drama"
+         }
+        }
+       ]
+      }
+     }
+    },
+    {
+     "node": {
+      "id": "tt1199099",
+      "titleText": {
+       "text": "Merlin"
+      },
+      "originalTitleText": {
+       "text": "Merlin"
+      },
+      "titleType": {
+       "id": "tvSeries",
+       "text": "TV Series",
+       "canHaveEpisodes": true
+      },
+      "releaseYear": {
+       "year": 2008,
+       "endYear": 2012
+      },
+      "primaryImage": {
+       "url": "https://m.media-amazon.com/images/M/MV5BNmI5NDgyZmQtNDc3YS00Mjg0LThmMzEtZjcyNzczOTJlYWY4XkEyXkFqcGc@._V1_.jpg",
+       "width": 3472,
+       "height": 5031
+      },
+      "ratingsSummary": {
+       "aggregateRating": 7.9,
+       "voteCount": 94477
+      },
+      "runtime": {
+       "seconds": 2700
+      },
+      "plot": {
+       "plotText": {
+        "plainText": "In a medieval kingdom where magic is punishable by death, young sorcerer Merlin, manservant to Prince Arthur and ward of the court physician, meets a dragon and finds he is a part of a great prophecy to bring about the golden age of Albion"
+       }
+      },
+      "titleGenres": {
+       "genres": [
+        {
+         "genre": {
+          "text": "Adventure"
+         }
+        },
+        {
+         "genre": {
+          "text": "Drama"
+         }
+        },
+        {
+         "genre": {
+          "text": "Fantasy"
+         }
+        }
+       ]
+      }
+     }
+    },
+    {
+     "node": {
+      "id": "tt9140554",
+      "titleText": {
+       "text": "Loki"
+      },
+      "originalTitleText": {
+       "text": "Loki"
+      },
+      "titleType": {
+       "id": "tvSeries",
+       "text": "TV Series",
+       "canHaveEpisodes": true
+      },
+      "releaseYear": {
+       "year": 2021,
+       "endYear": 2023
+      },
+      "primaryImage": {
+       "url": "https://m.media-amazon.com/images/M/MV5BYzA2YjM2ZWQtYTZhMS00OTI3LTlhYzQtZjBiZWZkMDdlNjA5XkEyXkFqcGc@._V1_.jpg",
+       "width": 864,
+       "height": 1280
+      },
+      "ratingsSummary": {
+       "aggregateRating": 8.2,
+       "voteCount": 483115
+      },
+      "runtime": {
+       "seconds": 3000
+      },
+      "plot": {
+       "plotText": {
+        "plainText": "The mercurial villain Loki resumes his role as the God of Mischief in a new series that takes place after the events of “Avengers: Endgame.”"
+       }
+      },
+      "titleGenres": {
+       "genres": [
+        {
+         "genre": {
+          "text": "Action"
+         }
+        },
+        {
+         "genre": {
+          "text": "Adventure"
+         }
+        },
+        {
+         "genre": {
+          "text": "Fantasy"
+         }
+        }
+       ]
+      }
+     }
+    },
+    {
+     "node": {
+      "id": "tt11737520",
+      "titleText": {
+       "text": "One Piece"
+      },
+      "originalTitleText": {
+       "text": "One Piece"
+      },
+      "titleType": {
+       "id": "tvSeries",
+       "text": "TV Series",
+       "canHaveEpisodes": true
+      },
+      "releaseYear": {
+       "year": 2023,
+       "endYear": null
+      },
+      "primaryImage": {
+       "url": "https://m.media-amazon.com/images/M/MV5BNDk5MDFlYjYtZjQ5ZS00ZjhkLWJkYmMtYzhmZjkyOWExY2M3XkEyXkFqcGc@._V1_.jpg",
+       "width": 1500,
+       "height": 2222
+      },
+      "ratingsSummary": {
+       "aggregateRating": 8.3,
+       "voteCount": 210433
+      },
+      "runtime": {
+       "seconds": 3600
+      },
+      "plot": {
+       "plotText": {
+        "plainText": "With his straw hat and ragtag crew, young pirate Monkey D. Luffy goes on an epic voyage for treasure."
+       }
+      },
+      "titleGenres": {
+       "genres": [
+        {
+         "genre": {
+          "text": "Action"
+         }
+        },
+        {
+         "genre": {
+          "text": "Adventure"
+         }
+        },
+        {
+         "genre": {
+          "text": "Comedy"
+         }
+        }
+       ]
+      }
+     }
+    },
+    {
+     "node": {
+      "id": "tt7462410",
+      "titleText": {
+       "text": "The Wheel of Time"
+      },
+      "originalTitleText": {
+       "text": "The Wheel of Time"
+      },
+      "titleType": {
+       "id": "tvSeries",
+       "text": "TV Series",
+       "canHaveEpisodes": true
+      },
+      "releaseYear": {
+       "year": 2021,
+       "endYear": 2025
+      },
+      "primaryImage": {
+       "url": "https://m.media-amazon.com/images/M/MV5BNmQ5Y2U2MWYtZDcyMi00YTk5LWEyYjItNTI3ODg4MTdlMjYwXkEyXkFqcGc@._V1_.jpg",
+       "width": 960,
+       "height": 1200
+      },
+      "ratingsSummary": {
+       "aggregateRating": 7.2,
+       "voteCount": 165513
+      },
+      "runtime": {
+       "seconds": 3600
+      },
+      "plot": {
+       "plotText": {
+        "plainText": "The lives of five young villagers change forever when a strange and powerful woman arrives, claiming one of them is the child of an ancient prophecy with the power to tip the balance between Light and Dark forever."
+       }
+      },
+      "titleGenres": {
+       "genres": [
+        {
+         "genre": {
+          "text": "Action"
+         }
+        },
+        {
+         "genre": {
+          "text": "Adventure"
+         }
+        },
+        {
+         "genre": {
+          "text": "Drama"
+         }
+        }
+       ]
+      }
+     }
+    },
+    {
+     "node": {
+      "id": "tt4574334",
+      "titleText": {
+       "text": "Stranger Things"
+      },
+      "originalTitleText": {
+       "text": "Stranger Things"
+      },
+      "titleType": {
+       "id": "tvSeries",
+       "text": "TV Series",
+       "canHaveEpisodes": true
+      },
+      "releaseYear": {
+       "year": 2016,
+       "endYear": 2025
+      },
+      "primaryImage": {
+       "url": "https://m.media-amazon.com/images/M/MV5BMjEzMDAxOTUyMV5BMl5BanBnXkFtZTgwNzAxMzYzOTE@._V1_.jpg",
+       "width": 510,
+       "height": 755
+      },
+      "ratingsSummary": {
+       "aggregateRating": 8.6,
+       "voteCount": 1732516
+      },
+      "runtime": {
+       "seconds": 3600
+      },
+      "plot": {
+       "plotText": {
+        "plainText": "In 1980s Indiana, a group of young friends witness supernatural forces and secret government exploits. As they search for answers, the children unravel a series of extraordinary mysteries."
+       }
+      },
+      "titleGenres": {
+       "genres": [
+        {
+         "genre": {
+          "text": "Drama"
+         }
+        },
+        {
+         "genre": {
+          "text": "Fantasy"
+         }
+        },
+        {
+         "genre": {
+          "text": "Horror"
+         }
+        }
+       ]
+      }
+     }
+    },
+    {
+     "node": {
+      "id": "tt11198330",
+      "titleText": {
+       "text": "House of the Dragon"
+      },
+      "originalTitleText": {
+       "text": "House of the Dragon"
+      },
+      "titleType": {
+       "id": "tvSeries",
+       "text": "TV Series",
+       "canHaveEpisodes": true
+      },
+      "releaseYear": {
+       "year": 2022,
+       "endYear": null
+      },
+      "primaryImage": {
+       "url": "https://m.media-amazon.com/images/M/MV5BOWU2ZDA0M2EtNWEyYy00MWUwLWI4NjAtYzkxMDFjYzZkNGFiXkEyXkFqcGc@._V1_.jpg",
+       "width": 3000,
+       "height": 3750
+      },
+      "ratingsSummary": {
+       "aggregateRating": 8.3,
+       "voteCount": 564881
+      },
+      "runtime": {
+       "seconds": 3600
+      },
+      "plot": {
+       "plotText": {
+        "plainText": "An internal succession war within House Targaryen at the height of its power, 172 years before the birth of Daenerys Targaryen."
+       }
+      },
+      "titleGenres": {
+       "genres": [
+        {
+         "genre": {
+          "text": "Action"
+         }
+        },
+        {
+         "genre": {
+          "text": "Adventure"
+         }
+        },
+        {
+         "genre": {
+          "text": "Drama"
+         }
+        }
+       ]
+      }
+     }
+    },
+    {
+     "node": {
+      "id": "tt8210856",
+      "titleText": {
+       "text": "Cursed"
+      },
+      "originalTitleText": {
+       "text": "Cursed"
+      },
+      "titleType": {
+       "id": "tvSeries",
+       "text": "TV Series",
+       "canHaveEpisodes": true
+      },
+      "releaseYear": {
+       "year": 2020,
+       "endYear": 2020
+      },
+      "primaryImage": {
+       "url": "https://m.media-amazon.com/images/M/MV5BMjkzMzI1NTItNTcxMi00YTQ0LTk3ZDAtYWQ4ZGYzNDc4OTgxXkEyXkFqcGc@._V1_.jpg",
+       "width": 675,
+       "height": 1000
+      },
+      "ratingsSummary": {
+       "aggregateRating": 6,
+       "voteCount": 35684
+      },
+      "runtime": {
+       "seconds": 3600
+      },
+      "plot": {
+       "plotText": {
+        "plainText": "A teenage sorceress named Nimue encounters a young Arthur on her quest to find a powerful and ancient sword."
+       }
+      },
+      "titleGenres": {
+       "genres": [
+        {
+         "genre": {
+          "text": "Adventure"
+         }
+        },
+        {
+         "genre": {
+          "text": "Drama"
+         }
+        },
+        {
+         "genre": {
+          "text": "Fantasy"
+         }
+        }
+       ]
+      }
+     }
+    },
+    {
+     "node": {
+      "id": "tt20859920",
+      "titleText": {
+       "text": "Alchemy of Souls"
+      },
+      "originalTitleText": {
+       "text": "Hwan Hon"
+      },
+      "titleType": {
+       "id": "tvSeries",
+       "text": "TV Series",
+       "canHaveEpisodes": true
+      },
+      "releaseYear": {
+       "year": 2022,
+       "endYear": 2023
+      },
+      "primaryImage": {
+       "url": "https://m.media-amazon.com/images/M/MV5BOGFhNGQzMWUtZWJhNi00NGZiLTg1MjEtMTQzZmU4Njg2MWRhXkEyXkFqcGc@._V1_.jpg",
+       "width": 900,
+       "height": 1297
+      },
+      "ratingsSummary": {
+       "aggregateRating": 8.7,
+       "voteCount": 30395
+      },
+      "runtime": {
+       "seconds": 4800
+      },
+      "plot": {
+       "plotText": {
+        "plainText": "Set in a fictional country called Daeho, it is about the love and growth of young mages as they overcome their twisted fates due to a forbidden magic spell known as the \"alchemy of souls\", which allows souls to switch bodies."
+       }
+      },
+      "titleGenres": {
+       "genres": [
+        {
+         "genre": {
+          "text": "Action"
+         }
+        },
+        {
+         "genre": {
+          "text": "Drama"
+         }
+        },
+        {
+         "genre": {
+          "text": "Fantasy"
+         }
+        }
+       ]
+      }
+     }
+    }
+   ]
+  },
+  "episodes": {
+   "isOngoing": false,
+   "displayableSeasons": {
+    "total": 8,
+    "edges": [
+     {
+      "node": {
+       "season": "1"
+      }
+     },
+     {
+      "node": {
+       "season": "2"
+      }
+     },
+     {
+      "node": {
+       "season": "3"
+      }
+     },
+     {
+      "node": {
+       "season": "4"
+      }
+     },
+     {
+      "node": {
+       "season": "5"
+      }
+     },
+     {
+      "node": {
+       "season": "6"
+      }
+     },
+     {
+      "node": {
+       "season": "7"
+      }
+     },
+     {
+      "node": {
+       "season": "8"
+      }
+     }
+    ]
+   },
+   "episodes": {
+    "total": 74
+   }
+  },
+  "countriesOfOrigin": {
+   "countries": [
+    {
+     "id": "US",
+     "text": "United States"
+    },
+    {
+     "id": "GB",
+     "text": "United Kingdom"
+    }
+   ]
+  },
+  "spokenLanguages": {
+   "spokenLanguages": [
+    {
+     "id": "en",
+     "text": "English"
+    }
+   ]
+  }
+ }
+}
