@@ -130,8 +130,8 @@ All 13 endpoints are now live at `http://localhost:8000`.
 
 The same API is published on RapidAPI, and its playground is the easiest place to try parameters and see raw responses. Once a request looks right, run it locally for **unlimited free** data.
 
-1. [Subscribe to the free plan](https://rapidapi.com/Chetan11dev/api/imdb255/pricing) — 1,000 calls/month, no credit card.
-2. [Try the endpoints in the playground](https://rapidapi.com/Chetan11dev/api/imdb255/playground/apiendpoint_ee818efa-c7bb-4e9e-b5ff-fe9d1e67ffa3) — every param is pre-filled, so you see real data in one click.
+1. [Subscribe to the free plan](https://rapidapi.com/OmkarCloud/api/imdb255/pricing) — 1,000 calls/month, no credit card.
+2. [Try the endpoints in the playground](https://rapidapi.com/OmkarCloud/api/imdb255/playground/apiendpoint_ee818efa-c7bb-4e9e-b5ff-fe9d1e67ffa3) — every param is pre-filled, so you see real data in one click.
 3. Copy the generated code and replace `https://imdb255.p.rapidapi.com` with `http://localhost:8000`. It will now run against your local API.
 
 ```python
@@ -164,7 +164,7 @@ You're a developer — we know how hard completing a project can be. So we offer
 
 ## ⭐ Love It? [Star It ⭐!](https://github.com/omkarcloud/imdb-scraper)
 
-Star the repo ⭐ and become a star hero!
+Star the repo ⭐ and become my star hero!
 
 It's just 1 click, but it means the world to me.
 
