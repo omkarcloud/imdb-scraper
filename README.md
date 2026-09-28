@@ -64,6 +64,14 @@ IMDb Scraper is a **free and open-source** scraper that gets you **unlimited** d
 
 ## 🚀 Unlimited Free IMDb Data — Get It in 60 Seconds
 
+> **👀 Don't want to install anything yet?** See the data quality for yourself first — live IMDb data in your browser in under a minute, no setup, no credit card.
+>
+> 1. [**Grab the free plan**](https://rapidapi.com/OmkarCloud/api/imdb255/pricing) — 1,000 free calls every month, no credit card.
+> 2. [**Open the playground**](https://rapidapi.com/OmkarCloud/api/imdb255/playground/apiendpoint_ee818efa-c7bb-4e9e-b5ff-fe9d1e67ffa3) — *Avengers: Endgame* is already filled in. Click **Test Endpoint** and see its rating, cast, box office and trailer in a second or two.
+> 3. **Try any movie, show or star you like** — all 13 endpoints are there, every one pre-filled.
+>
+> Love the data? Copy the ready-made Python, Node.js or cURL snippet straight into your project — or install it below for **unlimited free** data.
+
 1️⃣ Clone and install:
 ```bash
 git clone https://github.com/omkarcloud/imdb-scraper
