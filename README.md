@@ -115,7 +115,7 @@ Want to check the data before setting anything up? The same API is hosted on Rap
 2. [Open the playground](https://rapidapi.com/OmkarCloud/api/imdb255/playground/apiendpoint_ee818efa-c7bb-4e9e-b5ff-fe9d1e67ffa3) — Title Details is pre-filled with `tt4154796` (*Avengers: Endgame*). Click **Test Endpoint** to see the full response.
 3. Change the parameters or pick another endpoint. All 13 have working example values.
 
-The playground also generates the request code in Python, Node.js, cURL and other languages.
+Once you're happy with the data quality, run the open-source version above for **unlimited free** data.
 
 ## 📚 Endpoints
 
