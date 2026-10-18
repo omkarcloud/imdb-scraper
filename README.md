@@ -107,12 +107,12 @@ curl "http://localhost:8000/title/details?title_id=tt4154796"
 
 All 13 endpoints are now live at `http://localhost:8000`.
 
-## 👀 Try It Without Installing
+## ⚡ Try It in 60s Without Installing
 
 Want to check the data before setting anything up? The same API is hosted on RapidAPI.
 
 1. [Subscribe to the free plan](https://rapidapi.com/OmkarCloud/api/imdb255/pricing) — 1,000 calls/month, no credit card.
-2. [Open the playground](https://rapidapi.com/OmkarCloud/api/imdb255/playground/apiendpoint_ee818efa-c7bb-4e9e-b5ff-fe9d1e67ffa3) — Title Details is pre-filled with `tt4154796` (*Avengers: Endgame*). Click **Test Endpoint** to see the full response.
+2. [Open the playground](https://rapidapi.com/OmkarCloud/api/imdb255/playground/apiendpoint_ee818efa-c7bb-4e9e-b5ff-fe9d1e67ffa3). Click **Test Endpoint** to see data.
 3. Change the parameters or pick another endpoint. All 13 have working example values.
 
 Once you're happy with the data quality, run the open-source version above for **unlimited free** data.
