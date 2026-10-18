@@ -23,7 +23,8 @@ from imdb import fetch  # noqa: E402  (module import so tests can monkeypatch)
 TOP_CHART_SIZE = 250      # TOP_RATED_* charts are exactly 250 titles
 POPULAR_CHART_SIZE = 100  # MovieMeter/TVMeter/StarMeter published depth
 
-CHART_KINDS = sorted(queries.TITLE_CHARTS) + ["box-office", "popular-celebrities"]
+CHART_KINDS = ["top-movies", "top-tv", "popular-movies", "popular-tv",
+               "box-office", "popular-celebrities"]
 
 
 def get_title_chart(kind, country=None):

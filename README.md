@@ -130,8 +130,10 @@ Once you're happy with the data quality, run the open-source version above for *
 | Title Reviews | `/title/reviews` | User reviews with full text, 25 per page |
 | Title Episodes | `/title/episodes` | Season list, or one season's episodes with ratings |
 | Person Details | `/person/details` | Bio, StarMeter rank, full filmography |
-| Top 250 Movies / TV | `/charts/top-movies`, `/charts/top-tv` | All 250 in one call |
-| Most Popular Movies / TV | `/charts/popular-movies`, `/charts/popular-tv` | MovieMeter / TVMeter top 100 |
+| Top 250 Movies | `/charts/top-movies` | All 250 in one call |
+| Top 250 TV Shows | `/charts/top-tv` | All 250 in one call |
+| Most Popular Movies | `/charts/popular-movies` | MovieMeter top 100 |
+| Most Popular TV Shows | `/charts/popular-tv` | TVMeter top 100 |
 | Weekend Box Office | `/charts/box-office` | US top 10 with weekend and worldwide gross |
 | Popular Celebrities | `/charts/popular-celebrities` | StarMeter top 100 |
 
